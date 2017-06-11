@@ -1,0 +1,212 @@
+"aa" = (/turf,/area)
+"ab" = (/turf/Walls/W_Density_Opacity/Wall,/area/Block_Zone)
+"ac" = (/turf/Walls/W_Density_No_Opacity/Wall_2,/area)
+"ad" = (/turf/Walls/W_Density_No_Opacity/Wall_2,/obj/Other/DenseLoc,/turf/Objects/Street_Poles/Brown_Pole,/area)
+"ae" = (/turf/Objects/House_Props/Fan,/area)
+"af" = (/obj/Zombie_Spawn,/turf/Ground/Wood_Floor,/area)
+"ag" = (/turf/Ground/Wood_Floor,/turf/Objects/Street_Poles/Brown_Pole,/area)
+"ah" = (/turf/Ground/Wood_Floor,/area)
+"ai" = (/turf/Ground/Wood_Floor,/obj/Zombie_Spawn,/turf/Objects/Street_Poles/Brown_Pole,/area)
+"aj" = (/turf/Walls/W_Density_Opacity/Wall,/area)
+"ak" = (/turf/Walls/Wall_Over_Layer/Wall_3,/area/Block_Zone)
+"al" = (/turf/Walls/W_Density_No_Opacity/Wall_2,/turf/Objects/House_Props/Clock,/area/Lights_Darkness/dark)
+"am" = (/obj/Secured_Stuff/Switch{switch_number = 1},/turf/Walls/W_Density_No_Opacity/Wall_2,/area/Lights_Darkness/dark)
+"an" = (/obj/Pushable_tmp/Barricade2,/obj/Pushable_tmp/Barricade2,/turf/Walls/W_Density_No_Opacity/Wall_2,/area/Lights_Darkness/dark)
+"ao" = (/obj/Attackable/Secured_Stuff/Big_Doors/Secured_Door{switch_number = 1},/turf/Ground/Wood_Floor,/area)
+"ap" = (/obj/Attackable/Pushable_Obj/Destroyable/Barricade,/turf/Ground/Wood_Floor,/area/Lights_Darkness/dark)
+"aq" = (/mob/player/NPC/Mob/UCM,/turf/Ground/Wood_Floor,/area/Lights_Darkness/dark)
+"ar" = (/obj/Attackable/Door/Door2,/turf/Ground/Wood_Floor,/area/Lights_Darkness/dark)
+"as" = (/turf/Ground/Wood_Floor,/area/Lights_Darkness/dark)
+"at" = (/turf/Ground/Wood_Floor,/turf/Blood/BloodD,/turf/Blood/Gore10,/area/Lights_Darkness/dark)
+"au" = (/turf/Ground/Wood_Floor,/turf/Blood/Blood2,/turf/Blood/Dead_Teacher,/area/Lights_Darkness/dark)
+"av" = (/turf/Ground/Wood_Floor,/obj/Pickup/Items/gastanker,/turf/Blood/BloodF,/area/Lights_Darkness/dark)
+"aw" = (/turf/Ground/Wood_Floor,/turf/Blood/Blood1,/turf/Blood/Gore9,/turf/Blood/Gore12,/area/Lights_Darkness/dark)
+"ax" = (/turf/Ground/Tiled_Floor,/area/Lights_Darkness/dark)
+"ay" = (/obj/Attackable/Door/Door2,/turf/Ground/Tiled_Floor,/area/Lights_Darkness/dark)
+"az" = (/turf/Ground/Wood_Floor,/turf/Blood/BloodA,/turf/Blood/BloodD,/area/Lights_Darkness/dark)
+"aA" = (/turf/Ground/Wood_Floor,/turf/Blood/Blood2,/area/Lights_Darkness/dark)
+"aB" = (/turf/Ground/Wood_Floor,/turf/Blood/BloodF,/area/Lights_Darkness/dark)
+"aC" = (/turf/Ground/Wood_Floor,/obj/Attackable/Pushable_Obj/Destroyable/Barricade2,/turf/Blood/Blood1,/area/Lights_Darkness/dark)
+"aD" = (/obj/Pushable_tmp/Barricade2,/turf/Walls/W_Density_No_Opacity/Wall_2,/area)
+"aE" = (/obj/Attackable/Pushable_Obj/Destroyable/Barricade,/turf/Ground/Tiled_Floor,/area/Lights_Darkness/dark)
+"aF" = (/turf/Ground/Wood_Floor,/turf/Blood/BloodD,/area/Lights_Darkness/dark)
+"aG" = (/turf/Ground/Tiled_Floor,/area)
+"aH" = (/obj/obj_spawners/item,/obj/obj_spawners/item,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"aI" = (/turf/Ground/Tiled_Floor,/turf/Blood/BloodB,/area)
+"aJ" = (/turf/Walls/W_Density_No_Opacity/Wall_2,/turf/Objects/Pipes_2,/area/Lights_Darkness/dark)
+"aK" = (/turf/Objects/House_Props/Fan,/area/Lights_Darkness/dark)
+"aL" = (/turf/Walls/W_Density_No_Opacity/Wall_2,/area/Lights_Darkness/dark)
+"aM" = (/turf/Walls/W_Density_No_Opacity/Wall_2,/turf/Objects/House_Props/Picture,/area/Lights_Darkness/dark)
+"aN" = (/turf/Ground/Wood_Floor,/turf/Blood/BloodA,/area/Lights_Darkness/dark)
+"aO" = (/turf/Ground/Wood_Floor,/turf/Blood/Blood1,/area/Lights_Darkness/dark)
+"aP" = (/obj/obj_spawners/item,/obj/obj_spawners/item,/obj/obj_spawners/item,/obj/Pickup/Items/Grenade,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"aQ" = (/turf/Objects/House_Props/Shelfs/Shelf,/area)
+"aR" = (/turf/Ground/Tiled_Floor,/turf/Objects/Pipes_1,/area/Lights_Darkness/dark)
+"aS" = (/mob/player/NPC/Mob/SWAT,/turf/Ground/Tiled_Floor,/area/Lights_Darkness/dark)
+"aT" = (/turf/Ground/Tiled_Floor,/turf/Objects/Lab/Barrel_2,/area/Lights_Darkness/dark)
+"aU" = (/obj/obj_spawners/item,/turf/Objects/House_Props/Shelfs/Box,/area/Lights_Darkness/dark)
+"aV" = (/obj/Pickup/Items/gastanker,/turf/Objects/House_Props/Shelfs/Box,/area/Lights_Darkness/dark)
+"aW" = (/turf/Objects/House_Props/Shelfs/Box,/area/Lights_Darkness/dark)
+"aX" = (/obj/Pickup/Items/C4,/obj/Pickup/Items/C4,/obj/Pickup/Items/C4,/obj/Pickup/Items/C4,/obj/Pickup/Items/C4,/obj/Pickup/Items/C4,/obj/Pickup/Items/C4,/obj/Pickup/Items/C4,/obj/Pickup/Items/C4,/obj/Pickup/Items/C4,/obj/Pickup/Items/C4,/obj/Pickup/Items/C4,/turf/Objects/House_Props/Shelfs/Box,/area/Lights_Darkness/dark)
+"aY" = (/mob/player/NPC/Obj/MANNED_TURRET/MAN_1,/turf/Ground/Wood_Floor,/area/Lights_Darkness/dark)
+"aZ" = (/obj/Attackable/Pushable_Obj/Destroyable/Barricade2,/turf/Ground/Tiled_Floor,/area)
+"ba" = (/obj/Pickup/Items/Hammer,/turf/Objects/House_Props/Shelfs/Shelf,/area)
+"bb" = (/obj/Pickup/Items/TCure,/turf/Objects/House_Props/Shelfs/BlackShelf,/area/Lights_Darkness/dark)
+"bc" = (/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Tiled_Floor,/area/Lights_Darkness/dark)
+"bd" = (/turf/Ground/Tiled_Floor,/turf/Objects/House_Props/Shelfs/Box2,/turf/Blood/BloodD,/area/Lights_Darkness/dark)
+"be" = (/turf/Ground/Tiled_Floor,/turf/Objects/House_Props/Shelfs/Box2,/area/Lights_Darkness/dark)
+"bf" = (/obj/obj_spawners/weapon,/turf/Objects/House_Props/Shelfs/Box,/area/Lights_Darkness/dark)
+"bg" = (/obj/Pushable_tmp/Barricade2,/obj/Pushable_tmp/Barricade2,/obj/Pushable_tmp/Barricade2,/obj/Pushable_tmp/Barricade2,/turf/Objects/House_Props/Shelfs/Box,/area/Lights_Darkness/dark)
+"bh" = (/turf/Ground/Wood_Floor,/turf/Blood/BloodA,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Blood/BloodD,/area/Lights_Darkness/dark)
+"bi" = (/turf/Walls/Wall_Over_Layer/Wall_3,/area)
+"bj" = (/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Ground/Tiled_Floor,/area/Lights_Darkness/dark)
+"bk" = (/turf/Ground/Tiled_Floor,/obj/Pickup/Items/gastanker,/obj/Pickup/Items/gastanker,/turf/Objects/Table/Table,/area/Lights_Darkness/dark)
+"bl" = (/turf/Ground/Tiled_Floor,/obj/obj_spawners/weapon,/turf/Objects/Table/Table_2,/area/Lights_Darkness/dark)
+"bm" = (/turf/Ground/Tiled_Floor,/turf/Blood/BloodD,/area/Lights_Darkness/dark)
+"bn" = (/turf/Ground/Wood_Floor,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Blood/BloodD,/area/Lights_Darkness/dark)
+"bo" = (/turf/Ground/Wood_Floor,/turf/Locations/Mayham_Start,/area/Lights_Darkness/dark)
+"bp" = (/turf/Objects/House_Props/Fan,/obj/Other/DenseLoc,/turf/Blood/BloodA,/area/Lights_Darkness/dark)
+"bq" = (/obj/Attackable/Windows/Window3,/turf/Ground/Tiled_Floor,/area/Lights_Darkness/dark)
+"br" = (/turf/Objects/House_Props/Fan,/turf/Blood/BloodA,/obj/Other/DenseLoc,/turf/Blood/Gore10,/area/Lights_Darkness/dark)
+"bs" = (/turf/Walls/W_Density_No_Opacity/Wall_2,/obj/Other/DenseLoc,/turf/Objects/Pipes_1,/area/Lights_Darkness/dark)
+"bt" = (/turf/Walls/W_Density_No_Opacity/Wall_2,/turf/Objects/Pipes_2,/obj/Other/DenseLoc,/turf/Blood/BloodB,/area/Lights_Darkness/dark)
+"bu" = (/mob/player/NPC/Obj/sentry_turret,/turf/Ground/Tiled_Floor,/area/Lights_Darkness/dark)
+"bv" = (/turf/Ground/Tiled_Floor,/turf/Objects/Table/Table_3,/area/Lights_Darkness/dark)
+"bw" = (/turf/Ground/Tiled_Floor,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Objects/Table/Table_4,/area/Lights_Darkness/dark)
+"bx" = (/turf/Ground/Tiled_Floor,/turf/Blood/BloodA,/area/Lights_Darkness/dark)
+"by" = (/turf/Ground/Tiled_Floor,/turf/Blood/Gore10,/area/Lights_Darkness/dark)
+"bz" = (/turf/Ground/Tiled_Floor,/turf/Blood/BloodA,/turf/Blood/Blood1,/turf/Blood/BloodD,/area/Lights_Darkness/dark)
+"bA" = (/turf/Ground/Tiled_Floor,/turf/Objects/Lab/Barrel_1,/obj/Other/DenseLoc,/turf/Blood/BloodB,/area/Lights_Darkness/dark)
+"bB" = (/turf/Ground/Tiled_Floor,/turf/Objects/Pipes_1,/obj/Other/DenseLoc,/turf/Blood/BloodB,/area/Lights_Darkness/dark)
+"bC" = (/turf/Ground/Tiled_Floor,/obj/obj_spawners/item,/turf/Objects/Table/Table,/area/Lights_Darkness/dark)
+"bD" = (/turf/Ground/Tiled_Floor,/turf/Objects/Table/Table_2,/area/Lights_Darkness/dark)
+"bE" = (/obj/Attackable/Windows/Window3,/turf/Ground/Wood_Floor,/area/Lights_Darkness/dark)
+"bF" = (/turf/Ground/Tiled_Floor,/turf/Blood/BloodB,/turf/Blood/BloodD,/turf/Blood/BloodI,/turf/Blood/Blood4,/area/Lights_Darkness/dark)
+"bG" = (/turf/Ground/Tiled_Floor,/turf/Blood/BloodB,/turf/Blood/BloodD,/turf/Blood/Blood4,/turf/Blood/Gore10,/area/Lights_Darkness/dark)
+"bH" = (/turf/Ground/Tiled_Floor,/turf/Blood/BloodA,/turf/Blood/Blood4,/area/Lights_Darkness/dark)
+"bI" = (/turf/Ground/Tiled_Floor,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Blood/Blood4,/area/Lights_Darkness/dark)
+"bJ" = (/turf/Ground/Tiled_Floor,/turf/Blood/Gore7,/area/Lights_Darkness/dark)
+"bK" = (/turf/Ground/Tiled_Floor,/turf/Objects/Table/Table_4,/area/Lights_Darkness/dark)
+"bL" = (/mob/player/NPC/Mob/UCM{tag = "icon-normal (EAST)"; icon_state = "normal"; dir = 4},/turf/Ground/Tiled_Floor,/area/Lights_Darkness/dark)
+"bM" = (/turf/Ground/Tiled_Floor,/obj/Other/DenseLoc,/turf/Objects/Lab/Barrel_2,/area/Lights_Darkness/dark)
+"bN" = (/obj/Pickup/Items/gastanker,/turf/Ground/Tiled_Floor,/area)
+"bO" = (/turf/Objects/House_Props/Shelfs/Shelf,/obj/obj_spawners/item,/obj/Other/DenseLoc,/turf/Blood/BloodB,/area/Lights_Darkness/dark)
+"bP" = (/obj/Pickup/Items/Turret,/obj/Pickup/Items/Turret,/obj/Other/DenseLoc,/turf/Objects/House_Props/Shelfs/Shelf,/area/Lights_Darkness/dark)
+"bQ" = (/turf/Ground/Tiled_Floor,/turf/Objects/Lab/Barrel_1,/area/Lights_Darkness/dark)
+"bR" = (/obj/obj_spawners/item,/turf/Objects/House_Props/Shelfs/BlackShelf,/area/Lights_Darkness/dark)
+"bS" = (/turf/Walls/W_Density_No_Opacity/Wall_2,/turf/Objects/House_Props/Picture,/area)
+"bT" = (/obj/Attackable/Windows/Window3,/turf/Ground/Tiled_Floor,/area)
+"bU" = (/turf/Walls/W_Density_No_Opacity/Wall_2,/obj/Other/DenseLoc,/turf/Objects/House_Props/Plants/Plant/Plant_2,/area)
+"bV" = (/turf/Walls/W_Density_No_Opacity/Wall_2,/turf/Objects/Pipes_2,/area)
+"bW" = (/obj/Pickup/Items/Ammo_Heavy_Machinegun,/turf/Objects/House_Props/Shelfs/BlackShelf,/area/Lights_Darkness/dark)
+"bX" = (/obj/Attackable/Door/Door2,/turf/Ground/Wood_Floor,/area)
+"bY" = (/turf/Ground/Tiled_Floor,/turf/Objects/House_Props/Plants/Plant/Plant,/area)
+"bZ" = (/turf/Ground/Tiled_Floor,/turf/Objects/Pipes_1,/area)
+"ca" = (/turf/Ground/Wood_Floor,/obj/Pickup/Items/Ammo_Sniper,/turf/Blood/Blood1,/area/Lights_Darkness/dark)
+"cb" = (/turf/Ground/Tiled_Floor,/turf/Blood/Blood1,/area)
+"cc" = (/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Ground/Tiled_Floor,/area)
+"cd" = (/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Tiled_Floor,/area)
+"ce" = (/obj/obj_spawners/item,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"cf" = (/obj/obj_spawners/weapon,/obj/Pickup/Items/Grenade,/obj/Pickup/Items/Grenade,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"cg" = (/obj/Pickup/Items/Grenade,/turf/Objects/House_Props/Shelfs/Shelf,/area)
+"ch" = (/obj/Pickup/Guns/FiftyCaliber,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"ci" = (/mob/player/NPC/Obj/sentry_turret,/turf/Ground/Tiled_Floor,/area)
+"cj" = (/turf/Objects/School/Lockers/Locker_3,/area)
+"ck" = (/turf/Objects/School/Lockers/Locker_4,/area)
+"cl" = (/turf/Walls/W_Density_No_Opacity/Wall_2,/turf/Objects/School/Lockers/Locker_5,/area)
+"cm" = (/turf/Walls/W_Density_No_Opacity/Wall_2,/turf/Objects/Pipes_1,/area)
+"cn" = (/obj/Attackable/Door/Door2,/turf/Ground/Tiled_Floor,/area)
+"co" = (/obj/Pickup/Guns/VP07,/turf/Walls/W_Density_No_Opacity/Wall_2,/area)
+"cp" = (/turf/Walls/W_Density_No_Opacity/Wall_2,/turf/Objects/House_Props/Clock,/area)
+"cq" = (/turf/Walls/W_Density_No_Opacity/Wall_2,/turf/Objects/House_Props/Juke_Box,/area)
+"cr" = (/obj/obj_spawners/item,/turf/Objects/House_Props/Shelfs/Shelf,/area)
+"cs" = (/mob/player/NPC/Mob/SWAT{tag = "icon-normal (WEST)"; icon_state = "normal"; dir = 8},/turf/Ground/Tiled_Floor,/area)
+"ct" = (/turf/Objects/House_Props/Shelfs/Box,/area)
+"cu" = (/obj/obj_spawners/item,/turf/Objects/House_Props/Shelfs/Box,/area)
+"cv" = (/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"cw" = (/mob/player/NPC/Obj/MANNED_TURRET/MAN_1,/turf/Ground/Tiled_Floor,/area)
+"cx" = (/turf/Ground/Tiled_Floor,/turf/Blood/Gore7,/area)
+"cy" = (/turf/Ground/Tiled_Floor,/turf/Objects/House_Props/Juke_Box_2,/area)
+"cz" = (/turf/Ground/Wood_Floor,/turf/Blood/BloodD,/turf/Blood/Gore9,/area/Lights_Darkness/dark)
+"cA" = (/obj/Pickup/Items/Hammer,/obj/Pickup/Items/Hammer,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"cB" = (/obj/Pickup/Items/Spray,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"cC" = (/turf/Ground/Tiled_Floor,/turf/Objects/House_Props/Shelfs/Box2,/area)
+"cD" = (/obj/Pickup/Items/Ammo_Sniper,/turf/Ground/Tiled_Floor,/area)
+"cE" = (/obj/Pickup/Items/Grenade,/obj/Pickup/Items/Grenade,/obj/Pickup/Items/Grenade,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"cF" = (/turf/Ground/Tiled_Floor,/turf/Locations/Blue,/turf/Blood/BloodB,/area)
+"cG" = (/turf/Ground/Tiled_Floor,/turf/Blood/BloodA,/area)
+"cH" = (/turf/Ground/Tiled_Floor,/turf/Blood/Blood4,/area)
+"cI" = (/turf/Ground/Tiled_Floor,/turf/Blood/Blood1,/turf/Blood/BloodB,/turf/Blood/Blood4,/area)
+"cJ" = (/obj/obj_spawners/item,/obj/Pickup/Items/Grenade,/turf/Objects/House_Props/Shelfs/Shelf,/area)
+"cK" = (/turf/Ground/Tiled_Floor,/turf/Objects/Table/Table,/area)
+"cL" = (/turf/Ground/Tiled_Floor,/turf/Objects/Table/Table_2,/area)
+"cM" = (/turf/Ground/Tiled_Floor,/obj/obj_spawners/item,/turf/Objects/Table/Table,/area)
+"cN" = (/turf/Ground/Tiled_Floor,/obj/Pickup/Items/Grenade,/turf/Objects/Table/Table_2,/area)
+"cO" = (/turf/Ground/Tiled_Floor,/turf/Blood/Blood1,/turf/Blood/Blood4,/area)
+"cP" = (/turf/Ground/Tiled_Floor,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Objects/Table/Table_3,/area)
+"cQ" = (/turf/Ground/Tiled_Floor,/obj/Attackable/Pushable_Obj/Destroyable/Barricade,/turf/Objects/Table/Table_4,/area)
+"cR" = (/turf/Ground/Tiled_Floor,/turf/Objects/Table/Table_3,/area)
+"cS" = (/turf/Ground/Tiled_Floor,/turf/Objects/Table/Table_4,/area)
+"cT" = (/mob/player/NPC/Mob/UCM{tag = "icon-normal (EAST)"; icon_state = "normal"; dir = 4},/turf/Ground/Tiled_Floor,/area)
+"cU" = (/turf/Ground/Tiled_Floor,/turf/Objects/House_Props/Piano/Piano_3,/area)
+"cV" = (/turf/Ground/Tiled_Floor,/turf/Objects/House_Props/Piano/Piano,/area)
+"cW" = (/turf/Ground/Tiled_Floor,/turf/Locations/Red,/area)
+"cX" = (/obj/Attackable/Pushable_Obj/Destroyable/Barricade,/turf/Ground/Tiled_Floor,/area)
+"cY" = (/turf/Ground/Tiled_Floor,/turf/Blood/Gore6,/area)
+"cZ" = (/obj/Pickup/Items/Ammo_Acid,/turf/Ground/Tiled_Floor,/area)
+"da" = (/turf/Ground/Tiled_Floor,/turf/Objects/House_Props/Piano/Piano_4,/area)
+"db" = (/turf/Ground/Tiled_Floor,/turf/Objects/House_Props/Piano/Piano_2,/area)
+"dc" = (/obj/Pickup/Items/Ammo_Shotgun,/turf/Ground/Tiled_Floor,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabacadacacacadaeacabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabafagafahafagafahabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabahaiahafahaiahafabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabafagafahafagafahabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabahaiahafahaiahafabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaajabababakakakakakakabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaajajajajajalamanaoaoaoaoaoaoajaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaajacacacajapaqarasatauavasawajajajajajajaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaajaxaxaxayasasajasazaAaBasaCajacacaDaDajaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaajajaEaEajajajajajajaFaAasasaCajaGaHaIaGajaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaajaJaxaxaKaKaLaLaMajaFaAasaNaOajaGaPaGaQajaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaajaRaSaxaTaUaVaWaXajaFasaYasaOaraGaZaGbaajaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaajbbaxbcbcbdbebfbgajbhasasasaOajajbiajajajajaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaajbjbkblaxbmaxbebeajbnasboasaOajbpbqbrbsbtajaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaajbubvbwaxbxaxaxaxajaFaNasaNaOarbybzbmbAbBajaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaajaxbCbDaxbxaxaxaxbEaFasasasaOarbFbzbGbHbIajaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaajbJbvbKaxaxaxbLaxaraFasasasaOajbJbMbNbObPajaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaajbQaxaxaxbRaxaxbybEaFasasasaOajajajbiajajajajajaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaajaxaxaxaxaxaxaxaxajaFasasasaOajacbSbTaebUbVbUajaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaajaTaxaxaxaxbWaxaxajaFasaNasaObXaGaGaGaGbYbZbYajaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaajaTaxaxaxaxaxaxbQajaFasasascabXaGaGcbaGcccccdajaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaajaxaxaxaxaxaxaxbQajazasasasasajaGaGcecfcgceaGajaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaajajajajajajajajajbibiajajajajaFasasasasajaGaIchciaGaGaGajaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaajcjckclcmbVacaebScncncocpcqajaFasasaNasajaGaGcrcsaIaGaGajaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaajaGaGctcubZcvcwaGaGaGaGcxcyajczasasasasajaZaGcAaGaGaGcBajaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaajaGaGcCcCaGaGaGaIaGaGaGaGcDajajajbibiajajaZcbcEaGaGcFaHajaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaajaGcdaGaGaGaGaGaGaGcGaGaGaGbVacaccncnbSajcHcIcJaGaGaGaHajaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaajaGaGcKcLcMcLcKcNcBaGaGaIaGbZaQcOaGaGaGajaGaGcraGaGaGaGajaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaajaGaGcPcQcRcScRcScecccGaGaGaGaGcbaGcTaGcnaGaGaQaGaGaGaGajaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaajaGaGcUcVaGcWaGaGcXccaGaGcYaGaGcbaGaIcZcnaGaGcvcvcrcvaGajaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaajaGaGdadbcGaGaGcGcXcdaGaGaGaGaGcOaGaGaGajaGaGaGaGaGdcdcajaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaajajajajajajajajajajajajajajajajajajajajajajajajajajajajajaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaacacacacacacacacacacacacacacacacacacacacacacacacacacacacacaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

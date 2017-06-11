@@ -1,0 +1,259 @@
+"aa" = (/obj/Zombie_Spawn,/turf/Ground/Grass,/area/Lights_Darkness/darkest)
+"ab" = (/turf/Ground/Grass,/area/Lights_Darkness/darkest)
+"ac" = (/turf/Ground/Grass,/area/Block_Zone)
+"ad" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_6,/area/Lights_Darkness/darkest)
+"ae" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_5,/area/Lights_Darkness/darkest)
+"af" = (/turf/Ground/Grass,/turf/Objects/Junk/Paper2,/area/Lights_Darkness/darkest)
+"ag" = (/turf/Ground/Grass,/turf/Objects/House_Props/Plants/Plant/Plant_2,/area/Lights_Darkness/darkest)
+"ah" = (/turf/Ground/Dirt,/area/Lights_Darkness/darkest)
+"ai" = (/turf/Ground/Grass,/turf/Objects/Grave_Stuff/Grave_1,/area/Lights_Darkness/darkest)
+"aj" = (/turf/Ground/Grass,/turf/Objects/Grave_Stuff/Grave_2,/area/Lights_Darkness/darkest)
+"ak" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_3,/area/Lights_Darkness/darkest)
+"al" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_4,/area/Lights_Darkness/darkest)
+"am" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_1,/area/Lights_Darkness/darkest)
+"an" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_2,/area/Lights_Darkness/darkest)
+"ao" = (/turf/Ground/Grass,/turf/Objects/Junk/Paper,/area/Lights_Darkness/darkest)
+"ap" = (/turf/Ground/Grass,/turf/Objects/Grave_Stuff/Grave_1,/area/Block_Zone)
+"aq" = (/turf/Ground/Dirt,/area/Block_Zone)
+"ar" = (/turf/Ground/Dirt,/turf/Objects/Junk/Paper2,/area/Lights_Darkness/darkest)
+"as" = (/turf/Ground/Grass,/area/Lights_Darkness/darker)
+"at" = (/turf/Ground/Grass,/turf/Objects/Junk/Paper,/area/Lights_Darkness/darker)
+"au" = (/turf/Ground/Grass,/turf/Objects/Junk/Paper2,/area/Lights_Darkness/darker)
+"av" = (/turf/Ground/Dirt,/turf/Objects/Junk/Paper,/area/Lights_Darkness/darkest)
+"aw" = (/turf/Ground/Grass,/turf/Objects/Junk/Paper2,/area/Lights_Darkness/dark)
+"ax" = (/turf/Ground/Grass,/area/Lights_Darkness/dark)
+"ay" = (/turf/Ground/Grass,/turf/Objects/Junk/Paper,/area/Lights_Darkness/dark)
+"az" = (/turf/Ground/Dirt,/area/Lights_Darkness/darker)
+"aA" = (/turf/Walls/W_Density_Opacity/Wall_10,/area)
+"aB" = (/turf/Walls/W_Density_No_Opacity/Wall_22,/area)
+"aC" = (/turf/Ground/Grass,/turf/Blood/BloodD,/turf/Blood/BloodC,/turf/Blood/Dead_Teacher,/area/Lights_Darkness/darkest)
+"aD" = (/obj/Pickup/Items/Ammo_Light_Machinegun,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"aE" = (/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"aF" = (/obj/Pickup/Guns/MP5,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"aG" = (/obj/Pickup/Items/Land_Mine,/obj/Pickup/Items/Land_Mine,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"aH" = (/turf/Ground/CheckeredFloor,/turf/Objects/Lab/Barrel_1,/area)
+"aI" = (/turf/Ground/CheckeredFloor,/area)
+"aJ" = (/turf/Ground/CheckeredFloor,/turf/Objects/Junk/Paper2,/area)
+"aK" = (/obj/Attackable/Windows/Window,/turf/Ground/CheckeredFloor,/area)
+"aL" = (/turf/Ground/Grass,/turf/Blood/BloodD,/turf/Blood/BloodC,/area/Lights_Darkness/darkest)
+"aM" = (/turf/Ground/CheckeredFloor,/turf/Objects/Lab/Barrel_2,/area)
+"aN" = (/mob/player/NPC/Mob/UCM,/turf/Ground/CheckeredFloor,/area)
+"aO" = (/obj/Attackable/Pushable_Obj/Destroyable/Barricade,/turf/Ground/CheckeredFloor,/area)
+"aP" = (/turf/Ground/Dirt,/area/Lights_Darkness/dark)
+"aQ" = (/turf/Ground/Dirt,/turf/Objects/Junk/Paper,/area/Lights_Darkness/darker)
+"aR" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_6,/area/Lights_Darkness/darker)
+"aS" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_5,/area/Lights_Darkness/darker)
+"aT" = (/obj/Pickup/Items/Spray,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"aU" = (/obj/Attackable/Door/Door1/Horizontal,/turf/Ground/CheckeredFloor,/area)
+"aV" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_3,/area/Lights_Darkness/darker)
+"aW" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_4,/area/Lights_Darkness/darker)
+"aX" = (/turf/Ground/CheckeredFloor,/turf/Locations/Mayham_Start,/area)
+"aY" = (/turf/Ground/CheckeredFloor,/turf/Objects/Junk/Paper,/area)
+"aZ" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_1,/area/Lights_Darkness/darker)
+"ba" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_2,/area/Lights_Darkness/darker)
+"bb" = (/turf/Ground/Grass,/turf/Blood/BloodD,/turf/Blood/BloodI,/turf/Blood/Gore8,/turf/Blood/BloodC,/turf/Blood/BloodA,/area/Lights_Darkness/darkest)
+"bc" = (/turf/Ground/Grass,/turf/Blood/BloodI,/turf/Blood/BloodA,/area/Lights_Darkness/darkest)
+"bd" = (/turf/Ground/Dirt,/turf/Objects/Junk/Paper2,/area/Lights_Darkness/darker)
+"be" = (/turf/Walls/W_Density_Opacity/Wall_10{density = 0; layer = 5},/area)
+"bf" = (/turf/Walls/Wall_Over_Layer/Wall_5,/area)
+"bg" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_6,/area/Lights_Darkness/dark)
+"bh" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_3,/area/Lights_Darkness/dark)
+"bi" = (/turf/Ground/Dirt,/area)
+"bj" = (/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/WoodenFloor,/area)
+"bk" = (/turf/Ground/WoodenFloor,/area)
+"bl" = (/obj/Attackable/Destructable_Obj/Chainlink_Fence/WEST,/turf/Ground/Grass,/area/Lights_Darkness/dark)
+"bm" = (/obj/Attackable/Windows/Window,/turf/Ground/Grass,/area)
+"bn" = (/turf/Objects/House_Props/Fan,/area)
+"bo" = (/obj/Attackable/Destructable_Obj/Chainlink_Fence/WEST,/turf/Ground/Dirt,/area/Lights_Darkness/dark)
+"bp" = (/turf/Ground/CheckeredFloor,/turf/Objects/Street_Poles/Street_Pole_8,/area)
+"bq" = (/turf/Ground/CheckeredFloor,/turf/Objects/Street_Poles/Street_Pole_7,/area)
+"br" = (/turf/Walls/W_Density_No_Opacity/Wall_22,/turf/Objects/Pipes_1,/area)
+"bs" = (/turf/Objects/School/Lockers/Locker_3,/area)
+"bt" = (/turf/Objects/School/Lockers/Locker_4,/area)
+"bu" = (/turf/Walls/W_Density_No_Opacity/Wall_22,/turf/Objects/School/Lockers/Locker_5,/area)
+"bv" = (/turf/Ground/WoodenFloor,/turf/Objects/House_Props/Plants/Plant/Plant_2,/area)
+"bw" = (/turf/Ground/CheckeredFloor,/turf/Locations/Red,/area)
+"bx" = (/turf/Ground/WoodenFloor,/turf/Objects/House_Props/Plants/Plant/Plant,/turf/Objects/House_Props/Plants/Plant/Plant_2,/area)
+"by" = (/turf/Ground/CheckeredFloor,/turf/Objects/School/Lockers/Locker_6,/area)
+"bz" = (/turf/Ground/CheckeredFloor,/turf/Objects/School/Lockers/Locker_7,/area)
+"bA" = (/turf/Ground/CheckeredFloor,/turf/Objects/School/Lockers/Locker_8,/area)
+"bB" = (/obj/Attackable/Pushable_Obj/Destroyable/Barricade,/turf/Ground/WoodenFloor,/area)
+"bC" = (/turf/Ground/WoodenFloor,/turf/Objects/House_Props/Plants/Plant/Plant,/area)
+"bD" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_1,/area/Lights_Darkness/dark)
+"bE" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_2,/area/Lights_Darkness/dark)
+"bF" = (/turf/Ground/Dirt,/turf/Objects/Junk/Paper,/area/Lights_Darkness/dark)
+"bG" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_5,/area/Lights_Darkness/dark)
+"bH" = (/mob/player/NPC/Mob/UCM,/turf/Ground/WoodenFloor,/area)
+"bI" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_4,/area/Lights_Darkness/dark)
+"bJ" = (/turf/Ground/Grass,/turf/Blood/BloodD,/turf/Blood/BloodB,/turf/Blood/Dead_Teacher,/turf/Blood/BloodC,/area/Lights_Darkness/dark)
+"bK" = (/obj/Attackable/Door/Door1/Vertical,/turf/Ground/Grass,/area)
+"bL" = (/turf/Ground/Grass,/turf/Blood/BloodI,/turf/Blood/BloodH,/turf/Blood/BloodB,/turf/Blood/BloodA,/area/Lights_Darkness/dark)
+"bM" = (/turf/Ground/Grass,/turf/Blood/BloodI,/turf/Blood/BloodA,/area/Lights_Darkness/dark)
+"bN" = (/turf/Ground/Grass,/turf/Blood/BloodI,/turf/Blood/BloodA,/turf/Blood/Gore11,/area/Lights_Darkness/dark)
+"bO" = (/turf/Ground/Grass,/turf/Blood/BloodD,/turf/Blood/BloodI,/turf/Blood/BloodB,/turf/Blood/BloodA,/area/Lights_Darkness/dark)
+"bP" = (/turf/Ground/Dirt,/turf/Objects/Junk/Paper2,/area/Lights_Darkness/dark)
+"bQ" = (/turf/Ground/Grass,/turf/Blood/BloodH,/turf/Blood/BloodB,/area/Lights_Darkness/dark)
+"bR" = (/turf/Walls/W_Density_No_Opacity/Wall_22,/area/Lights_Darkness/darker)
+"bS" = (/obj/Attackable/Windows/Window,/turf/Ground/CheckeredFloor,/area/Lights_Darkness/dark)
+"bT" = (/turf/Walls/W_Density_No_Opacity/Wall_22,/area/Lights_Darkness/dark)
+"bU" = (/obj/Attackable/Door/Door1/Vertical,/turf/Ground/CheckeredFloor,/area)
+"bV" = (/turf/Walls/W_Density_Opacity/Wall_10,/area/Lights_Darkness/dark)
+"bW" = (/turf/Walls/W_Density_Opacity/Wall_10{density = 0; layer = 5},/area/Lights_Darkness/dark)
+"bX" = (/turf/Walls/Wall_Over_Layer/Wall_5,/area/Lights_Darkness/dark)
+"bY" = (/obj/Attackable/Destructable_Obj/Chainlink_Fence/WEST,/turf/Ground/WoodenFloor,/area)
+"bZ" = (/turf/Walls/W_Density_No_Opacity/Wall_22,/turf/Objects/Pipes_2,/area)
+"ca" = (/turf/Ground/Wodd_Floor_Laminated,/area)
+"cb" = (/obj/Pickup/Items/Ammo_Heavy_Machinegun,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"cc" = (/turf/Ground/CheckeredFloor,/turf/Objects/House_Props/Coffie_Table/Coffie_Table,/area)
+"cd" = (/obj/Pickup/Items/C4,/turf/Walls/W_Density_Opacity/Wall_10,/area)
+"ce" = (/turf/Objects/House_Props/Coffie_Table/Coffie_Table_2,/area)
+"cf" = (/turf/Objects/House_Props/Cupboard/Cupboard_6,/area)
+"cg" = (/turf/Walls/W_Density_No_Opacity/Wall_22,/turf/Objects/School/Lockers/Locker_5,/obj/Other/DenseLoc,/turf/Objects/Street_Poles/Street_Pole_5,/area)
+"ch" = (/turf/Walls/W_Density_No_Opacity/Wall_22,/obj/Other/DenseLoc,/turf/Objects/Street_Poles/Street_Pole_5,/area)
+"ci" = (/turf/Ground/CheckeredFloor,/turf/Objects/House_Props/Coffie_Table/Coffie_Table_3,/area)
+"cj" = (/obj/Attackable/Destructable_Obj/Chainlink_Fence/SOUTHEAST,/turf/Ground/WoodenFloor,/area)
+"ck" = (/turf/Ground/CheckeredFloor,/turf/Objects/Street_Poles/Street_Pole_5,/area)
+"cl" = (/mob/player/NPC/Obj/MANNED_TURRET/MAN_1,/turf/Ground/Wodd_Floor_Laminated,/area)
+"cm" = (/obj/Pickup/Guns/Assualt_Rifle,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"cn" = (/obj/Pickup/Items/Land_Mine,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"co" = (/turf/Ground/CheckeredFloor,/turf/Objects/School/Lockers/Locker_2,/area)
+"cp" = (/turf/Ground/Wodd_Floor_Laminated,/turf/Objects/Street_Poles/Street_Pole_8,/area)
+"cq" = (/turf/Ground/Wodd_Floor_Laminated,/turf/Objects/Street_Poles/Street_Pole_7,/area)
+"cr" = (/turf/Ground/CheckeredFloor,/turf/Objects/House_Props/Cupboard/Cupboard_0,/area)
+"cs" = (/turf/Ground/Wodd_Floor_Laminated,/turf/Locations/Mayham_Start,/area)
+"ct" = (/obj/Pickup/Items/C4,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"cu" = (/turf/Ground/CheckeredFloor,/turf/Objects/House_Props/Cupboard/Cupboard_1,/area)
+"cv" = (/obj/Attackable/Door/Door1/Vertical,/turf/Ground/CheckeredFloor,/area/Lights_Darkness/darker)
+"cw" = (/turf/Objects/House_Props/Fan,/area/Lights_Darkness/darker)
+"cx" = (/obj/Attackable/Door/Door1/Vertical,/turf/Ground/Wodd_Floor_Laminated,/area)
+"cy" = (/turf/Walls/W_Density_No_Opacity/Wall_22,/turf/Objects/House_Props/Picture,/area)
+"cz" = (/turf/Walls/W_Density_No_Opacity/Wall_22,/turf/Objects/House_Props/Clock,/area)
+"cA" = (/turf/Ground/CheckeredFloor,/turf/Objects/House_Props/Cupboard/Small_Cupboard,/area)
+"cB" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_5,/turf/Objects/Junk/Paper2,/area/Lights_Darkness/darkest)
+"cC" = (/obj/Attackable/Windows/Window,/turf,/area)
+"cD" = (/obj/Attackable/Door/Door1/Vertical,/turf/Ground/Dirt,/area)
+"cE" = (/turf/Ground/Grass,/obj/Attackable/Destructable_Obj/Chainlink_Fence/SOUTHEAST,/turf/Ground/Grass/Grass_Edges/Edge_4,/area)
+"cF" = (/turf/Ground/Grass,/turf/Blood/Gore9,/turf/Blood/BloodH,/area/Lights_Darkness/darkest)
+"cG" = (/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Ground/WoodenFloor,/area)
+"cH" = (/turf/Ground/CheckeredFloor,/obj/Attackable/Pushable_Obj/Destroyable/Barricade,/turf/Objects/Junk/Paper,/area)
+"cI" = (/turf/Ground/Grass,/turf/Blood/BloodE,/turf/Blood/BloodA,/turf/Blood/Blood3,/area/Lights_Darkness/darkest)
+"cJ" = (/turf/Ground/Grass,/turf/Blood/Blood3,/turf/Blood/BloodA,/turf/Blood/BloodH,/turf/Blood/BloodB,/area/Lights_Darkness/darkest)
+"cK" = (/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Ground/WoodenFloor,/area)
+"cL" = (/turf/Ground/WoodenFloor,/turf/Locations/Mayham_Start,/area)
+"cM" = (/obj/Pickup/Items/Ammo_Light_Machinegun,/obj/Pickup/Items/Ammo_Light_Machinegun,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"cN" = (/turf/Ground/CheckeredFloor,/turf/Locations/Blue,/area)
+"cO" = (/obj/Pickup/Guns/Spaz_12,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"cP" = (/obj/Pickup/Items/Ammo_Light_Handgun,/turf/Ground/CheckeredFloor,/area)
+"cQ" = (/turf/Ground/CheckeredFloor,/turf/Objects/Junk/Paper,/turf/Objects/Street_Poles/Street_Pole_5,/area)
+"cR" = (/obj/Pickup/Items/TCure,/obj/Pickup/Items/TCure,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"cS" = (/obj/Pickup/Items/Ammo_Shotgun,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"cT" = (/obj/Attackable/Windows/Window,/turf/Ground/CheckeredFloor,/area/Lights_Darkness/darker)
+"cU" = (/obj/Attackable/Door/Door2,/turf/Ground/CheckeredFloor,/area/Lights_Darkness/darker)
+"cV" = (/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Ground/Grass,/area/Lights_Darkness/darker)
+"cW" = (/turf/Ground/Grass,/turf/Objects/Junk/Garbage_Can,/area/Lights_Darkness/darker)
+"cX" = (/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Dirt,/area/Lights_Darkness/darker)
+"cY" = (/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Grass,/area/Lights_Darkness/darker)
+"cZ" = (/obj/Zombie_Spawn,/turf/Ground/Dirt,/area/Lights_Darkness/darkest)
+
+(1,1,1) = {"
+aaabababababababababababababaaabababababababacababababababababababadaeababababababababababababababababababababadaeabababafabagahahahahagababababababadaeababacababaiababaaababababababajaaababababababaa
+ababajababaaabababababaaababababababababaiabacababahabababababababakalababababadaeababababababadaeabahababababakalababababababahahahahabababababababakalababacababahababababababaaababahabababababababab
+ababahababababababababababababajababababababacababababababababababamanababababakalababababababakalababababababamanababababababahahahahabababafabababamanababacababahabababababababababahababababababajab
+ababahababababababababababababahababababababacababababadaeababababababababababamanababahabababamanababababababababababababababahahahahabababababababababababacacababababababababababababababababaaabahab
+ababaaabababababababababaaababahababababababacababababakalababababababababahabababababababababababababababababababababaoabababahahahahababababafabababababababacacabababababajabababababababababababahab
+abababababababaaababaiababababababababababacacababababamanababababababababababababababababababababababababababababababababafagahahahahagababababababahabababababapacababababahababababababababababababab
+ababababajabababababahabababababababababapacababababababababababababababababababababadaeababababababababababababahababababababahahahahababahababababababababababahacacabababahabaaababababaaabababababab
+ababababahabababababahababababababababacaqababababababababababababadaeabababababababakalabababababababababababababababafabababahahahahabababadaeababababababababahabacacabababababababajabababababababab
+ababaaabahababababaaababababababababacacahababababababababababababakalabababababababamanabababababababababababababababababababahahahahabababakalabababababababababababacacababababababahababababababaaab
+ababababababababababababababajababacacababababababababababababababamanabababababababababababababababababadaeabababababababagabahahahahabagaoamanabababababadaeabababababacacabababababahabababajabababab
+ajabababababababababababababahabacapabababababababababababababababababababababababababababababahababababakalabababahabababababahahahahababababababababahabakalababababababacapababababababaaabahabababaj
+ahababababaaababababababababahacacahababababahabababababababababababababababababababababababababababababamanabababababababababahahahahababababafafababababamanabababababababaqacabababababababahabababah
+ahababababababababababababajacacabahabababababababababababahabababababababababababababahababababababahabababababaoababababababaharahahababahababababababababababababababababahacacababaiabababababababah
+ababababababajababababababaqacabababababababababadaeabababababababababababababababababababadaeababababababababababababababababahahahahabababababafabababababababababababababababacacabahababababaaababab
+abaaababababahabababababacaqababababadaeababababakalababababadaeababababababadaeabababababakalababababababababababababababababahahahahabababababadaeabababababababababababababababacacahabababababababab
+acacacacacacaqacacacacacacabababababakalababababamanababababakalababababababakalabababababamanabababagababababababagabafababagahahahahagabafabagakalabagabababababaoagabababababababacacabababababababab
+ababababababababababababababababababamanababababababababababamanababababababamanababababababababafababababababafabababababababahahahahabababababamanababababababababababababahababababacacababababaiabab
+abababadaeababababababajababababababababababasasasasatasasasasasasasasauasasasasasasasasabababababababahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahababababababababababacacacacacaqacac
+abababakalabahababababahababababababahabababasasasasasasasasasauasasasasasasasasasasasasababababaoababahahahahahahahahahahahahahahahavahahahahahahaharahahahahahahahababababadaeabababababababababahabab
+abababamanababababababahababababababababababasasawaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxasasasabababababababahahahahahavahahahahahahahahahahahahahahahahahahahahahahahahahababababakalabababababababababababab
+abajabababababababababababababababaoababababasasaxaxaxaxaxaxaxaxawaxaxaxaxayaxaxaxasasauababafabababagahahahahabagababafagababaoababagababaoabagabababagabababahahahababababamanabababababababababadaeab
+abahababababababababajabababababababababababasazaxaxaxaxaxaxaxaxaxaxayaxaxaxaxaxaxasasasabababababababahahahahabababababababababafababababababababababababababahahahagabafababababababababababababakalab
+abahababababababababahabahabababababababababasasaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxasasasabababababababahahavahabababababababababababababababababababababababagahahahababababababababababababahababamanab
+ababababababababababahababababababababahababasasaxaxaAaAaAaAaAaAaAaAaAaAaAaxaxaxawasasasabababababababahahahahababafabababababababababababababababababababafabahahahabababahabababababababababababababab
+ababababababababahabababababadaeababababababasasawaxaAaBaBaBaBaBaBaBaBaBaAaxaxaxaxasasasasasababababafahahahahababababababababaCabababababababababababababababahahahabababababababababababababababababab
+ababababababababababababababakalababababababasasaxaxaAaDaEaFaGaHaHaIaJaIaKaxaxaxaxasasasasasabababababahahahahababababababababaLabababababababababababababababahahahabababababababababababababababababab
+ababadaeababababababababababamanabababababafasasaxaxaAaEaIaJaIaMaIaNaOaIaAaPaPaPaPazazaQazazazasaRaSasazazazazababababababababaLabababababababababababaoabababahahahabababababababababadaeababababababab
+ababakalababababababababababababababaoabababasasaxaxaAaTaIaIaIaIaIaIaOaIaUaPaPaPaPazazazazazazasaVaWasazazazazasasasasasasababaLabababababababababababababababahahahafababababababababakalabahababababab
+ababamanababafabababaoabababafabababababahabasasaxawaAaIaIaXaIaYaIaNaOaIaAaPaPaPaPazazazazazazasaZbaasazazazazasasasasasasababbbbcbcababababababafababababababahahahabababababababababamanababababababab
+abahababababasasasasasasasasasasasasasasasasauasaxaxaAaIaIaIaIaIaIaIaIaIaKaxaxaxawasauasazazazasasasasazbdazazatasauasaRaSababababababababababababababababafabahahahabababababaoabababababababababababab
+ababababababasasasasasasasasasasasasasasasasasasaxaPaAaIaIaAaAbebfbeaAaAaAaxaxaxbgaSasasazazazbdazazazazazazazasasasasaVaWababababababababababababababababababahahahabababababababababababababababababab
+ababababababasasasauasasasasasasasasasasauazasaxaPaxaAaIaIaAaBaBaKaBaBaBaBaxaxaxbhaWasasazaQazazazazazazazazazasasasasaZbaababababababababababababababababababahahahabafabababababababababababababababab
+ababababababasasasasaAbebfbeaAbebfbeaAaxaxaxaxaPaxaPbiaIaIaAbjbjbkbkbkblaxawaxaxaZbaasasazazazazazazazazazazaQasasasasasasababababafababababababahababababababahahahabababababababababababababababababab
+abababababaoasasasasaAaBbmaBaBbnbmaBaAaxaxaPaxaPaxbibiaIaIaAbjbkbkbkbkblaxaxaxaxasasasasasasaRaSazazazazaRaSasasauasasasasababababababababababababababababababahahahabababababababababahabababababahabab
+ababadaeababasazasasaAaIaIaIaIaIaIaIaAaAaAaAaAbibibibiaIaIaAbkbkbkbkbkboaxaxaxaxasasasasatasaVaWazazazazaVaWasasazasasasasasasababababababababababababababababahahahabaoabababababababababababababababab
+ababakalababasasasasaAaIbpbqaIbpbqaIaBbrbsbtbuaBbiaIaIaIaIaAbvbkbkbkbkblaxaxaxaxasasasasasasaZbaazazazbdaZbaasasasasasasasasasasababababababafabababababafababahahahabababababadaeababababababababababab
+ababamanababasasasasaAaIaIaIbwaIaJaIaIaIaIaIaIaIaIaIaIaIaIaAbxbkbkbkbkblaxaxaxaxaxaxasasasasasasazazazazasasasasasaRaSasasasasasauabababahababababababababababahahahababafababakalababababababababadaeab
+ababababababasatasasaAaIaIaIaHaIaIaIaIbybzbzbAaIaIaIaIaIaIaAbxbkbBbkbkblaxaxayaxaxaxasasazasasauazazazazasasasasasaVaWasasasasasasasasabababababababafababababahahahabahabababamanababababababababakalab
+abababafababasasasauaAaIaJaIaIaIaIaIaAaAaAaAaAaAaAaIaIaIaIaAbCbkbkbBbkblaxaxaxaxaxaxaxawaxaxaxaxaPaPaPaPaxaxaxaxaxbDbEasasasasasaRaSasabafababababababababababahahahabababababababababababababababamanab
+ababababababasasasasaAaMaIaIaXaIaIaIaAaAaAaAaAaAaAaAaIaYaIaAbkbkbkbBbkblaxaxaxaxaPaPaPaxaxaxaxaxaPaPaPaPaxawaxaxaxbFaPazasasasasaVaWasasasasababababahababababahahahabababababababababababababababababab
+ababababababasasasasaAaIbpbqaIbpbqaIaAaAaAaAaAaAaAaAaAaIaIaAbkbkbkbkbkblawbgbGaxaPaPaPaPbFaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaxaxayasaZbaasasasasabababababababababahahahabafabababababababababababababababab
+abahababababasasasasaAaIaIaIaIaIaIaMaAaAaAaAaAaAaAaAaAaIaIaAbkbkbkbkbHblaxbhbIaxaPaxaAaAbebfbebfbebfbfbebfbebfbeaAaAaxaPaxaxaxaxaxbJaxaxaxasababababababababafahahahabababababababababababababababahabab
+ababababababasauasasaAaIaIaIaIaJaIaIaAaAaAaAaAaAaAaAaAaIaEaAbkbkbkbkbkblaxbDbEaxaPaxaAbnaBbmaBbmaBbKbKaBbmaBbmaBaBaAaxaPbLbMbNbMbMbOaxaxaxasasabadaeabababababahahahababababadaeabababababababababababab
+ababababababasasasasaAbebfbeaAbebfbeaAaBaBaBaBaBaBaBaAaIaIaAbkbkbkbkbHblaPayaxaxbPaxaAaIaIaIaIaIaIaIaIaIaIaIaIaIaIaAaxaPbQaxaxaxaxaxaxaxawasasabakalabahabababahahahababababakalababababababadaeabababab
+ababababababasasasasbRbRbSbTaBaBbUaBaBbkbkbkbkbkbkbkaAaIaIaAbkbkbkbkbkblaxaxbVbWbXbWaAaJaIaJaIaIaOaOaOaOaIaIaIaIaIaAbWbXbWbVaxaxaxaxayaxaxasasabamanabababafabahahahabababafamanabababahababakalabababab
+ababababababasazasasasasaxaxbYbkbkbkbkbkbkbkbkbkbkbkaAaIaIaAbkbkbkbkbkblaxaxaAaBbUaBbZaIaIaIaIaOaOaNaNaOaOaIaIaHaIaBaBbKaBaAaxaxaxaxaxaPaxasasasabababababababahahahabaoababababababababababamanabababab
+abababaoababasasasasasatawaxbYbkbkbkbkbkbkbkbkbkbkbkaAaIaIaAaEbkbkbkbkblawaxaAcacaaIaIaIaIaHaIaIaIaIaIaIaIaIaMaIaIaIaIcacaaAaxaxaxaxaxaxaxasabababababababababahahahabababahabababababababababababababab
+ababababababasasasasasasaxaxbYbkbkbkbkbkbkbkbkbkbkbkaAaIaIaAcbbkbkbkbkblaxaxaAcacaaIaIaIaIaIaIaIccaAaAccaIaJaIaIaIaIaIcacaaAaxaxaxaxaxaxasasababababababafababahahahababababababahababababababababababab
+ababadaeababasasasasasasaxaxbYbkbkbkbkbkbkbkbkbkbkbkaAaIaIaAaAcdbkbkaAbVbVbVaAaIaIaAaAaAaAaIaIaIceaAaAceaIaIaIaAaAaAaAaYaIaAaxawaxaxbgbGasababafabababababababahahahabafabababababababababababababababab
+ababakalababasauasasasasaxaxbYbkbkbkbkbkbkbkbkbkbkbkaAaIaIcfaBbrbkbkaBbsbtcgchaIaIaAaBaBaBaIaIaIciaAaAciaIaIaIaBbraBaAaIaIaKaxaxaxaxbhbIasasabababababababababahahahabababababababababababababababababab
+ababamanababasasasasasasaxaxcjcjcjcjcjcjcjcjcjcjcjcjaAaIaIaIaIaIaIaIaIaIaIckckaIaIaAaDaEcacaclcacabfbfcacaclcacacmaEaAaIaIaAaPaxaxaxbDbEaxasabababababaoafababahahahabababababababababababababababababab
+ababababababasasasasasasaxaxaxayaxaxaxaxaxaxaxaxaxaxaAcnaIaIaYcocococococockckaIaIaAaEcacacacpcqcabfbfcacpcqcacacaaDaAaIcraAaxaxaxaxaxaxaxasasababababababababahahahababababababadaeabababababababahabab
+ababababababasasauasasasasasasasasasasasasasasasasasaAaAbfbfbeaAaAaAaAaAaAaAaAaIaIaAaEcacacacscacaaAaAcacacscacacactaAaIcuaAaxaxaxaxaxaxaPasasasabababababababahahahabababafababakalabababababababababab
+ababahababaoasasasasasasasasasasasasasazasasasasasasbRbRcvcvbRcwbRaBaBaBaBaBaAaIaIaAcacacacacacacaaAaAcacacacacacacaaAaIaIaAaxaxaxaxaxawaxasasaRaSababahabababahahahababababababamanabababababababababab
+ababababababasasazasasasasasasasasasasasasasauasasasasasazazasasasaxaxaxaxaxaAaIaIaAaAaAbfbfaAaAaAaAaAaAaAaAbfbfaAaAaAaIaIaAaxaxawaxaxaxaxasasaVaWasabababababahahahababaoababahabababababababababababab
+ababababababasasasasasasatasasasasasasasasasasasasasasasazazasasasaxaxaxaxaxaAaIaIchcfaBcxcxcybZaBbsbuczaBcycxcxaBcfaBaIaIaKaxaxaxaxaxaxaxasasaZbaasasasasasabahahahabababababababababahabababababababab
+ababababababababababababababababababababababababababababahahasasasasaxaxaxaxaAaIaYckaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaAaxaxaxaxaxaxaxaxasasasasasasauasabahahahababafabababababaoababababababababab
+ababababababababababaoabababababababahabababababababahabahahabauasasaxaxaxaxaAcAaIckaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaAaxaxaxaxaxaxaxaxaxazazazazazazazahahahahahahahahahabababababababababababadae
+ababafabababababababababababababababababababafabababababahahabasasasaxaxaxaxaAcAaIckaNaNaIaIaIaIaIaXaXaIaYaIaIaIaNaNaIaIaIaAaxaxaxaxaxaxaxaxawaPazaQazazazazahahahahahahahahahababababadaeabababababakal
+ahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahabasasasaxaxaxaxaAaIaIckaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaIaAaxaxawaxaxaPaxaxaxaPaPaPaxaxasasabababahababahahahababababakalabababababaman
+ahahahahahahahahahahahahaharahahahahaharahahahahahahahahahahabasasauaxaxaxaxaAbebfbebfbfbebebfbeaIaIaIaIbebfbebebfbfbebfbeaAaxaxaxaxaxaxaxaxaxaPaPaPaxaxasasababababababahahahababababamanababababababab
+ababababababababababababababababababababababababababababadcBabasasasaxaxaxaxaBaBaKaBbUbUaBaBaKaAaIaIaIaIaAaKaBaBbUbUaBcCaBaBaxaxaxaxaxaxaxaxaxaPaPaPaxaxasazabafababafabahahahababababababababababababab
+abababababafabababababababababababababababababababaoababakalabasaRaSaxaxaxawaxaxaxaxaPaPaxaxaxbVaAaIaIaAbVaxaxaxaxaxaxaxaxaxaxaxaxaxawaxaxbebfbebfbebfbeasasababababababahahahababababafabababababahabab
+ababababababababababababababababababababababababababababamanababaVaWasasasasasasasasazbdaxaxaxbTaAaIaIaAbTaxaxawaxaxaxaxayaxaxaxaxaxaxaxaxaAbmaBcDaBbmaAasasabababababaoahahahababababababababababababab
+abaoabababababababababababababadaeababababababababababahababababambaasasasasasasasasazazaPaPaxaxaAaIaIaAcEcEcEcEcEcEcEcEcEcEcEcEcEcEcEcEcEaAaIaIaIaIaIaAasasababababababahahahababababababababababababab
+ababababababababababaoababababakalababababaoababababababababababababababafabababcFasazazaPaPaxaxaAaIaIaAbkbkbkbkbkbHbkbHbkbkbkbkbkbkbkbkcGaAaIaOaOcHaIaAasasaoabababababahahahababababababababababababab
+ababababababadaeabababababababamanabababababababababababababababababababcIcIcIcIcJasaRaSaPaPaxaxaAaIaIaAbkbkbkbkbkbBbkbkbkbkbkbkbkbkbkbkcKaAaIaNaIaNaIaAasasababababababahahahababafahabababababadaeabab
+ababababababakalababababababababababababababababababababababadaeabababababababaoabasaVaWaPaPaxaxaAaIaIaAaEbkbkbkbkbBbkcLcLbkbvbvbvbkbkbkbkaKaIaIaIaIaIaAasasabababadaeafahahahabababababababababakalabab
+ababababababamanababababababababababahabababababababababababakalabababababadaeababasaZbaaPaPawaxaAaIaIaAcbctcMbkbkbkbkbkbkbkbCbCbCbkbkbkcKaAaIaIaIaIaIaAasauabababakalabahahahabababababababababamanabab
+ababababababababababababababababababababababababababababababamanabababababakalababasasasaPaPaxaxaAaIaIaAaAaAaAaAaAaAbkbkbkaAaAaAaAaAaAaAaAaAaIaIaJaIaGaAasasabababamanabahahahababababababababababababab
+ahabababababababababababababababababababababababahababababababababababababamanababasasasaPaPaxaxaAaYaIcfaBaBaBaBaBaBbkbkbkaBaBaBaBchaBaBaBaBaIaIcNaIcOaAasasababababafabahahahababadaeababababababababab
+abababababababababababababababababababababababababababababababababababababababababasasasaPaPaxaxaAaIaIaIaIaIaIaIaIaIaIcPaJaIaIaIaIckaIaIaIaIaIaIaIaIaEaAasasababababababahaharababakalababababahabababab
+abababababababababababababababababababababababababababababababababababababababababasasasaPaPayaxaAaEaIaIaIaIaIaIaIaIaIaIaIaIaIaIaEcQaIaIaIaIaIaIcRaEcSaAasasaoabababababahahahababamanababababababababab
+ababababababababababababababababababababababadaeababababababababababababababababafasasasaPaPaxaxaAaAaAbebfbeaAaAaAaAaAbebfbeaAaAaAaAaAaAaAbebfbeaAaAaAaAasasababababababahahahababababababababababababab
+adaeabababababahababababadaeababababababababakalabababababababababababababababababasasasazazasasbRbRbRbRcTbRbRbRbRbRbRbRcUbRbRbRbRbRbRbRbRbRcTbRbRbRbRbRasasababababababavahahababababababababababababab
+akalababababababababababakalababababababababamanabababababababababababababababababasasasazazasasasasascVascVasasascWcWcXazcXasasasasascYasascYasasasasasasasabababafababahahahababahabaoabababababababab
+amanababababababababababamanabababababababababababababababababababadaeababababababasasasazazauasasasasasasasasauasasasazazazasasasasasasasasasasatasasasasasabadaeabababahahahababababababadaeababababab
+abababababababababababababababababababababababababababababababababakalababababababasasasazazasasasasasasasasasasasasasazazazasasasasasasasasasasasasasasasasabakalabababahahahababababababakalababababab
+abababaiabababababababababababababababababababababababababababababamanabababababaoabababahahababababaoababababababababahahahababafababaoababababababababafababamanabababahahahababafabababamanabafabaoab
+abababahabababababababababababababahababababababababababababababababababababababababababahahabababababababababababababahahahababababababababababababababababababababababahahahababababababababababababab
+abababahababababababababababababababababababababababababababababababababababababababababahahahahahavahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaharahahahahahahahahahahahahahahahahah
+ababababababababababababababababababababababababababadaeababababababababababababababababahahahahahahahahahahahahahahahahaharahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaqaqaqaqaqaqaqaqaq
+ababababababababababaiababababababajababababahabababakalababababababababababababababababahahabababababababababafabababababababababababababababababafababababababababababababababababacacababababababafab
+acacacacacacacacacabahababababababahababababababababamanabababababahabababababababafababahahababababababababababadaeabababababababababababababababababababababababababababahaoababacacabafababababababab
+ababababababababacacahababababababahababababababababababababababababababababababababababahahababababababababababakalababababababababababababababababababababababafabababababababacacababababababaaabajab
+abababababababababacacababababahababababababababababababababababababababababababababababahahababababababababababamanabababababababababafabababababaoababahababababababababababacacabababababababababahab
+ababababababababababacacabababababababababababababababababababahababababababababababababahahababaoabababafabababababababababababababababababababababababababababababababababacacababababababahabababahab
+ababaiabababababababajacacabababababababababajabababababababababababababababababababababahahabababababababababababababababababababababababababababababababababababababababacacababababajababababababaaab
+ababahabababababababahabacacababababajabababahabababababababababababababababababababababahahababababadaeababababababababababababababababababadaeababababababababababababacacabababababahabaaababaiababab
+ababahabababababababahababacacabababahabababahababadaeababababababababadaeabababababababahahababababakalababababababababababababababababababakalabababababababababababacacababababababahabababababababab
+aaabababababababababababababacacababahababababababakalababababababababakalababababafababahahabafababamanababababababababababababababababababamanabababababababababahacacabababababaaababababaaababababab
+ababaaababababababababababababacacababababababababamanababababababababamanabababababababahahabababababababababababababababababababababababababababababababababababacacabababababababababaiababababababab
+ababababababababababaiabababababacacababababababababababababababababababababababababababahahababababababababababababahababadaeabababababababababababababababababacacababababajabababababahabababababajab
+ababababaaabababababahababababababacacabababababababababababahabababababababababaoabababahahabababababababababababababababakalababababababababababababababababacacabababababahabababababahabababababahab
+abaaababababababababahabababababababacabababababababababababababababababababababababababahahabababababababababababababababamanababababababababababababababababacababababababahabababaaababajabaaababcZab
+ababababababababababababababababababacajababababababababababababababababababababababababahahababaoababababababababababababababababababababababababababababababacababababababababahababababahabababababab
+ababajabababaaabababababababababababacahababababababababababababababababababababababababahahabababababababababababababababababababababababababababababababababacababababababaaababababababahabababababab
+ababahaaababababababababababababababacahababababadaeababababababababababababababababababahahabafabababababababadaeababababababababababababababadaeababababababacababajababababababababababababababababab
+abaaahababababababaaababababababababacabababababakalabababababababababababababababafababahahabababababababababakalababababababababababababababakalababababababacababahabababaiababababaaabababaaababaiab
+abababababaaabababababababababajababacabababababamanababababababababababahabababababababahahabababababababababamanababababababahabababababababamanababababababacababahabaaabahababababababaiababababcZab
+"}

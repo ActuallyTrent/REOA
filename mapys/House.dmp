@@ -1,0 +1,350 @@
+"aa" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_6,/area/Lights_Darkness/darkest)
+"ab" = (/turf/Ground/Grass,/obj/Zombie_Spawn{icon_state = ""},/turf/Trees/Pine_Tree/Tree_part_5,/area/Lights_Darkness/darkest)
+"ac" = (/obj/Zombie_Spawn{icon_state = ""},/turf/Ground/Grass,/area/Lights_Darkness/darkest)
+"ad" = (/turf/Ground/Grass,/obj/Zombie_Spawn{icon_state = ""},/turf/Trees/Pine_Tree/Tree_part_6,/area/Lights_Darkness/darkest)
+"ae" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_3,/area/Lights_Darkness/darkest)
+"af" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_4,/area/Lights_Darkness/darkest)
+"ag" = (/turf/Ground/Grass,/area/Lights_Darkness/darkest)
+"ah" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_5,/area/Lights_Darkness/darkest)
+"ai" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_1,/area/Lights_Darkness/darkest)
+"aj" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_2,/area/Lights_Darkness/darkest)
+"ak" = (/turf/Ground/Grass,/turf/Locations/Blue,/area/Lights_Darkness/darkest)
+"al" = (/turf/Ground/Grass,/area/Lights_Darkness/darker)
+"am" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_3,/area/Lights_Darkness/darker)
+"an" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_4,/area/Lights_Darkness/darker)
+"ao" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_6,/area/Lights_Darkness/darker)
+"ap" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_5,/area/Lights_Darkness/darker)
+"aq" = (/turf/Ground/Grass,/area/Lights_Darkness/dark)
+"ar" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_1,/area/Lights_Darkness/dark)
+"as" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_2,/area/Lights_Darkness/dark)
+"at" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_3,/area/Lights_Darkness/dark)
+"au" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_4,/area/Lights_Darkness/dark)
+"av" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_2,/area/Lights_Darkness/darker)
+"aw" = (/turf/Ground/Grass,/area)
+"ax" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_1,/area)
+"ay" = (/turf/Ground/Grass,/turf/Objects/Street_Poles/Street_Pole_6,/area)
+"az" = (/turf/Ground/Grass,/turf/Objects/Street_Poles/Street_Pole_7,/area)
+"aA" = (/obj/Attackable/Destructable_Obj/Chainlink_Fence/EAST,/turf/Ground/Grass,/area/Lights_Darkness/darkest)
+"aB" = (/obj/Attackable/Destructable_Obj/Chainlink_Fence/NORTH,/turf/Ground/Grass,/area/Lights_Darkness/darkest)
+"aC" = (/obj/Attackable/Destructable_Obj/Chainlink_Fence/NORTH,/turf/Ground/Grass,/area/Lights_Darkness/darker)
+"aD" = (/obj/Attackable/Destructable_Obj/Chainlink_Fence/NORTH,/turf/Ground/Grass,/area/Lights_Darkness/dark)
+"aE" = (/obj/Attackable/Destructable_Obj/Chainlink_Fence/NORTH,/turf/Ground/Grass,/area)
+"aF" = (/turf/Ground/Grass,/obj/Attackable/Destructable_Obj/Chainlink_Fence/NORTH,/turf/Objects/Street_Poles/Street_Pole_5,/area)
+"aG" = (/obj/Attackable/Destructable_Obj/Chainlink_Fence/WEST,/turf/Ground/Grass,/area/Lights_Darkness/darkest)
+"aH" = (/turf/Ground/Dirt,/turf/Ground/Grass/Grass_Edges/Edge_1,/turf/Ground/Grass/Grass_Edges/Edge_3,/area/Lights_Darkness/darkest)
+"aI" = (/turf/Ground/Dirt,/turf/Ground/Grass/Grass_Edges/Edge_3,/area/Lights_Darkness/darkest)
+"aJ" = (/turf/Ground/Dirt,/turf/Ground/Grass/Grass_Edges/Edge_3,/area/Lights_Darkness/darker)
+"aK" = (/turf/Ground/Dirt,/turf/Ground/Grass/Grass_Edges/Edge_3,/area/Lights_Darkness/dark)
+"aL" = (/turf/Ground/Dirt,/turf/Ground/Grass/Grass_Edges/Edge_3,/area)
+"aM" = (/turf/Ground/Dirt,/turf/Objects/Street_Poles/Street_Pole_5,/turf/Ground/Grass/Grass_Edges/Edge_3,/area)
+"aN" = (/turf/Ground/Dirt,/turf/Ground/Grass/Grass_Edges/Edge_3,/turf/Ground/Grass/Grass_Edges/Edge_2,/area/Lights_Darkness/darkest)
+"aO" = (/turf/Ground/Dirt,/turf/Ground/Grass/Grass_Edges/Edge_1,/area/Lights_Darkness/darkest)
+"aP" = (/turf/Ground/Dirt,/area/Lights_Darkness/darkest)
+"aQ" = (/turf/Ground/Dirt,/area/Lights_Darkness/darker)
+"aR" = (/turf/Ground/Dirt,/area/Lights_Darkness/dark)
+"aS" = (/turf/Ground/Dirt,/area)
+"aT" = (/turf/Ground/Dirt,/turf/Objects/Street_Poles/Street_Pole_4,/area)
+"aU" = (/turf/Ground/Dirt,/turf/Ground/Grass/Grass_Edges/Edge_2,/area/Lights_Darkness/darkest)
+"aV" = (/obj/Attackable/Destructable_Obj/Chainlink_Fence/EAST,/turf/Ground/Grass,/area/Lights_Darkness/darker)
+"aW" = (/turf/Ground/Dirt,/turf/Ground/Grass/Grass_Edges/Edge_1,/area/Lights_Darkness/darker)
+"aX" = (/turf/Walls/Wall_Over_Layer/Wall{opacity = 0},/area/Lights_Darkness/dark)
+"aY" = (/turf/Walls/Wall_Over_Layer/Wall{opacity = 0},/area)
+"aZ" = (/turf/Walls/Wall_Over_Layer/Wall,/area)
+"ba" = (/turf/Ground/Dirt,/turf/Ground/Grass/Grass_Edges/Edge_2,/area/Lights_Darkness/darker)
+"bb" = (/obj/Attackable/Destructable_Obj/Chainlink_Fence/WEST,/turf/Ground/Grass,/area/Lights_Darkness/darker)
+"bc" = (/obj/Attackable/Destructable_Obj/Chainlink_Fence/EAST,/turf/Ground/Grass,/area/Lights_Darkness/dark)
+"bd" = (/turf/Ground/Dirt,/turf/Ground/Grass/Grass_Edges/Edge_1,/area/Lights_Darkness/dark)
+"be" = (/turf/Walls/W_Density_Opacity/Wall_3,/area)
+"bf" = (/turf/Ground/Dirt,/obj/Attackable/Windows/Window3,/turf/Ground/DRoad,/area)
+"bg" = (/turf/Walls/W_Density_No_Opacity/Wall_2,/area)
+"bh" = (/turf/Ground/Dirt,/obj/Attackable/Door/Door2,/turf/Ground/DRoad,/area)
+"bi" = (/turf/Ground/Dirt,/turf/Ground/Grass/Grass_Edges/Edge_2,/area/Lights_Darkness/dark)
+"bj" = (/obj/Attackable/Destructable_Obj/Chainlink_Fence/WEST,/turf/Ground/Grass,/area/Lights_Darkness/dark)
+"bk" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_6,/area/Lights_Darkness/dark)
+"bl" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_5,/area)
+"bm" = (/obj/Attackable/Destructable_Obj/Chainlink_Fence/EAST,/turf/Ground/Grass,/area)
+"bn" = (/turf/Ground/Dirt,/turf/Ground/Grass/Grass_Edges/Edge_1,/area)
+"bo" = (/turf/Ground/Dirt,/turf/Ground/DRoad,/area/Lights_Darkness/darkest)
+"bp" = (/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/New_Turf74,/area)
+"bq" = (/obj/Attackable/Pushable_Obj/Destroyable/Barricade2,/turf/Ground/New_Turf74,/area)
+"br" = (/turf/Ground/Dirt,/turf/Ground/Grass/Grass_Edges/Edge_2,/area)
+"bs" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_4,/area)
+"bt" = (/turf/Ground/New_Turf74,/area)
+"bu" = (/turf/Ground/New_Turf74,/obj/Pickup/Items/TCure,/turf/Objects/Junk/Paper,/area)
+"bv" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_1,/area/Lights_Darkness/darker)
+"bw" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_2,/area)
+"bx" = (/turf/Ground/Dirt,/turf/Objects/Street_Poles/Street_Pole_8,/area)
+"by" = (/turf/Ground/Dirt,/turf/Objects/Street_Poles/Street_Pole_9,/area)
+"bz" = (/turf/Ground/New_Turf74,/turf/Objects/Junk/Paper,/area)
+"bA" = (/turf/Ground/New_Turf74,/obj/Pickup/Items/gastanker,/turf/Objects/Junk/Paper,/area)
+"bB" = (/turf/Ground/Dirt,/turf/Objects/Street_Poles/Street_Pole_10,/area)
+"bC" = (/turf/Ground/Dirt,/turf/Ground/DRoad,/area)
+"bD" = (/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Ground/New_Turf74,/area)
+"bE" = (/turf/Ground/Dirt,/turf/Objects/Street_Poles/Street_Pole_11,/area)
+"bF" = (/turf/Walls/W_Density_No_Opacity/Wall_2,/turf/Objects/School/Lockers/Locker_5,/turf/Objects/School/Lockers/Locker_10,/area)
+"bG" = (/mob/player/NPC/Mob/UCM,/turf/Ground/New_Turf74,/area)
+"bH" = (/turf/Walls/W_Density_No_Opacity/Wall_2,/obj/Other/DenseLoc,/turf/Objects/Street_Poles/Street_Pole_10,/area)
+"bI" = (/turf/Walls/W_Density_No_Opacity/Wall_2,/turf/Objects/Pipes_1,/area)
+"bJ" = (/turf/Walls/W_Density_No_Opacity/Wall_2,/turf/Objects/House_Props/Clock,/area)
+"bK" = (/turf/Objects/School/Lockers/Locker_3,/area)
+"bL" = (/turf/Objects/School/Lockers/Locker_4,/area)
+"bM" = (/turf/Walls/W_Density_No_Opacity/Wall_2,/turf/Objects/School/Lockers/Locker_5,/area)
+"bN" = (/turf/Objects/House_Props/Fan,/area)
+"bO" = (/obj/Secured_Stuff/Switch{switch_number = 1},/turf/Walls/W_Density_No_Opacity/Wall_2,/area)
+"bP" = (/turf/Walls/W_Density_No_Opacity/Wall_2,/turf/Objects/School/Lockers/Locker,/obj/Other/DenseLoc,/turf/Objects/Street_Poles/Street_Pole_10,/area)
+"bQ" = (/turf/Ground/Dirt,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/DRoad,/area)
+"bR" = (/turf/Ground/New_Turf74,/turf/Objects/School/Lockers/Locker_10,/area)
+"bS" = (/turf/Ground/New_Turf74,/turf/Objects/Junk/Paper2,/turf/Locations/Mayham_Start,/area)
+"bT" = (/turf/Ground/New_Turf74,/turf/Blood/Blood2,/obj/Pickup/Items/Ammo_Sniper,/turf/Blood/Blood3,/area)
+"bU" = (/turf/Ground/New_Turf74,/turf/Objects/Street_Poles/Street_Pole_10,/area)
+"bV" = (/turf/Ground/New_Turf74,/mob/player/NPC/Mob/UCM,/turf/Objects/Junk/Paper,/area)
+"bW" = (/turf/Ground/New_Turf74,/mob/player/NPC/Mob/UCM,/turf/Blood/Gore10,/area)
+"bX" = (/turf/Ground/New_Turf74,/turf/Objects/Junk/Paper,/turf/Objects/Street_Poles/Street_Pole_10,/area)
+"bY" = (/turf/Ground/Dirt,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/DRoad,/area/Lights_Darkness/dark)
+"bZ" = (/turf/Ground/New_Turf74,/turf/Blood/Blood2,/turf/Blood/Blood3,/area)
+"ca" = (/turf/Ground/New_Turf74,/obj/Pickup/Items/Ammo_Sniper,/turf/Objects/Street_Poles/Street_Pole_10,/area)
+"cb" = (/turf/Ground/New_Turf74,/turf/Locations/Mayham_Start,/area)
+"cc" = (/turf/Ground/New_Turf74,/turf/Objects/Junk/Paper,/turf/Blood/BloodF,/turf/Blood/BloodD,/area)
+"cd" = (/turf/Ground/New_Turf74,/turf/Objects/Junk/Paper2,/turf/Objects/Street_Poles/Street_Pole_10,/area)
+"ce" = (/obj/Pickup/Guns/Sawnoff,/turf/Ground/New_Turf74,/area)
+"cf" = (/turf/Ground/Dirt,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/DRoad,/area/Lights_Darkness/darker)
+"cg" = (/turf/Ground/New_Turf74,/turf/Objects/School/Lockers/Locker_8,/turf/Objects/School/Lockers/Locker_10,/area)
+"ch" = (/turf/Ground/New_Turf74,/turf/Objects/Junk/Paper,/turf/Blood/Blood2,/turf/Blood/Blood3,/area)
+"ci" = (/turf/Ground/New_Turf74,/turf/Objects/School/Lockers/Locker_6,/area)
+"cj" = (/turf/Ground/New_Turf74,/turf/Objects/School/Lockers/Locker_7,/area)
+"ck" = (/turf/Ground/New_Turf74,/turf/Objects/School/Lockers/Locker_8,/turf/Objects/Street_Poles/Street_Pole_10,/area)
+"cl" = (/obj/Pickup/Guns/Sawnoff,/obj/Attackable/Pushable_Obj/Destroyable/Barricade2,/turf/Ground/New_Turf74,/area)
+"cm" = (/turf/Ground/New_Turf74,/turf/Objects/School/Lockers/Locker_14,/area)
+"cn" = (/turf/Ground/New_Turf74,/turf/Blood/BloodF,/turf/Blood/BloodD,/area)
+"co" = (/turf/Ground/New_Turf74,/obj/Attackable/Pushable_Obj/Destroyable/Barricade2,/turf/Objects/Junk/Paper,/area)
+"cp" = (/obj/Attackable/Windows/Window,/obj/Attackable/Secured_Stuff/Big_Doors/Secured_Door{tag = "icon-Secured_Door2Closed (WEST)"; dir = 8; switch_number = 1},/turf/Ground/New_Turf74,/area)
+"cq" = (/turf/Walls/W_Density_No_Opacity/Wall_2,/turf/Objects/House_Props/Picture,/area)
+"cr" = (/turf/Walls/W_Density_No_Opacity/Wall_2,/turf/Objects/House_Props/Plants/Plant/Plant_2,/area)
+"cs" = (/obj/Pickup/Items/Spray,/turf/Ground/New_Turf74,/area)
+"ct" = (/turf/Walls/W_Density_Opacity/Wall_3,/turf/Ground/DRoad,/area/Lights_Darkness/darkest)
+"cu" = (/obj/Pickup/Guns/MosinNagant,/turf/Ground/New_Turf74,/area)
+"cv" = (/turf/Ground/New_Turf74,/turf/Blood/Gore2,/area)
+"cw" = (/turf/Ground/New_Turf74,/turf/Objects/Junk/Paper2,/area)
+"cx" = (/turf/Ground/New_Turf74,/turf/Objects/Table/Table_3,/area)
+"cy" = (/turf/Ground/New_Turf74,/turf/Objects/Table/Table_4,/area)
+"cz" = (/turf/Ground/New_Turf74,/turf/Objects/House_Props/Plants/Plant/Plant,/area)
+"cA" = (/turf/Ground/New_Turf39,/turf/Objects/Street_Poles/Street_Pole_10,/area)
+"cB" = (/turf/Ground/New_Turf38,/turf/Blood/Blood2,/area)
+"cC" = (/turf/Ground/New_Turf38,/area)
+"cD" = (/turf/Ground/New_Turf38,/turf/Objects/Street_Poles/Street_Pole_10,/area)
+"cE" = (/turf/Ground/New_Turf35,/turf/Objects/Junk/Paper,/area)
+"cF" = (/turf/Ground/Dirt,/turf/Ground/Grass/Grass_Edges/Edge_1,/turf/Ground/Grass/Grass_Edges/Edge_4,/area/Lights_Darkness/darker)
+"cG" = (/turf/Ground/Dirt,/turf/Ground/Grass/Grass_Edges/Edge_4,/area/Lights_Darkness/darker)
+"cH" = (/turf/Walls/W_Density_No_Opacity/Wall_2,/turf/Ground/DRoad,/area/Lights_Darkness/darkest)
+"cI" = (/turf/Ground/New_Turf39,/area)
+"cJ" = (/obj/Pickup/Items/gastanker,/turf/Ground/New_Turf38,/area)
+"cK" = (/turf/Ground/New_Turf38,/turf/Objects/Junk/Paper2,/area)
+"cL" = (/turf/Ground/New_Turf38,/turf/Objects/Junk/Paper,/area)
+"cM" = (/obj/obj_spawners/weapon,/turf/Ground/New_Turf38,/area)
+"cN" = (/turf/Ground/New_Turf35,/area)
+"cO" = (/turf/Ground/New_Turf74,/turf/Objects/School/Lockers/Locker_9,/area)
+"cP" = (/turf/Ground/New_Turf74,/turf/Objects/School/Lockers/Locker_13,/area)
+"cQ" = (/turf/Walls/W_Density_No_Opacity/Wall_2,/turf/Objects/House_Props/Plants/Plant/Plant_2,/turf/Objects/School/Lockers/Locker_16,/area)
+"cR" = (/turf/Ground/New_Turf40,/turf/Blood/Blood4,/turf/Objects/Street_Poles/Street_Pole_10,/area)
+"cS" = (/turf/Ground/New_Turf41,/turf/Blood/Blood2,/turf/Blood/Blood4,/area)
+"cT" = (/turf/Ground/New_Turf41,/turf/Blood/Blood4,/area)
+"cU" = (/turf/Ground/New_Turf41,/turf/Blood/Blood4,/turf/Objects/Street_Poles/Street_Pole_10,/area)
+"cV" = (/turf/Ground/New_Turf34,/turf/Blood/Blood4,/area)
+"cW" = (/turf/Ground/Grass,/turf/Ground/DRoad,/area/Lights_Darkness/dark)
+"cX" = (/turf/Ground/Grass,/turf/Ground/DRoad,/area/Lights_Darkness/darker)
+"cY" = (/turf/Ground/New_Turf74,/turf/Ground/DRoad,/area/Lights_Darkness/darkest)
+"cZ" = (/turf/Ground/New_Turf40,/area)
+"da" = (/turf/Ground/New_Turf41,/area)
+"db" = (/turf/Ground/New_Turf41,/turf/Blood/BloodC,/area)
+"dc" = (/turf/Ground/New_Turf34,/turf/Objects/Junk/Paper,/area)
+"dd" = (/turf/Ground/New_Turf74,/turf/Blood/BloodF,/turf/Blood/BloodD,/turf/Objects/Junk/Garbage_Can,/area)
+"de" = (/obj/Pickup/Items/Grenade,/turf/Ground/New_Turf74,/area)
+"df" = (/turf/Ground/New_Turf74,/turf/Objects/House_Props/Plants/Plant/Plant,/turf/Objects/School/Lockers/Locker_16,/area)
+"dg" = (/turf/Ground/New_Turf40,/obj/Pickup/Items/gastanker,/turf/Objects/Street_Poles/Street_Pole_10,/area)
+"dh" = (/turf/Ground/New_Turf41,/turf/Objects/Junk/Paper,/turf/Blood/Blood2,/area)
+"di" = (/turf/Ground/New_Turf41,/turf/Objects/Street_Poles/Street_Pole_10,/turf/Objects/Broken_Stuff/Windows/broken_2,/area)
+"dj" = (/turf/Ground/New_Turf34,/area)
+"dk" = (/turf/Ground/Grass,/turf/Ground/DRoad,/area)
+"dl" = (/turf/Ground/New_Turf41,/turf/Objects/Junk/Paper,/area)
+"dm" = (/turf/Ground/New_Turf34,/turf/Blood/BloodC,/area)
+"dn" = (/turf/Ground/New_Turf74,/turf/Blood/BloodF,/turf/Blood/BloodD,/turf/Blood/BloodA,/turf/Objects/Junk/Garbage_Can,/area)
+"do" = (/turf/Ground/New_Turf74,/turf/Objects/School/Lockers/Locker_16,/area)
+"dp" = (/turf/Ground/New_Turf40,/turf/Objects/Street_Poles/Street_Pole_10,/area)
+"dq" = (/turf/Ground/New_Turf41,/turf/Blood/Blood2,/area)
+"dr" = (/turf/Ground/New_Turf41,/turf/Objects/Street_Poles/Street_Pole_10,/area)
+"ds" = (/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Dirt,/area/Lights_Darkness/darkest)
+"dt" = (/turf/Ground/Dirt,/turf/Ground/Grass/Grass_Edges/Edge_1,/turf/Ground/Grass/Grass_Edges/Edge_3,/area)
+"du" = (/turf/Ground/New_Turf36,/area)
+"dv" = (/turf/Ground/New_Turf41,/turf/Locations/Mayham_Start,/area)
+"dw" = (/turf/Ground/New_Turf74,/turf/Blood/BloodH,/area)
+"dx" = (/turf/Ground/New_Turf74,/turf/Objects/Junk/Paper,/turf/Objects/School/Lockers/Locker_14,/area)
+"dy" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_6,/area)
+"dz" = (/turf/Ground/Dirt,/turf/Objects/Street_Poles/Street_Pole_8,/turf/Ground/Grass/Grass_Edges/Edge_1,/area)
+"dA" = (/mob/player/NPC/Obj/MANNED_TURRET/MAN_1,/turf/Ground/New_Turf74,/area)
+"dB" = (/turf/Ground/New_Turf74,/turf/Objects/Desks/Desk3,/area)
+"dC" = (/turf/Ground/New_Turf74,/turf/Blood/BloodC,/area)
+"dD" = (/mob/player/NPC/Mob/UCM{tag = "icon-normal (WEST)"; dir = 4},/turf/Ground/New_Turf41,/area)
+"dE" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_3,/area)
+"dF" = (/obj/Pickup/Items/Ammo_Heavy_Machinegun,/obj/Pickup/Items/Ammo_Sniper,/turf/Objects/House_Props/Shelfs/Shelf,/area)
+"dG" = (/turf/Ground/New_Turf40,/mob/player/NPC/Mob/UCM,/turf/Objects/Junk/Paper2,/area)
+"dH" = (/mob/player/NPC/Mob/UCM,/turf/Ground/New_Turf34,/area)
+"dI" = (/turf/Ground/New_Turf74,/turf/Objects/Desks/Desk4,/area)
+"dJ" = (/obj/Pickup/Items/TripWire,/obj/Pickup/Items/TripWire,/obj/Pickup/Items/TripWire,/turf/Ground/New_Turf74,/area)
+"dK" = (/obj/Attackable/Pushable_Obj/Destroyable/Barricade2,/turf/Ground/New_Turf37,/area)
+"dL" = (/obj/Attackable/Pushable_Obj/Destroyable/Barricade2,/turf/Ground/New_Turf36,/area)
+"dM" = (/obj/Attackable/Pushable_Obj/Destroyable/Barricade2,/turf/Ground/New_Turf33,/area)
+"dN" = (/turf/Ground/New_Turf34,/obj/Attackable/Pushable_Obj/Destroyable/Barricade2,/turf/Objects/Junk/Paper,/area)
+"dO" = (/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Dirt,/area/Lights_Darkness/dark)
+"dP" = (/obj/obj_spawners/weapon,/turf/Objects/House_Props/Shelfs/Shelf,/area)
+"dQ" = (/obj/Pickup/Items/TripWire,/obj/Pickup/Items/TripWire,/obj/Pickup/Items/TripWire,/obj/Pickup/Items/TripWire,/turf/Ground/New_Turf74,/area)
+"dR" = (/obj/Pickup/Items/TripWire,/obj/Pickup/Items/TripWire,/turf/Ground/New_Turf74,/area)
+"dS" = (/turf/Ground/New_Turf74,/turf/Blood/Blood4,/turf/Blood/Blood2,/area)
+"dT" = (/turf/Ground/New_Turf74,/turf/Blood/Blood3,/turf/Blood/Blood4,/turf/Blood/Blood2,/area)
+"dU" = (/turf/Ground/New_Turf74,/turf/Objects/Junk/Paper,/turf/Blood/Blood3,/turf/Blood/Blood4,/turf/Blood/Blood2,/area)
+"dV" = (/obj/Attackable/Door/Door2{tag = "icon-door3_Closed (EAST)"; dir = 4},/turf/Ground/New_Turf74,/area)
+"dW" = (/turf/Ground/New_Turf37,/turf/Objects/Street_Poles/Street_Pole_10,/area)
+"dX" = (/turf/Ground/New_Turf36,/turf/Blood/Blood2,/area)
+"dY" = (/mob/player/NPC/Mob/UCM{tag = "icon-normal (WEST)"; dir = 4},/turf/Ground/New_Turf36,/area)
+"dZ" = (/turf/Ground/New_Turf36,/turf/Objects/Street_Poles/Street_Pole_10,/area)
+"ea" = (/obj/Pickup/Items/Ammo_Light_Machinegun,/turf/Objects/House_Props/Shelfs/Shelf,/area)
+"eb" = (/obj/Pickup/Items/Ammo_Light_Handgun,/obj/Pickup/Items/Ammo_Shotgun,/turf/Objects/House_Props/Shelfs/Shelf,/area)
+"ec" = (/obj/Pickup/Items/Ammo_Light_Handgun,/turf/Objects/House_Props/Shelfs/Shelf,/area)
+"ed" = (/obj/Pickup/Items/Ammo_Sniper2,/turf/Ground/New_Turf74,/area)
+"ee" = (/turf/Ground/New_Turf74,/mob/player/NPC/Obj/MANNED_TURRET/MAN_1{tag = "icon-Manturret (EAST)"; icon_state = "Manturret"; dir = 4},/turf/Blood/Blood2,/area)
+"ef" = (/turf/Ground/New_Turf74,/turf/Objects/Broken_Stuff/Windows/broken_2,/area)
+"eg" = (/obj/Pickup/Items/Grenade,/obj/Pickup/Items/Ammo_Light_Handgun,/turf/Objects/House_Props/Shelfs/Shelf,/area)
+"eh" = (/obj/Pickup/Items/Ammo_Light_Machinegun,/obj/Pickup/Items/Ammo_Shotgun,/turf/Objects/House_Props/Shelfs/Shelf,/area)
+"ei" = (/obj/Pickup/Items/Ammo_Heavy_Handgun,/obj/Pickup/Items/Spray,/turf/Objects/House_Props/Shelfs/Shelf,/area)
+"ej" = (/turf/Ground/New_Turf74,/turf/Objects/Street_Poles/Street_Pole_10,/turf/Objects/School/Lockers/Locker_6,/area)
+"ek" = (/turf/Ground/New_Turf74,/turf/Blood/Blood2,/turf/Objects/School/Lockers/Locker_6,/area)
+"el" = (/turf/Ground/New_Turf74,/turf/Objects/Junk/Paper,/turf/Objects/School/Lockers/Locker_6,/area)
+"em" = (/turf/Ground/New_Turf74,/turf/Objects/School/Lockers/Locker_8,/area)
+"en" = (/turf/Ground/Grass,/turf/Ground/DRoad,/area/Lights_Darkness/darkest)
+"eo" = (/turf/Walls/W_Density_No_Opacity/Wall_2,/area/Lights_Darkness/darkest)
+"ep" = (/obj/Pickup/Guns/Uzi,/turf/Ground/New_Turf74,/area)
+"eq" = (/turf/Walls/W_Density_Opacity/Wall_3,/area/Lights_Darkness/darker)
+"er" = (/turf/Ground/New_Turf74,/obj/Pickup/Guns/Sawnoff,/turf/Objects/Junk/Paper2,/area)
+"es" = (/turf/Walls/W_Density_No_Opacity/Wall_2,/area/Lights_Darkness/darker)
+"et" = (/turf/Walls/W_Density_No_Opacity/Wall_2,/area/Lights_Darkness/dark)
+"eu" = (/obj/Attackable/Windows/Window3,/turf/Ground/New_Turf74,/area/Lights_Darkness/dark)
+"ev" = (/turf/Ground/Dirt,/turf/Ground/DRoad,/area/Lights_Darkness/darker)
+"ew" = (/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Grass,/area/Lights_Darkness/darker)
+"ex" = (/turf/Ground/Grass,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/DRoad,/area/Lights_Darkness/darker)
+"ey" = (/turf/Ground/Dirt,/turf/Objects/Street_Poles/Street_Pole_6,/area)
+"ez" = (/turf/Ground/Dirt,/turf/Objects/Street_Poles/Street_Pole_7,/area)
+"eA" = (/turf/Ground/Dirt,/turf/Ground/Grass/Grass_Edges/Edge_1,/turf/Trees/Pine_Tree/Tree_part_6,/area/Lights_Darkness/darkest)
+"eB" = (/turf/Ground/Dirt,/turf/Trees/Pine_Tree/Tree_part_5,/area/Lights_Darkness/darkest)
+"eC" = (/turf/Ground/Dirt,/turf/Objects/Street_Poles/Street_Pole_5,/area)
+"eD" = (/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Dirt,/area/Lights_Darkness/darker)
+"eE" = (/turf/Ground/Dirt,/turf/Ground/Grass/Grass_Edges/Edge_1,/turf/Ground/Grass/Grass_Edges/Edge_4,/obj/Attackable/Destructable_Obj/Chainlink_Fence/NORTH,/turf/Trees/Pine_Tree/Tree_part_3,/area/Lights_Darkness/darkest)
+"eF" = (/turf/Ground/Dirt,/turf/Ground/Grass/Grass_Edges/Edge_4,/obj/Attackable/Destructable_Obj/Chainlink_Fence/NORTH,/turf/Trees/Pine_Tree/Tree_part_4,/area/Lights_Darkness/darkest)
+"eG" = (/obj/Attackable/Destructable_Obj/Chainlink_Fence/NORTH,/turf/Ground/Dirt,/area/Lights_Darkness/darkest)
+"eH" = (/turf/Ground/Dirt,/obj/Attackable/Destructable_Obj/Chainlink_Fence/NORTH,/turf/Ground/Grass/Grass_Edges/Edge_4,/area/Lights_Darkness/darker)
+"eI" = (/turf/Ground/Dirt,/obj/Attackable/Destructable_Obj/Chainlink_Fence/NORTH,/turf/Ground/Grass/Grass_Edges/Edge_4,/area/Lights_Darkness/dark)
+"eJ" = (/turf/Ground/Dirt,/turf/Ground/Grass/Grass_Edges/Edge_4,/obj/Attackable/Destructable_Obj/Chainlink_Fence/NORTH,/turf/Trees/Pine_Tree/Tree_part_6,/area)
+"eK" = (/turf/Ground/Dirt,/turf/Ground/Grass/Grass_Edges/Edge_4,/obj/Attackable/Destructable_Obj/Chainlink_Fence/NORTH,/turf/Trees/Pine_Tree/Tree_part_5,/area)
+"eL" = (/turf/Ground/Dirt,/turf/Objects/Street_Poles/Street_Pole_5,/obj/Attackable/Destructable_Obj/Chainlink_Fence/NORTH,/turf/Ground/Grass/Grass_Edges/Edge_4,/area)
+"eM" = (/turf/Ground/Dirt,/obj/Attackable/Destructable_Obj/Chainlink_Fence/NORTH,/turf/Ground/Grass/Grass_Edges/Edge_4,/area)
+"eN" = (/turf/Ground/Dirt,/obj/Attackable/Destructable_Obj/Chainlink_Fence/NORTH,/turf/Ground/Grass/Grass_Edges/Edge_4,/area/Lights_Darkness/darkest)
+"eO" = (/turf/Ground/Dirt,/turf/Objects/Street_Poles/Street_Pole_10,/obj/Attackable/Destructable_Obj/Chainlink_Fence/NORTH,/turf/Ground/Grass/Grass_Edges/Edge_4,/area)
+"eP" = (/turf/Ground/Dirt,/obj/Attackable/Destructable_Obj/Chainlink_Fence/NORTH,/turf/Trees/Pine_Tree/Tree_part_6,/area/Lights_Darkness/darkest)
+"eQ" = (/turf/Ground/Dirt,/turf/Ground/Grass/Grass_Edges/Edge_2,/obj/Attackable/Destructable_Obj/Chainlink_Fence/NORTH,/turf/Trees/Pine_Tree/Tree_part_5,/area/Lights_Darkness/darkest)
+"eR" = (/turf/Ground/Grass,/turf/Objects/Street_Poles/Street_Pole_4,/area)
+"eS" = (/turf/Ground/Grass,/turf/Trees/Pine_Tree/Tree_part_5,/area/Lights_Darkness/dark)
+"eT" = (/turf/Ground/Grass,/turf/Objects/Street_Poles/Street_Pole_11,/area)
+"eU" = (/turf/Ground/Grass,/turf/Locations/Red,/area/Lights_Darkness/darkest)
+"eV" = (/turf/Ground/Grass,/obj/Zombie_Spawn{icon_state = ""},/turf/Trees/Pine_Tree/Tree_part_3,/area/Lights_Darkness/darkest)
+"eW" = (/turf/Ground/Grass,/obj/Zombie_Spawn{icon_state = ""},/turf/Trees/Pine_Tree/Tree_part_4,/area/Lights_Darkness/darkest)
+
+(1,1,1) = {"
+aaabacacacacadabacacacacacadabacacacacadabacacacacacadabacacacacadabacacacacacadabacacacacadabacacacacacadabacacacacadabacacacacacadabacacacacacacadabacacacacadabacacacacacacacacac
+aeafagagagagaeafagagagagagaeafagagagagaeafagagagagagaeafagagagagaeafagagagagagaeafagagagagaeafagagagagagaeafagagagagaeafagagagagagaeafagagagagagagaeafagagagagaeafagagagagagagaaahac
+aiajagagagagaiajagaaahagagaiajagagagagaiajagaaahagagaiajagagagagaiajagaaahagagaiajagagagagaiajagaaahagagaiajagagagagaiajagaaahagagaiajagagagagagagaiajagagagagaiajagaaahagagagaeafac
+acagagaaahagagagagaeafagagagagagaaahagagagagaeafagagagagagaaahagagagagaeafagagagagagaaahagagagagaeafagagagagagaaahagagagagaeafagagagagagaaahagagagagagagaaahagagagagaeafagagagaiajac
+acagagaeafagagagagaiajagagagagagaeafagagagagaiajagagagagagaeafagagagagaiajagagagagagaeafagagagagaiajagagagagagaeafagagagagaiajagagagagagaeafagagagagagagaeafagagagagaiajagagagagagac
+acagagaiajagaaahagagagagagagagagaiajagaaahagagagagagagagagaiajagaaahagagagagagagagagaiajagaaahagagagagagagagagaiajagaaahagagagagagagagagaiajagagagagagagaiajagaaahagagagagaaahagagac
+acagagagagagaeafagagagagagagagagagagagaeafagagagagagagagagagagagaeafagagagagagagagagagagagaeafagagagagagagagagagagagaeafagagagagagagagagagagagagagagagagagagagaeafagagagagaeafagagac
+adahagagagagaiajagagagagagaaahagagagagaiajagagagagagaaahagagagagaiajagagagagagaaahagagagagaiajagagagagagaaahagagagagaiajagagagagagaaahagagagagagagaaahagagagagaiajagagagagaiajagagac
+aeafagagagagagagagagaaahagaeafagagagagagagagagaaahagaeafagagagagagagagagaaahagaeafagagagagagagagagaaahagaeafagagagagagagagagaaahagaeafagagagagagagaeafagagagagagagagagaaahagagagagac
+aiajagaaahagagagagagaeafagaiajagaaahagagagagagaeafagaiajagaaahagagagagagaeafagaiajagaaahagagagagagaeafagaiajagaaahagagagagagaeafagaiajagaaahagagagaiajagaaahagagagagagaeafagagaaahac
+acagagaeafagagagagagaiajagagagagaeafagagagagagaiajagagagagaeafagagagagagaiajagagagagaeafagagagagagaiajagagagagaeafagagagagagaiajagagagagaeafagagagagagagaeafagagagagagaiajagagaeafac
+acagagaiajagagaaahagagagagagagagaiajagagaaahagagagagagagagaiajagagaaahagagagagagagagaiajagagaaahagagagagagagagaiajagagaaahagagagagagagagaiajagagagagagagaiajagagaaahagagagagagaiajac
+acagagagagagagaeafagagagagagagagagagagagaeafagagagagagagagagagagagaeafagagagagagagagagagagagaeafagagagagagagagagagagagaeafagagagagagagagagagagagagagagagagagagagaeafagagagagagagagac
+adahagagagagagaiajagagaaahagagagagagagagaiajagagaaahagagagagagagagaiajagagaaahagagagagagagagaiajagagaaahagagagagagagagaiajagagaaahagagagagagagagagaaahagagagagagaiajagagaaahagagaaab
+aeafagagagagagagagagagaeafagagagaaahagagagagagagaeafagagagaaahagagagagagagaeafagagaaahagagagagagagagaeafagagagaaahagagagagagagaeafagagagaaahagagagaeafagagagagagagagagagaeafagagaeaf
+aiajagagagagaaahagagagaiajagagagaeafagaaahagagagaiajagagagaeafagaaahagagagaiajagagaeafagagaaahagagagaiajagagagaeafagaaahagagagaiajagagagaeafagagagaiajagagagagagahagagagaiajahagaiaj
+acagagagagagaeafagagagagagagagagaiajagaeafagagagagagagagagaiajagaeafagagagagagagagaiajagagaeafagagagagagagagagaiajagaeafagagagagagagagagaiajagagagagagagagagagaeafagagagagaeafagagac
+adahagagagagaiajagagagagagaaahagagagagaiajagagagagagaaahagagagagaiajagagagagagaaahagagagagaiajagagagagagaaahagagagagaiajagagagagagaaahagagagagagagaaahagagagagaiajagagagagaiajagagac
+aeafagagagagagagagagaaahagaeafagagagagagagagagaaahagaeafagagagagagagagagaaahagaeafagagagagagagagagaaahagaeafagagagagagagagagaaahagaeafagagagagagagaeafagagagagagagagagaaahagagagagac
+aiajagaaahagagagagagaeafagaiajagaaahagagagagagaeafagaiajagaaahagagagagagaeafagaiajagaaahakagagagagaeafagaiajagaaahagagagagagaeafagaiajagaaahagagagaiajagaaahagagagagagaeafagagaaahac
+acagagaeafagagagagagaiajagagagagaeafagagagagagaiajagagagagaeafagagagagagaiajagagagagaeafagagagagagaiajagagagagaeafagagagagagaiajagagagagaeafagagagagagagaeafagagagagagaiajagagaeafac
+acagagaiajagagaaahagagagagagagagaiajagagaaahagagagagagagagaiajagagaaahagagagagagagagaiajagagaaahagagagagagagagaiajagagaaahagagagagagagagaiajagagagagagagaiajagagaaahagagagagagaiajac
+acagagagagagagaeafagagagagagagagagagagagaeafagagagagagagagagagagagaeafagagagagagagagagagagagaeafagagagagagagagagagagagaeafagagagagagagagagagagagagagagagagagagagaeafagagagagagagagac
+adahagagagagagaiajagagaaahagagagagagagagaiajagagaaahagagagagagagagaiajagagaaahagagagagagagagaiajagagaaahagagagaaahagagaiajagagaaahagagagagagagagagagagagaaahagagaiajagagaaahagagaaab
+aeafagagagagagagagagagaeafagagagaaahagagagagagagaeafagagagaaahagagagalalalamanalalalaoapalagalalalalamanalalalamanagagagagagagaeafagagagagaaahagagagagagaeafagagagagagagaeafagagaeaf
+aiajagagagagagagagagagaiajagagagaeafagagagagagagaiajagagagaeafagagagalaqaqarasaqaqaqataualagalaqaqaqarasaqaqaqaravagagagagagagaiajagagagagaeafagagagagagaiajagagagagagagaiajagagaiaj
+adahagagagagaaahagagagagagaaahagaiajagaaahagagagagagagagagaiajagaaahalaqawawawawawawaxasalaaapaqawawawawawawawaqalagaaahagagagagagaaahagagaiajagagaaahagagagagaaahagagagagagagagagac
+aeafagagagagaeafagagagagagaeafagagagagaeafagagagagagagagagagagagaeafalaqawawawawawawawaqalaeanaqawawawawawawawaqalagaeafagagagagagaeafagagagagagagaeafagagagagaeafagagagagagagaaahac
+aiajagagagagaiajagaaahagagaiajagagagagaiajagaaahagagagagagagagagaiajalaqawawayazawawawaqalaiavaqawawayazawawawaqalagaiajagagagagagaiajagagagagagagaiajagagagagaiajagaaahagagagaeafac
+acagagaaahagagagagaeafagagagagagaaahagagagagaeafagaAaBaBaBaBaBaBaBaBaCaDaEaEaFaEaEaEaEaDaCaBaCaDaEaEaFaEaEaEaEaDaCaBaBaBaBaBaBaBaGagagagaaahagagagagagagaaahagagagagaeafagagagaiajac
+acagagaeafagagagagaiajagagagagagaeafagagagagaiajagaAaHaIaIaIaIaIaIaIaJaKaLaLaMaLaLaLaLaJaJaJaJaJaLaLaMaLaLaLaLaKaJaIaIaIaIaIaIaNaGagagagaeafagagagagagagaeafagagagagaiajagagagagagac
+acagagaiajagaaahagagagagagagagagaiajagaaahagagagagaAaOaPaPaPaPaPaPaPaQaRaSaSaTaSaSaSaSaSaSaSaSaQaSaSaTaSaSaSaSaRaQaPaPaPaPaPaPaUaGagagagaiajagagagagagagaiajagaaahagagagagaaahagagac
+acagagagagagaeafagagagagagagagagagagagaeafagalalalaVaWaQaQaQaQaQaQaPaQaRaRaRaRaRaRaXaYaYaZaYaYaYaSaSaSaSaSaSaSaRaQaQaQaQaQaQaQbabbalagagagagagagagagagagagagagaeafagagagagaeafagagac
+adahagagagagaiajagagagagagaaahagagagagaiajagalaqaqbcbdaRaRaRaRaRaQaPbebebebebebebebebfbgbhbgbfbeaSaSaSaSaSaSaSaRaRaRaRaRaRaRaRbibjaoahagagagagagagaaahagagagagaiajagagagagaiajagagac
+aeafagagagagagagagagaaahagaeafagagagagagagagalbkblbmbnaSaSaSaSaRaQbobebebebebebebebebpbqbpbpbqbebebebebebebebebebebebebeaSaSaSbrbjamafagagagagagagaeafagagagagagagagagaaahagagagagac
+aiajagaaahagagagagagaeafagaiajagaaahagagagagalatbsbmbnaSaSaSaSaRaQbobebebebebebebebebtbtbubtbtbebebebebebebebebebebebebeaSaSaSbrbjbvajagaaahagagagaiajagaaahagagagagagaeafagagaaahac
+acagagaeafagagagagagaiajagagagagaeafagagagagalarbwbmbnbxbyaSaSaRaQbobebebebebebebebebzbtbtbAbtbebebebebebebebebebebebebebxbyaSbrbjalagagaeafagagagagagagaeafagagagagagaiajagagaeafac
+acagagaiajagagaaahagagagagagagagaiajagagaaahalaqawbmbnaSbBaSaSaRaQbobebebebebebebebebtbtbtbtbtbebebebebebebebebebebebebebCbBaSbrbjalagagaiajagagagagagagaiajagagaaahagagagagagaiajac
+acagagagagagagaeafagagagagagagagagagagagaeafalaqawbmbnaSbBaSaSaRaQbobebebebebebebebebqbDbqbqbqbebebebebebebebebebebebebebCbBaSbrbjalagagagagagagagagagagagagagagaeafagagagagagagagac
+adahagagagagagaiajagagaaahagagagagagagagaiajalaqawbmbnaSbEaSaSaRaQbobebebebebebebebFbGbGbtbGbGbgbHbIbJbKbLbMbHbNbObPbgbebQbEaSbrbjalagagagagagagagagagagaaahagagaiajagagaaahagagaaab
+aeafagagagagagagagagagaeafagagagaaahagagagagalaqaqbcbdaRaRaRaRaRaQbobebebebebebebebRbtbSbtbTbtbzbUbtbtbVbqbtbUbWbqbXbqbebYaRaRbibjalagagagaaahagagagagagaeafagagagagagagaeafagagaeaf
+aiajagagagagagagagagagaiajagagagaeafagagagagalalalaVaWaQaQaQaQaQaQbobebebebebebebebRbtbtbtbZbtbtcabtcbbtbqbzbUccbqcdcebecfaQaQbabbalagagagaeafagagagagagaiajagagagagagagaiajagagaiaj
+adahagagagagaaahagagagagagaaahagaiajagaaahagagagagaAaOaPaPaPaPaPaPbobebebebebebebecgbtbtbtchcicjckbzbzbtbqbtbUccbtbUclbebYaQaPaUaGaaahagagaiajagagaaahagagagagaaahagagagagagagagagac
+aeafagagagagaeafagagagagagaeafagagagagaeafagagagagaAaOaPaPaPaPaPaPbobebebebebebebebebtbtbzbtbebebebRbtcmbebtbUcnbGbUcocpbYaQaPaUaGaeafagagagagagagaeafagagagagaeafagagagagagagaaahac
+aiajagagagagaiajagaaahagagaiajagagagagaiajagaaahagaAaOaPaPaPaPaPaPbobebNbgbIbgcqbgcrbtbtbtbtcrbebebRbtcmbebtcdcccsbUbqbebYaQaPaUaGaiajagagagagagagaiajagagagagaiajagaaahagagagaeafac
+acagagaaahagagagagaeafagagagagagaaahagagagagaeafagaAaOaPaPaPaPaPaPctbecubtcvcwcxcyczbtbtbtbtczbebebRbzcmbebecAcBcCcDcEbeaQaPaPaUaGagagagaaahagagagagagagaaahagagagagaeafagagagaiajac
+acagagaeafagagagagaiajagagagagagaeafagagagalbvavalaVcFcGcGcGcGaQaPcHbebtbtcIcJcCcKcCcLcCcKcMcNbJbecObtcPcQbecRcScTcUcVbeaPaPaPaUaGagagagaeafagagagagagagaeafagagagagaiajagagagagagac
+acagagaiajagaaahagagagagagagagagaiajagaaahalaqaqaqaqcWcWcWcWcWcXaPcYbebzbtcZdadbdadadadadadadcbtbedddebtdfbedgdhdadidjbeaPaPaPaUaGagagagaiajagagagagagagaiajagaaahagagagagaaahagagac
+acagagagagagaeafagagagagagagagagagagagaeafalaqawawawdkdkdkdkcWcXaPcYbebtbtcZdadldadadadadadadmcwbednbzbtdobedpdqdldrdjbedsaPaPaUaGagagagagagagagagagagagagagagaeafagagagagaeafagagac
+adahagagagagaiajagagagagagaaahagagagagaiajalaqawawbmdtaLaLaLcWcXaPctbebebebebebedududadvdadldjbtbedwcbbtdxbedpcSdadrdjbedsaPaPaUaGaaahagagagagagagaaahagagagagaiajagagagagaiajagagac
+aeafagagagagagagagagaaahagaeafagagagagagagalaqdyblbmdzbyaSaScWcXaPcHbebNbKbLbMbgbtdAcZdadldadjdAbedBdCbzcPbedpdhdDdrdjbedsaPaPaUaGaeafagagagagagagaeafagagagagagagagagaaahagagagagac
+aiajagaaahagagagagagaeafagaiajagaaahagagagalaqdEbsbmbnbBaSaScWcXaPbobedFbtbtbtbtbtbtdGdadadbdHbtbedIbzbtdBbedpdqdadrdjbeaRaQaPaUaGaiajagaaahagagagaiajagaaahagagagagagaeafagagaaahac
+acagagaeafagagagagagaiajagagagagaeafagagagalaqaxbwbmbnbBaSaScWcXaPbobedFbtdJdJbtbtbedKdLdudLdMbqbebtbtdCdIbOdpcSdadrdNbedOaQaPaUaGagagagaeafagagagagagagaeafagagagagagaiajagagaeafac
+acagagaiajagagaaahagagagagagagagaiajagagaaapaqawawbmbnbEaSaScWcXaPbobedPbtdQdRbtbtbedSdTdTdTdUdTdVbtbtcbbGcodWdXdYdZdMcpdOaQaPaUaGagagagaiajagagagagagagaiajagagaaahagagagagagaiajac
+acagagagagagagaeafagagagagagagagagagagagaeanaqaqaqbcbdaRaRaRcWcXaPbobeeaebecebeabebebzbtcbbzbtbebebzedcwbtbqbUeeefbUbqbedOaQaPaUaGagagagagagagagagagagagagagagagaeafagagagagagagagac
+adahagagagagagaiajagagaaahagagagagagagagaiavalalalaVaWaQaQaQcXcXaPbobebebebebebebebebtbtbtbtbtbebeeaegeheibeejekelejembeaRaQaPaUaGagagagagagagagagaaahagagagagagaiajagagaaahagagaaab
+aeafagagagagagagagagagaeafagagagaaahagagagagagagagaAaOaPaPaPenenaPboeoeoeoeoeoeobebeepbtbtbtbtbebebebebebebeeqeqeqeqeqeqaQaQaPaUaGagagagagaaahagagaeafagagagagagagagagagaeafagagaeaf
+aiajagagagagagagagagagaiajagagagaeafagagagagagagagaAaOaPaPaPenenaPbobobobobobobobebebtbzbtbterbeeseoeoeoeoeoeoeoeoeoeoeoaPaPaPaUaGagagagagaeafagagaiajagagagagagagagagagaiajagagaiaj
+adahagagagagaaahagagagagagaaahagaiajagaaahagagagagaAaOaPaPaPenenaPaPaPaPaPaPaPbobebeaYbebebeaYbeboboboboboboboaPaPaPaPaPaPaPaPaUaGaaahagagaiajagagaaahagagagagaaahagagagagagagagagac
+aeafagagagagaeafagagagagagaeafagagagagaeafagagagagaAaOaPaPaPenenaPaPaPaPaPaPaPboeseteueteteteuetaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaUaGaeafagagagagagagaeafagagagagaeafagagagagagagaaahac
+aiajagagagagaiajagaaahagagaiajagagagagaiajagaaahagaAaOaPaPaPenenaPaPaQaQaQaQaQevevcfbYewcWexbYcfaQaQaQaQaQaQaQaQaQaPaPaPaPaPaPaUaGaiajagagagagagagaiajagagagagaiajagaaahagagagaeafac
+acagagaaahagagagagaeafagagagagagaaahagagagagaeafagaAaOaPaPaPenenenencXcWcWcWcWcWcWcWcWcWcXenaQaRaRaRaRaRaRaRaRaRaQaPaPaPaPaPaPaUaGagagagaaahagagagagagagaaahagagagagaeafagagagaiajac
+acagagaeafagagagagaiajagagagagagaeafagagagagaiajagaAaOaPaPaPenenenencXcWdkdkdkdkdkdkdkcWcXenaQaRaSaSaSaSaSaSaSaRaQaPaPaPaPaPaPaUaGagagagaeafagagagagagagaeafagagagagaiajagagagagagac
+acagagaiajagaaahagagagagagagagagaiajagaaahagagagagaAaOaPaPaPaPaPaPaPaQaRaSaSaSaSaSaSaSaRaQaPaQaRaSaSaSaSaSaSaSaRaQaPaPaPaPaPaPaUaGagagagaiajagagagagagagaiajagaaahagagagagaaahagagac
+acagagagagagaeafagagagagagagagagagagagaeafagagagagaAaOaPaPaPaPaPaPaPaQaRaSaSeyezaSaSaSaRaQaPaQaRaSaSaSbxbyaSaSaRaQaPaPaPaPaPaPaUaGagagagagagagagagagagagagagagaeafagagagagaeafagagac
+adahagagagagaiajagagagagagaaahagagagagaiajagagagagaAeAeBaPaPaPaPaPaPaQaRaSaSeCaSaSaSaSaReDaPeDaRaSaSaSaSbBaSaSaRaQaPaPaPaPaPaPaUaGaaahagagagagagagaaahagagagagaiajagagagagaiajagagac
+aeafagagagagagagagagaaahagaeafagagagagagagagagaaahaAeEeFeGeGeGeGeGeGeHeIeJeKeLeMeMeMeMeIeHeNeHeIeJeKeMeMeOeMeMeIeHeNeGeGeGeGePeQaGaeafagagagagagagaeafagagagagagagagagaaahagagagagac
+aiajagaaahagagagagagaeafagaiajagaaahagagagagagaeafagaiajagaaahagagagalaqdEbseRawawawdyeSalagalaqdEbsawaweTawawbkapagagagagagaeafagaiajagaaahagagagaiajagaaahagagagagagaeafagagaaahac
+acagagaeafagagagagagaiajagagagagaeafagagagagagaiajagagagagaeafagagagalaqarasaqaqaqaqataualagalaqarasaqaqaqaqaqatanagagagagagaiajagagagagaeafagagagagagagaeafagagagagagaiajagagaeafac
+acagagaiajagagaaahagagagagagagagaiajagagaaahagagagagagagagaiajagagaaapalalalalalalalbvavalagaoapalalalalalalalbvavagagaaahagagagagagagagaiajagagagagagagaiajagagaaahagagagagagaiajac
+acagagagagagagaeafagagagagagagagagagagagaeafagagagagagagagagagagagaeafagagagagagagagagagagagaeafagagagagagagagagagagagaeafagagagagagagagagagagagagagagagagagagagaeafagagagagagagagac
+adahagagagagagaiajagagaaahagagagagagagagaiajagagaaahagagagagagagagaiajagagaaahagagagagagagagaiajagagaaahagagagagagagagaiajagagaaahagagagagagagagagaaahagagagagagaiajagagaaahagagaaab
+aeafagagagagagagagagagaeafagagagaaahagagagagagagaeafagagagaaahagagagagagagaeafagagagaaahagagagagagagaeafagagagaaahagagagagagagaeafagagagagaaahagagaeafagagagagagagagagagaeafagagaeaf
+aiajagagagagagagagagagaiajagagagaeafagagagagagagaiajagagagaeafagagagagagagaiajagagagaeafeUagagagagagaiajagagagaeafagagagagagagaiajagagagagaeafagagaiajagagagagagagagagagaiajagagaiaj
+adahagagagagaaahagagagagagaaahagaiajagaaahagagagagagaaahagaiajagaaahagagagagagaaahagaiajagaaahagagagagagaaahagaiajagaaahagagagagagaaahagagaiajagagaaahagagagagaaahagagagagagagagagac
+aeafagagagagaeafagagagagagaeafagagagagaeafagagagagagaeafagagagagaeafagagagagagaeafagagagagaeafagagagagagaeafagagagagaeafagagagagagaeafagagagagagagaeafagagagagaeafagagagagagagaaahac
+aiajagagagagaiajagaaahagagaiajagagagagaiajagaaahagagaiajagagagagaiajagaaahagagaiajagagagagaiajagaaahagagaiajagagagagaiajagaaahagagaiajagagagagagagaiajagagagagaiajagaaahagagagaeafac
+acagagaaahagagagagaeafagagagagagaaahagagagagaeafagagagagagaaahagagagagaeafagagagagagaaahagagagagaeafagagagagagaaahagagagagaeafagagagagagaaahagagagagagagaaahagagagagaeafagagagaiajac
+acagagaeafagagagagaiajagagagagagaeafagagagagaiajagagagagagaeafagagagagaiajagagagagagaeafagagagagaiajagagagagagaeafagagagagaiajagagagagagaeafagagagagagagaeafagagagagaiajagagagagagac
+acagagaiajagaaahagagagagagagagagaiajagaaahagagagagagagagagaiajagaaahagagagagagagagagaiajagaaahagagagagagagagagaiajagaaahagagagagagagagagaiajagagagagagagaiajagaaahagagagagaaahagagac
+acagagagagagaeafagagagagagagagagagagagaeafagagagagagagagagagagagaeafagagagagagagagagagagagaeafagagagagagagagagagagagaeafagagagagagagagagagagagagagagagagagagagaeafagagagagaeafagagac
+adahagagagagaiajagagagagagaaahagagagagaiajagagagagagaaahagagagagaiajagagagagagaaahagagagagaiajagagagagagaaahagagagagaiajagagagagagaaahagagagagagagaaahagagagagaiajagagagagaiajagagac
+aeafagagagagagagagagaaahagaeafagagagagagagagagaaahagaeafagagagagagagagagaaahagaeafagagagagagagagagaaahagaeafagagagagagagagagaaahagaeafagagagagagagaeafagagagagagagagagaaahagagagagac
+aiajagaaahagagagagagaeafagaiajagaaahagagagagagaeafagaiajagaaahagagagagagaeafagaiajagaaahagagagagagaeafagaiajagaaahagagagagagaeafagaiajagaaahagagagaiajagaaahagagagagagaeafagagaaahac
+acagagaeafagagagagagaiajagagagagaeafagagagagagaiajagagagagaeafagagagagagaiajagagagagaeafagagagagagaiajagagagagaeafagagagagagaiajagagagagaeafagagagagagagaeafagagagagagaiajagagaeafac
+acagagaiajagagaaahagagagagagagagaiajagagaaahagagagagagagagaiajagagaaahagagagagagagagaiajagagaaahagagagagagagagaiajagagaaahagagagagagagagaiajagagagagagagaiajagagaaahagagagagagaiajac
+acagagagagagagaeafagagagagagagagagagagagaeafagagagagagagagagagagagaeafagagagagagagagagagagagaeafagagagagagagagagagagagaeafagagagagagagagagagagagagagagagagagagagaeafagagagagagagagac
+adahagagagagagaiajagagaaahagagagagagagagaiajagagaaahagagagagagagagaiajagagaaahagagagagagagagaiajagagaaahagagagagagagagaiajagagaaahagagagagagagagagaaahagagagagagaiajagagaaahagagaaab
+eVafagagagagagagagagagaeafagagagaaahagagagagagagaeafagagagaaahagagagagagagaeafagagagaaahagagagagagagaeafagagagaaahagagagagagagaeafagagagaaahagagagaeafagagagagagagagagagaeafagagaeaf
+aiajacacacacacacacacacaiajacacaceVeWacacacacacacaiajacacacaeafacacacacacacaiajacacacaeafacacacacacacaiajacacacaeafacacacacacacaiajacacaceVeWacacacaiajacacacacacacacacacaiajacacaiaj
+"}

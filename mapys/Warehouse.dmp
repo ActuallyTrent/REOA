@@ -1,0 +1,265 @@
+"aa" = (/obj/Zombie_Spawn{icon_state = ""},/turf/Ground/Wood_Floor,/area)
+"ab" = (/turf/Ground/Wood_Floor,/obj/Zombie_Spawn{icon_state = ""},/turf/Ground/DRoad,/area)
+"ac" = (/turf/Ground/Wood_Floor,/turf/Objects/Pipes_2,/area)
+"ad" = (/turf/Ground/New_Turf74,/turf/Objects/Pipes_2,/area)
+"ae" = (/turf/Ground/Wood_Floor,/obj/Zombie_Spawn{icon_state = ""},/turf/Ground/Withe_Line4,/area)
+"af" = (/turf/Ground/Wodd_Floor_Laminated2,/obj/Zombie_Spawn{icon_state = ""},/turf/Ground/Withe_Line2,/area)
+"ag" = (/obj/Zombie_Spawn{icon_state = ""},/turf/Ground/New_Turf74,/area)
+"ah" = (/obj/Zombie_Spawn{icon_state = ""},/turf/Ground/Wodd_Floor_Laminated2,/area)
+"ai" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/obj/Zombie_Spawn{icon_state = ""},/turf/Ground/Withe_Line4,/area)
+"aj" = (/turf/Ground/New_Turf74,/obj/Zombie_Spawn{icon_state = ""},/turf/Ground/Withe_Line2,/area)
+"ak" = (/turf/Ground/Wood_Floor,/turf/Ground/Withe_Line4,/turf/Objects/Pipes_2,/area)
+"al" = (/turf/Ground/Wodd_Floor_Laminated2,/obj/Zombie_Spawn{icon_state = ""},/turf/Ground/DRoad,/area)
+"am" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/obj/Zombie_Spawn{icon_state = ""},/turf/Ground/Withe_Line2,/area)
+"an" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/area)
+"ao" = (/turf/Ground/New_Turf74,/turf/Ground/DRoad,/area)
+"ap" = (/turf/Ground/New_Turf74,/area)
+"aq" = (/turf/Ground/Wood_Floor,/area)
+"ar" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/Withe_Line4,/area)
+"as" = (/turf/Ground/Wood_Floor,/turf/Ground/Withe_Line2,/area)
+"at" = (/turf/Ground/Wood_Floor,/turf/Ground/Withe_Line4,/area)
+"au" = (/turf/Ground/Wodd_Floor_Laminated2,/area)
+"av" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/Withe_Line2,/area)
+"aw" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/Withe_Line4,/turf/Objects/Pipes_2,/area)
+"ax" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/turf/Ground/Withe_Line4,/area)
+"ay" = (/turf/Ground/New_Turf74,/obj/Zombie_Spawn{icon_state = ""},/turf/Ground/DRoad,/area)
+"az" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/turf/Objects/Pipes_2,/area)
+"aA" = (/turf/Ground/Wood_Floor,/turf/Objects/Pipes_1,/area)
+"aB" = (/turf/Ground/New_Turf74,/turf/Ground/Withe_Line4,/area)
+"aC" = (/turf/Ground/New_Turf74,/turf/Ground/Withe_Line4,/turf/Objects/Pipes_2,/area)
+"aD" = (/turf/Ground/New_Turf74,/turf/Objects/Pipes_1,/area)
+"aE" = (/turf/Ground/New_Turf74,/turf/Ground/Withe_Line2,/area)
+"aF" = (/turf/Ground/New_Turf74,/turf/Ground/Withe_Line4,/turf/Objects/Pipes_1,/area)
+"aG" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/turf/Ground/Withe_Line2,/area)
+"aH" = (/obj/Pickup/Items/gastanker,/turf/Ground/Wood_Floor,/area)
+"aI" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/Withe_Line4,/turf/Objects/Pipes_1,/area)
+"aJ" = (/obj/Pickup/Items/gastanker,/turf/Ground/New_Turf74,/area)
+"aK" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/DRoad,/area)
+"aL" = (/turf/Ground/Wood_Floor,/turf/Objects/Lab/Barrel_1,/area)
+"aM" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/DRoad,/turf/Objects/Lab/Barrel_1,/area)
+"aN" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/DRoad,/turf/Ground/Withe_Line4,/area)
+"aO" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Objects/Lab/Barrel_1,/area)
+"aP" = (/turf/Ground/New_Turf74,/turf/Objects/Lab/Barrel_1,/area)
+"aQ" = (/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Wood_Floor,/area)
+"aR" = (/turf/Ground/Wood_Floor,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Withe_Line4,/area)
+"aS" = (/turf/Ground/New_Turf74,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Ground/Withe_Line2,/area)
+"aT" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Ground/Withe_Line4,/area)
+"aU" = (/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Ground/New_Turf74,/area)
+"aV" = (/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Ground/Wood_Floor,/area)
+"aW" = (/turf/Ground/New_Turf74,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Ground/DRoad,/area)
+"aX" = (/turf/Ground/New_Turf74,/turf/Ground/DRoad,/turf/Objects/Lab/Barrel_1,/area)
+"aY" = (/turf/Ground/Wood_Floor,/obj/Pickup/Items/gastanker,/turf/Ground/Withe_Line4,/area)
+"aZ" = (/obj/Vehicle/tl{health = 100; gas = 0},/turf/Ground/Wood_Floor,/area)
+"ba" = (/turf/Ground/Wood_Floor,/turf/Ground/Withe_Line4,/turf/Objects/Lab/Barrel_1,/area)
+"bb" = (/turf/Ground/Wood_Floor,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Withe_Line2,/area)
+"bc" = (/turf/Ground/New_Turf74,/turf/Ground/DRoad,/turf/Ground/Withe_Line4,/area)
+"bd" = (/turf/Objects/House_Props/Shelfs/Box,/area)
+"be" = (/turf/Ground/Wood_Floor,/obj/Pickup/Items/gastanker,/turf/Ground/DRoad,/area)
+"bf" = (/turf/Ground/New_Turf74,/turf/Ground/DRoad,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Withe_Line4,/area)
+"bg" = (/turf/Ground/New_Turf74,/obj/Pickup/Items/gastanker,/turf/Ground/DRoad,/area)
+"bh" = (/turf/Ground/Wood_Floor,/obj/Zombie_Spawn{icon_state = ""},/turf/Ground/Withe_Line5,/area)
+"bi" = (/turf/Ground/Wood_Floor,/turf/Ground/Withe_Line5,/area)
+"bj" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/turf/Ground/Withe_Line5,/area)
+"bk" = (/turf/Ground/New_Turf74,/turf/Ground/DRoad,/turf/Ground/Withe_Line5,/area)
+"bl" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/Withe_Line5,/area)
+"bm" = (/turf/Ground/Wood_Floor,/turf/Ground/Withe_Line4,/turf/Ground/Withe_Line5,/area)
+"bn" = (/turf/Ground/Wood_Floor,/turf/Ground/Withe_Line5,/turf/Ground/Withe_Line2,/area)
+"bo" = (/turf/Ground/Wood_Floor,/turf/Ground/Withe_Line4,/turf/Ground/Withe_Line5,/turf/Objects/Lab/Barrel_1,/area)
+"bp" = (/turf/Ground/Wood_Floor,/turf/Ground/Withe_Line5,/turf/Objects/House_Props/Shelfs/Box2,/area)
+"bq" = (/turf/Ground/New_Turf74,/turf/Ground/Withe_Line5,/area)
+"br" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/Withe_Line5,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Ground/Withe_Line2,/area)
+"bs" = (/turf/Ground/Wood_Floor,/turf/Ground/Withe_Line5,/turf/Locations/Mayham_Start,/area)
+"bt" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/Withe_Line5,/turf/Objects/Lab/Barrel_1,/area)
+"bu" = (/turf/Ground/New_Turf74,/turf/Ground/Withe_Line4,/turf/Ground/Withe_Line5,/area)
+"bv" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/turf/Ground/Withe_Line5,/turf/Ground/Withe_Line2,/area)
+"bw" = (/turf/Ground/Wood_Floor,/turf/Ground/Withe_Line4,/obj/Pickup/Items/gastanker,/turf/Ground/Withe_Line5,/area)
+"bx" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/obj/Zombie_Spawn{icon_state = ""},/turf/Ground/Withe_Line,/area)
+"by" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/DRoad,/turf/Ground/Withe_Line,/area)
+"bz" = (/turf/Ground/Wood_Floor,/turf/Ground/Withe_Line,/area)
+"bA" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/turf/Ground/Withe_Line,/area)
+"bB" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/Withe_Line,/area)
+"bC" = (/turf/Ground/Wood_Floor,/turf/Ground/Withe_Line4,/turf/Ground/Withe_Line,/area)
+"bD" = (/turf/Ground/Wood_Floor,/turf/Ground/Withe_Line,/turf/Ground/Withe_Line2,/turf/Objects/Lab/Barrel_1,/area)
+"bE" = (/turf/Ground/Wood_Floor,/turf/Ground/Withe_Line4,/turf/Ground/Withe_Line,/turf/Objects/Lab/Barrel_1,/area)
+"bF" = (/turf/Ground/New_Turf74,/turf/Ground/Withe_Line,/area)
+"bG" = (/turf/Ground/New_Turf74,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Ground/Withe_Line,/area)
+"bH" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/Withe_Line4,/turf/Ground/Withe_Line,/turf/Objects/Lab/Barrel_1,/area)
+"bI" = (/turf/Ground/New_Turf74,/turf/Ground/Withe_Line4,/turf/Ground/Withe_Line,/area)
+"bJ" = (/turf/Ground/Wood_Floor,/obj/Zombie_Spawn{icon_state = ""},/turf/Ground/Withe_Line,/area)
+"bK" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/obj/Zombie_Spawn{icon_state = ""},/turf/Ground/Withe_Line5,/area)
+"bL" = (/turf/Ground/New_Turf74,/turf/Ground/Withe_Line4,/turf/Ground/Withe_Line5,/turf/Objects/Lab/Barrel_1,/area)
+"bM" = (/turf/Ground/Wood_Floor,/turf/Ground/Withe_Line5,/turf/Ground/Withe_Line2,/turf/Objects/Lab/Barrel_1,/area)
+"bN" = (/obj/obj_spawners/item,/obj/obj_spawners/item,/turf/Objects/House_Props/Shelfs/Box,/area)
+"bO" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/DRoad,/turf/Ground/Withe_Line4,/turf/Ground/Withe_Line5,/turf/Objects/Lab/Barrel_1,/area)
+"bP" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/turf/Ground/Withe_Line4,/turf/Ground/Withe_Line5,/area)
+"bQ" = (/turf/Ground/Wood_Floor,/turf/Ground/Withe_Line5,/turf/Locations/Blue,/area)
+"bR" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/turf/Ground/Withe_Line5,/turf/Ground/Withe_Line2,/turf/Objects/Lab/Barrel_1,/area)
+"bS" = (/turf/Ground/New_Turf74,/turf/Ground/Withe_Line5,/turf/Objects/Lab/Barrel_1,/area)
+"bT" = (/turf/Ground/Wood_Floor,/turf/Ground/Withe_Line5,/turf/Objects/Lab/Barrel_1,/area)
+"bU" = (/turf/Ground/New_Turf74,/turf/Ground/Withe_Line4,/turf/Objects/Lab/Barrel_1,/area)
+"bV" = (/obj/obj_spawners/item,/turf/Objects/House_Props/Shelfs/Box,/area)
+"bW" = (/turf/Ground/Wood_Floor,/turf/Ground/Withe_Line4,/turf/Objects/House_Props/Shelfs/Box2,/area)
+"bX" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/turf/Objects/Lab/Barrel_1,/area)
+"bY" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/DRoad,/turf/Ground/Withe_Line4,/turf/Objects/Lab/Barrel_1,/area)
+"bZ" = (/turf/Ground/New_Turf74,/turf/Ground/DRoad,/turf/Ground/Withe_Line2,/turf/Objects/Lab/Barrel_1,/area)
+"ca" = (/turf/Ground/Wood_Floor,/turf/Ground/Withe_Line2,/turf/Objects/House_Props/Shelfs/Box2,/area)
+"cb" = (/turf/Objects/House_Props/Shelfs/Shelf,/area)
+"cc" = (/obj/obj_spawners/item,/turf/Objects/House_Props/Shelfs/Shelf,/area)
+"cd" = (/turf/Ground/Wood_Floor,/turf/Ground/Withe_Line2,/turf/Objects/Lab/Barrel_1,/area)
+"ce" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/turf/Ground/Withe_Line4,/turf/Objects/Lab/Barrel_1,/area)
+"cf" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/Withe_Line4,/turf/Objects/Lab/Barrel_1,/area)
+"cg" = (/turf/Ground/Wood_Floor,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/DRoad,/area)
+"ch" = (/turf/Ground/Wodd_Floor_Laminated2,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/DRoad,/area)
+"ci" = (/obj/obj_spawners/weapon,/obj/obj_spawners/item,/turf/Objects/House_Props/Shelfs/Box,/area)
+"cj" = (/turf/Ground/New_Turf74,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/DRoad,/area)
+"ck" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/turf/Ground/Withe_Line2,/turf/Objects/Lab/Barrel_1,/area)
+"cl" = (/turf/Ground/Wodd_Floor_Laminated2,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Ground/DRoad,/area)
+"cm" = (/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Wodd_Floor_Laminated2,/area)
+"cn" = (/turf/Ground/Wood_Floor,/turf/Objects/House_Props/Shelfs/Box2,/area)
+"co" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/turf/Ground/Withe_Line4,/turf/Objects/Lab/Barrel_2,/area)
+"cp" = (/turf/Ground/Wodd_Floor_Laminated2,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Ground/Withe_Line4,/area)
+"cq" = (/turf/Ground/New_Turf74,/turf/Ground/DRoad,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Withe_Line2,/area)
+"cr" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/turf/Ground/Withe_Line2,/turf/Objects/Lab/Barrel_2,/area)
+"cs" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/DRoad,/turf/Ground/Withe_Line2,/area)
+"ct" = (/turf/Ground/Wood_Floor,/turf/Ground/Withe_Line2,/turf/Objects/Lab/Barrel_2,/area)
+"cu" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/DRoad,/turf/Ground/Withe_Line2,/turf/Objects/Lab/Barrel_1,/area)
+"cv" = (/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Ground/Wodd_Floor_Laminated2,/area)
+"cw" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Objects/Lab/Barrel_2,/area)
+"cx" = (/obj/obj_spawners/item,/obj/obj_spawners/weapon,/turf/Objects/House_Props/Shelfs/Shelf,/area)
+"cy" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/Withe_Line4,/turf/Locations/Mayham_Start,/area)
+"cz" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Withe_Line2,/area)
+"cA" = (/turf/Ground/New_Turf74,/turf/Objects/Lab/Barrel_2,/area)
+"cB" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Ground/Withe_Line2,/area)
+"cC" = (/obj/obj_spawners/weapon,/turf/Objects/House_Props/Shelfs/Shelf,/area)
+"cD" = (/turf/Ground/New_Turf74,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Ground/Withe_Line5,/area)
+"cE" = (/turf/Ground/New_Turf74,/turf/Ground/DRoad,/turf/Ground/Withe_Line4,/turf/Ground/Withe_Line5,/area)
+"cF" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/Withe_Line5,/turf/Ground/Withe_Line2,/area)
+"cG" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/Withe_Line4,/turf/Ground/Withe_Line5,/area)
+"cH" = (/turf/Ground/Wood_Floor,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Withe_Line5,/area)
+"cI" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/Withe_Line5,/turf/Objects/Lab/Barrel_2,/area)
+"cJ" = (/turf/Ground/Wood_Floor,/turf/Ground/Withe_Line5,/turf/Ground/Withe_Line2,/turf/Objects/Lab/Barrel_2,/area)
+"cK" = (/turf/Ground/New_Turf74,/turf/Ground/DRoad,/turf/Ground/Withe_Line5,/turf/Objects/Lab/Barrel_2,/area)
+"cL" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/DRoad,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Ground/Withe_Line5,/area)
+"cM" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Ground/Withe_Line5,/area)
+"cN" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/turf/Ground/Withe_Line4,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Withe_Line5,/area)
+"cO" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/Withe_Line5,/turf/Ground/Withe_Line2,/turf/Objects/Lab/Barrel_1,/area)
+"cP" = (/turf/Ground/Wood_Floor,/obj/Pickup/Items/gastanker,/turf/Ground/Withe_Line5,/area)
+"cQ" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/DRoad,/obj/Zombie_Spawn{icon_state = ""},/turf/Ground/Withe_Line,/area)
+"cR" = (/turf/Ground/Wood_Floor,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Withe_Line,/area)
+"cS" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/Withe_Line,/turf/Ground/Withe_Line2,/area)
+"cT" = (/turf/Ground/Wood_Floor,/turf/Ground/Withe_Line,/turf/Objects/Lab/Barrel_1,/area)
+"cU" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/turf/Ground/Withe_Line,/turf/Objects/Lab/Barrel_2,/area)
+"cV" = (/turf/Ground/New_Turf74,/turf/Ground/DRoad,/turf/Ground/Withe_Line,/area)
+"cW" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/turf/Ground/Withe_Line,/turf/Ground/Withe_Line2,/area)
+"cX" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/turf/Ground/Withe_Line,/turf/Objects/Lab/Barrel_1,/area)
+"cY" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/DRoad,/turf/Ground/Withe_Line,/turf/Ground/Withe_Line2,/area)
+"cZ" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/Withe_Line,/turf/Objects/Lab/Barrel_1,/area)
+"da" = (/turf/Ground/Wodd_Floor_Laminated2,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Withe_Line5,/area)
+"db" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/turf/Ground/Withe_Line5,/turf/Objects/Lab/Barrel_1,/area)
+"dc" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/turf/Ground/Withe_Line5,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Withe_Line2,/area)
+"dd" = (/turf/Ground/Wood_Floor,/turf/Ground/Withe_Line4,/turf/Ground/Withe_Line5,/turf/Objects/House_Props/Shelfs/Box2,/area)
+"de" = (/turf/Ground/New_Turf74,/turf/Ground/DRoad,/turf/Ground/Withe_Line5,/turf/Objects/Lab/Barrel_1,/area)
+"df" = (/turf/Ground/New_Turf74,/obj/Pickup/Items/gastanker,/turf/Ground/Withe_Line5,/area)
+"dg" = (/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/New_Turf74,/area)
+"dh" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/DRoad,/turf/Ground/Withe_Line2,/turf/Objects/Lab/Barrel_2,/area)
+"di" = (/turf/Ground/Wood_Floor,/obj/Vehicle/tl{health = 100; gas = 0},/turf/Ground/DRoad,/area)
+"dj" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/Withe_Line2,/turf/Objects/Lab/Barrel_1,/area)
+"dk" = (/turf/Ground/New_Turf74,/turf/Ground/DRoad,/turf/Ground/Withe_Line2,/area)
+"dl" = (/obj/Pickup/Items/gastanker,/turf/Ground/Wodd_Floor_Laminated2,/area)
+"dm" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/turf/Locations/Red,/area)
+"dn" = (/turf/Ground/Wood_Floor,/turf/Locations/Mayham_Start,/area)
+"do" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/turf/Objects/Lab/Barrel_2,/area)
+"dp" = (/turf/Ground/New_Turf74,/turf/Ground/DRoad,/turf/Ground/Withe_Line4,/turf/Objects/Lab/Barrel_1,/area)
+"dq" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/Withe_Line4,/turf/Objects/Lab/Barrel_2,/area)
+"dr" = (/turf/Ground/Wood_Floor,/turf/Objects/Lab/Barrel_2,/area)
+"ds" = (/turf/Ground/Wood_Floor,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Ground/Withe_Line2,/area)
+"dt" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/DRoad,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Ground/Withe_Line4,/area)
+"du" = (/turf/Ground/Wodd_Floor_Laminated2,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Withe_Line4,/area)
+"dv" = (/turf/Ground/New_Turf74,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Withe_Line2,/area)
+"dw" = (/turf/Ground/New_Turf74,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Withe_Line4,/area)
+"dx" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/DRoad,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Withe_Line2,/area)
+"dy" = (/turf/Ground/Wood_Floor,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Ground/Withe_Line4,/area)
+"dz" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/DRoad,/turf/Ground/Withe_Line5,/turf/Objects/Lab/Barrel_1,/area)
+"dA" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/DRoad,/turf/Ground/Withe_Line4,/turf/Ground/Withe_Line5,/area)
+"dB" = (/turf/Ground/New_Turf74,/turf/Ground/DRoad,/turf/Ground/Withe_Line5,/turf/Ground/Withe_Line2,/turf/Objects/Lab/Barrel_2,/area)
+"dC" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Withe_Line5,/area)
+"dD" = (/turf/Ground/Wood_Floor,/turf/Ground/DRoad,/obj/Pickup/Items/gastanker,/turf/Ground/Withe_Line5,/area)
+"dE" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/DRoad,/turf/Ground/Withe_Line5,/area)
+"dF" = (/turf/Ground/New_Turf74,/turf/Ground/Withe_Line5,/turf/Ground/Withe_Line2,/area)
+"dG" = (/turf/Ground/Wodd_Floor_Laminated2,/obj/Zombie_Spawn{icon_state = ""},/turf/Ground/Withe_Line,/area)
+"dH" = (/turf/Ground/New_Turf74,/turf/Ground/Withe_Line,/turf/Objects/Lab/Barrel_1,/area)
+"dI" = (/turf/Ground/Wood_Floor,/turf/Ground/Withe_Line4,/turf/Ground/Withe_Line,/turf/Objects/Lab/Barrel_2,/area)
+"dJ" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/DRoad,/turf/Ground/Withe_Line,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Ground/Withe_Line2,/area)
+"dK" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/DRoad,/turf/Ground/Withe_Line,/turf/Objects/Lab/Barrel_1,/area)
+"dL" = (/turf/Ground/New_Turf74,/turf/Ground/DRoad,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Withe_Line,/area)
+"dM" = (/turf/Ground/Wodd_Floor_Laminated2,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Ground/Withe_Line,/area)
+"dN" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/Withe_Line4,/turf/Ground/Withe_Line,/area)
+"dO" = (/turf/Ground/Wood_Floor,/turf/Ground/Withe_Line,/turf/Ground/Withe_Line2,/area)
+"dP" = (/turf/Ground/New_Turf74,/obj/Zombie_Spawn{icon_state = ""},/turf/Ground/Withe_Line5,/area)
+"dQ" = (/turf/Ground/New_Turf74,/turf/Ground/DRoad,/turf/Ground/Withe_Line4,/turf/Ground/Withe_Line5,/turf/Objects/Lab/Barrel_2,/area)
+"dR" = (/turf/Ground/New_Turf74,/turf/Ground/DRoad,/turf/Ground/Withe_Line5,/turf/Ground/Withe_Line2,/area)
+"dS" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/DRoad,/turf/Ground/Withe_Line5,/turf/Objects/Lab/Barrel_2,/area)
+"dT" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/Withe_Line5,/turf/Objects/Lab/Barrel_1,/turf/Objects/Lab/Barrel_2,/area)
+"dU" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/Withe_Line4,/obj/Pickup/Items/gastanker,/turf/Ground/Withe_Line5,/area)
+"dV" = (/turf/Ground/Wodd_Floor_Laminated2,/obj/Pickup/Items/gastanker,/turf/Ground/Withe_Line5,/area)
+"dW" = (/turf/Ground/Wodd_Floor_Laminated2,/obj/Zombie_Spawn{icon_state = ""},/turf/Ground/Withe_Line5,/area)
+"dX" = (/turf/Ground/Wood_Floor,/turf/Ground/Withe_Line4,/turf/Locations/Mayham_Start,/area)
+"dY" = (/turf/Ground/Wood_Floor,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Ground/DRoad,/area)
+"dZ" = (/turf/Ground/Wodd_Floor_Laminated2,/turf/Ground/DRoad,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Withe_Line4,/area)
+"ea" = (/turf/Ground/Wodd_Floor_Laminated2,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Withe_Line2,/area)
+"eb" = (/turf/Ground/Wodd_Floor_Laminated2,/obj/Zombie_Spawn{icon_state = ""},/obj/Zombie_Spawn{icon_state = ""},/turf/Ground/DRoad,/area)
+"ec" = (/turf/Ground/Wodd_Floor_Laminated2,/obj/Zombie_Spawn{icon_state = ""},/turf/Ground/Withe_Line4,/area)
+"ed" = (/turf/Ground/Wood_Floor,/obj/Zombie_Spawn{icon_state = ""},/turf/Ground/Withe_Line2,/area)
+
+(1,1,1) = {"
+aaaaabaaaaacaaabacaaadaeafaeagaaaaahaaabaaacagaiajakaaaaaaaaaaaaaaacalaiamakabacaaahaaaaaaaaaaahaaah
+aaanaoapapacaqaqacaqacarasataqaqaqaqaqaqanacauatavawauaqauaqaqanaqacaqaxasakaqacanaqaqaqaqaqaqaqaqaa
+ayaoaqaqapazaqaqacaqaAaBasatauaqanaqaqanauadaqatasaCaqauauanaqaqaqaAaqatavakaqaAaqapaqapaqaqaqaqaqaa
+ayaqaqananacaqaqaDapaqatasataqaqanaqauanaqaAaqatavakaqaqauauaqaqauaqauaxaEakaqaqaqaqanaqapaqaqaqaqaa
+ayananaqaqaDaqaqaqaqaqarasaxaqanaqaqaqaqapaqaqataEaFaoauaqaqauaqaqaqanaraGawananaqaqauaqanauaqauaqah
+agapapauapaqauapaqaqanatasaxananauaqaqanaqapaHatavatapaqauaqauaqanaqauatasaIaqananaqaqaqaqaqauaqaqaa
+aaaqaqaqaqaqaqaqaqaqaqataGaxaqaqaqaqaJaqaqauaqatasataqaqaoapaqaqaqaqapatasatauaKanaqaqaqaqapauaqaqaa
+aaaqaqaqaqaqaqanauananataGatauaqaqaLaMaLaLaLaqaxasatapaqaqaqaqauauaqanaNasaNauananauanaqanaKaqaqaqaa
+aaaqaqaqaqaqapanaqaqaqaxavataOaLaPauauauauaQaQaRaSaTaUaVaWaLaPaLaXaMaLatavaYaqauaKaqaqaqaqaqapaqanaa
+aaaqaqaqaZanaqauaqaqaqatavbaaLaqaqaqaqaqanaqapatbbataqaqaqapapaqapanaPbcasataqaKaKaqaqaZauaqauaqaqaa
+aaauanaqanaqaKanaqanaqatasbabdaqaqaqbeaqaoaqaqbfaSarauapapbgauaqaqaqaLaBasaBaqaKaqauauaqauaqanauaqaa
+bhbibjbibibkbjbiblbibibmbnbobpbiblbibqbibibjbibmbrbmbibkblbqblbiblbsbtbubvbwbibjblbibibiblblblbibjbh
+bxbybzbzbAbzbzbAbzbzbBbCbDbEbzbzbzbzbzbzbAbzbzbCbDbCbFbzbzbzbzbAbzbzbGbHbDbIbzbAbFbzbzbBbzbzbAbFbBbJ
+bKbibibibqbiblbibibibibLbMbNbibibqbjbkbibkbjbjbObMbPbiblbibibqblbqbQblbubRbObSbTbibiblbibibibibjbibh
+aaaqaqaqauanaqaqaqaqaLbUbVbWauapananananaKbXaObYbZarauapauanauaqaoauanatasaxanaMauaqauauaqaqaqaqaqaa
+ahaqaqaqapaqaqaqaOaPaQatcaataqananaqauaLaOaLcbcccdbaaqaqaqaKaoauauaqauatavataobXaPapaKaKaqanaqanapaa
+aaaqaqanauaqaqaLaLauaqatasceaLbXaOaLaLaLaqauaqaNascfauaqaqauanauaLaOaqatasarcgchanaqaqaqaqapaZaqaqab
+ahaqauapaqauaLaPaQaqauatavbUaocibVaqaqaqaqaqaqaxavaTaOcjaQchaVaLaOaLaPbackaRclanapaqaqaqauaqauanaqaa
+aaanaqapaqaqaLaQcmaqaqatascfaqcncnauanauaqanaqaxavcoaMaLauauaqaOanauapbacdatanaoaqaqauaqaqaqaqaqaqaa
+aaaqaqapaqapaLaLaPaLaLcpcqcfanapaqaqaKaqanaqaqatcraxaqaOaqanapauaqauaqcfcsaranaqanaoaqaqapaqaqaqaqaa
+alaqauapapaqaqaQauaqaqaxavceaOaLaOaqaKaqaqapanatctaraqaVaLaKauaqaqapaKbacuaxaqauaoanaqaqauaqaqanaqaa
+aaaqauapaqaqaqaVaqaqauaBasaraqaqcvcwcwcxauauancyczaxcAcAbXapauanauauanaxcBaNaqaqapaoauanaqaqaqaqaqaa
+abaqauaqaqauaucmaqanauaraGatauauanaQcwcCaqanaqatctcoaqaqaMaqaqaqanauaKarcuataqaqaKauapapanaqanaqaqaa
+bhblbibibibibicDbjbiblcEcFcGbibiblcHbjcIbiblbibmcJbPbkbibScKcKcKcLcMcHcNcObLbtblbibqbibiblcPbibjbibh
+cQbzbzbzbzbzbBcRbBbBbzbCcSbCbzcTcTcTbzcUcVbAbzbCcWbCbzcVcXbNcUbzbzcVbybCcYbNcZbybFbzbBbzbBbzbzbAbAbx
+bhbibiblblbibqdacMbibkbmbnbmbTbtbidbbiblblbqbjcGdcbmbidbbibpblblbjbqblcGcFdddebTbidfbibibqblblblbjbh
+abaqaqaqanaqauaqcvaoaqatasataHauaqaLaPcgdgaVcwcodhaxcgbXaqauauapanaoanatasataLaLapapauaZaqaZaqdianaa
+alaqaqauauaqaqaKcmaKaparasaraqaqaKaqaoaLaLaqaqaxdjbaaPaQaqaqauaqaqapaqatdkbaaLaqapauaqaqauaqauaqaqaa
+abauanaqanaoaqaKcgaqapataEatauaqbeaqaqauaOaKaKcfckarananapaJaKaKaKaodlaravbaaOaqaqauauaqaqanaqaqaqab
+aaanaqaqaqaKauaqaLaXaPatavataKandmanaubXbXauaucfcdcfanaqaqauapaqaqdnanaBavarcvaPauaqapanaqaqaqanaqaa
+aaaqaqauanapaqanaObXapatasatchaVaQcjcmbXdoaqbeatasdpaLbXaUaqauanaqaqaqatavataqaVaOaqaqauaqaqaqaqaqaa
+alapaqaqaqbgaqauaqaXauaBasdqdoanaqaqancccwdraVaTdsdtaqauaQaqapaoapauaqatasatapaucgaLaqaqaqaqaqaqanab
+ahananauapapauaqaOaMapaxaEaNcwdoaLanaqandraqaqaxasataqaqcvbXaPaoaqaqauarasaxaqaqaqaLaqaqaqaqaHauanah
+alaqapaqanaqauaqbXaoaKaravaBaqauaXaqanaqdranaoaBasatauaqaqaqaMaLaqaVcvdudvdwaqauaOaLaQaqaHaqananapah
+alaqaqaqaoauaKaqaManaqardxdyaWcgaXanaqaqdoanaqarasatauauapaqaPaLaVcganardkdyaMaLaLaqaQaqaqaqananaqaa
+bKblbibibjbjbqbjdzbTbjdAdBbPbibqdebTbibidCbibqcGbnbmbibkdDbkbtbidEblbqcGdFcGbTdfbjbidCdEbibTbjblblbh
+dGbzbzbBbBbAbBbAbFdHcXdIdJbIcVbFbzcXdKdLdMbybBdNcWbCbzbFbFbzdHcZbBbBbBbIdOdNbzbzbzbzcRbAdHcTbAbzbzbJ
+dPbjbjbjblbjdEbjdEdebtdQdRbmbibkbldEdSdTbkblbqdUcFbPbjblblbiblbSbibqdVbmcFbubibibibidCbTdbbjdEbibidW
+ahapaqaZauaKanauaKaPauaraEaranaqaqaqcAaqaqaqaqarasbcauaqapaqauaLauaqaqatasaxaqananauaLaManaKaqaqauaa
+aaaqauapaqanaqaoanaLaXataEdXauaoauaqcAaqaqaqaqardkataQaLaLaLaLaOauauauatasaxaqapanaObXanaqauauaqauah
+ahaqauaKanaqauaqaqaubXbUcdbaaLaoclaQaQaqapauaKarasaraQauaLcmauaqaKaqanaxaGaBanaOaOaLananaqaqaqaqauah
+ahaqaqaqanaqauauauaqanaravaxaLbXaVaqaqaKaqaqanatasdyaVdiaqcmdYaqaqananataEaraqaOaqaqanaqaqaqaqaqaqah
+ahaqauaKanananaqaKaqanaxasaBanaLaqaqaqananaKaKbcbbdZauauaqaqclaQaqanaqatasataqaLaqanaqaqaqaqaqaqauaa
+alaqauauauaKananaqaqauaxavaNaKaMbXapaqauaKaMaLdZeaaxaqaqaqauaqaQdYaUaqatavaRaOaLanaqaqaqaqaqaqaqaqaa
+ahaqaqanaqaqaqanaqaZaqataEataqaKaObXaOaLbXbXauataGatanaqanapanapaqaLaLbUcdcfaqanaqaqaqaqaqanananaKal
+aaaqauaqaqaqaqanaqaqaqaBaEataqaqaqaKaKaqanaqaqaxavaxaqaqauaHapaqapaqaparasataqananananananaZaqananaa
+aaaqaqaKaqaqaqanaKananataGaxanananananaqauaqaqatasataqanaqauaqauaqaqaqatavaraqauaqapaqauauaoaoaqauaa
+ahauaqanaqaqaqaqaqaKaqataGataqaqaqaqaqaqaqaqaqatasaraqaqaqanaqanaqaqaqataGataqaqaqaqaoapaoapaqauaqaa
+aaaqaqauaqauanaqaqaqaqatasataqanaqauaqaqaqaqaqatasataqaqaqaqaqaqaqaKaqaxavaxaqanaqanaqapauaqauaqaqaa
+ebalahaaahaaahaaahahahaeafecaaalabalalahabahabaeedaiaaaaaaabaaaaabahahaeedecahahaaaaaaaaaaaaaaaaaaaa
+"}

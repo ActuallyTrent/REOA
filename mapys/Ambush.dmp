@@ -1,0 +1,250 @@
+"aa" = (/turf,/area)
+"ab" = (/turf,/area/Blackness)
+"ac" = (/turf/Walls/W_Density_Opacity/Wall_19,/area/Blackness)
+"ad" = (/turf/Walls/W_Density_Opacity/Wall_19,/area)
+"ae" = (/turf/Walls/W_Density_No_Opacity/Wall_18,/turf/Objects/Pipes_1,/area)
+"af" = (/turf/Walls/W_Density_No_Opacity/Wall_18,/area)
+"ag" = (/obj/Pickup/Items/Ammo_Heavy_Handgun,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"ah" = (/obj/Pickup/Items/Ammo_Light_Machinegun,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"ai" = (/obj/Pickup/Guns/MP5,/obj/Pickup/Guns/MosinNagant,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"aj" = (/obj/Pickup/Items/C4,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"ak" = (/obj/Pickup/Items/Ammo_Heavy_Machinegun,/obj/Pickup/Items/Ammo_Sniper,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"al" = (/turf/Ground/New_Turf68,/area)
+"am" = (/turf/Walls/W_Density_No_Opacity/Wall_21,/area)
+"an" = (/obj/Pickup/Items/Ammo_Light_Handgun,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"ao" = (/obj/Pickup/Items/Ammo_Light_Handgun,/obj/Pickup/Items/Ammo_Sniper2,/turf/Objects/House_Props/Shelfs/Shelf,/area)
+"ap" = (/obj/Pickup/Items/Ammo_Light_Handgun,/turf/Objects/House_Props/Shelfs/Shelf,/area)
+"aq" = (/turf/Walls/W_Density_Opacity/Wall_19,/area/Block_Zone)
+"ar" = (/turf/Walls/W_Density_Opacity/Wall_10,/area)
+"as" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_1,/turf/Ground/Withe_Line,/area)
+"at" = (/turf/Ground/Road,/turf/Ground/Withe_Line,/area)
+"au" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_2,/turf/Ground/Withe_Line,/area)
+"av" = (/turf/Ground/Grass,/area)
+"aw" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_1,/turf/Ground/Grass/Grass_Edges/Edge_3,/area)
+"ax" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_3,/area)
+"ay" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_3,/turf/Ground/Withe_Line4,/area)
+"az" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_3,/turf/Ground/Withe_Line4,/turf/Locations/Mayham_Start,/area)
+"aA" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_2,/turf/Ground/Grass/Grass_Edges/Edge_3,/area)
+"aB" = (/turf/Walls/W_Density_No_Opacity/Wall_19,/area)
+"aC" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_1,/area)
+"aD" = (/turf/Ground/Road,/area)
+"aE" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_2,/area)
+"aF" = (/obj/Vehicle/tl,/turf/Ground/Road,/area)
+"aG" = (/turf/Ground/Road,/turf/Ground/Withe_Line4,/area)
+"aH" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_1,/turf/Blood/BloodC,/area)
+"aI" = (/turf/Ground/Road,/turf/Objects/Junk/Paper2,/area)
+"aJ" = (/mob/player/NPC/Mob/SWAT,/turf/Ground/New_Turf68,/area)
+"aK" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_1,/turf/Objects/Junk/Paper2,/area)
+"aL" = (/turf/Walls/W_Density_No_Opacity/Wall_31,/area)
+"aM" = (/obj/Pickup/Items/TripWire,/turf/Objects/House_Props/Shelfs/Shelf,/area)
+"aN" = (/obj/Pickup/Guns/Uzi,/turf/Objects/House_Props/Shelfs/Shelf,/area)
+"aO" = (/turf/Objects/House_Props/Shelfs/Shelf,/area)
+"aP" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_3,/turf/Ground/Withe_Line,/area)
+"aQ" = (/turf/Walls/W_Density_No_Opacity/Wall_2,/area)
+"aR" = (/turf/Walls/W_Density_No_Opacity/Wall_21,/turf/Objects/Street_Poles/Street_Pole_8{density = 1},/area)
+"aS" = (/turf/Walls/W_Density_No_Opacity/Wall_21,/turf/Objects/Street_Poles/Street_Pole_7{density = 1},/area)
+"aT" = (/turf/Ground/Road,/turf/Blood/BloodA,/area)
+"aU" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_1,/turf/Ground/Grass/Grass_Edges/Edge_4,/area)
+"aV" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_4,/area)
+"aW" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_4,/turf/Ground/Withe_Line4,/area)
+"aX" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_2,/turf/Ground/Grass/Grass_Edges/Edge_4,/area)
+"aY" = (/turf/Walls/W_Density_No_Opacity/Wall_10,/area)
+"aZ" = (/turf/Walls/W_Density_No_Opacity/Wall_10,/turf/Objects/Street_Poles/Street_Pole_8{density = 1},/area)
+"ba" = (/turf/Walls/W_Density_No_Opacity/Wall_10,/turf/Objects/Street_Poles/Street_Pole_10{density = 1},/area)
+"bb" = (/obj/Pickup/Items/TripWire,/turf/Ground/Road,/area)
+"bc" = (/turf/Ground/Road,/turf/Objects/Junk/Paper,/area)
+"bd" = (/turf/Ground/Road,/turf/Blood/BloodC,/area)
+"be" = (/turf/Ground/Road,/turf/Objects/Street_Poles/Street_Pole_10,/turf/Ground/Withe_Line,/area)
+"bf" = (/obj/Pickup/Items/Spray,/turf/Objects/House_Props/Shelfs/Shelf,/area)
+"bg" = (/turf/Ground/Road,/turf/Ground/Withe_Line5,/area)
+"bh" = (/obj/Pickup/Items/TripWire,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"bi" = (/turf/Ground/Road,/turf/Objects/Street_Poles/Street_Pole_10,/area)
+"bj" = (/obj/Pickup/Items/Ammo_Shotgun,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"bk" = (/turf/Ground/Road,/turf/Ground/Withe_Line,/turf/Blood/BloodA,/area)
+"bl" = (/turf/Ground/Road,/turf/Locations/Blue,/area)
+"bm" = (/turf/Ground/Road,/turf/Ground/Withe_Line2,/area)
+"bn" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_4,/turf/Ground/Withe_Line,/area)
+"bo" = (/turf/Ground/Road,/turf/Blood/BloodB,/area)
+"bp" = (/obj/Attackable/Destructable_Obj/Chainlink_Fence/NORTH,/turf/Ground/Grass,/area)
+"bq" = (/obj/Attackable/Destructable_Obj/Chainlink_Fence,/turf/Ground/Grass,/area)
+"br" = (/mob/player/NPC/Obj/MANNED_TURRET/MAN_1,/turf/Ground/Road,/area)
+"bs" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_1,/turf/Ground/Withe_Line2,/area)
+"bt" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_2,/turf/Ground/Withe_Line2,/area)
+"bu" = (/obj/Attackable/Destructable_Obj/Chainlink_Fence/EAST,/turf/Ground/Grass,/area)
+"bv" = (/mob/player/NPC/Mob/UCM,/turf/Ground/Road,/area)
+"bw" = (/obj/Attackable/Destructable_Obj/Chainlink_Fence/WEST,/turf/Ground/Grass,/area)
+"bx" = (/obj/Attackable/Pushable_Obj/Destroyable/Barricade,/turf/Ground/Road,/area)
+"by" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_1,/obj/Attackable/Destructable_Obj/Chainlink_Fence/NORTH,/turf/Ground/Grass/Grass_Edges/Edge_4,/area)
+"bz" = (/turf/Ground/Road,/obj/Attackable/Destructable_Obj/Chainlink_Fence/NORTH,/turf/Ground/Grass/Grass_Edges/Edge_4,/area)
+"bA" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_4,/obj/Attackable/Destructable_Obj/Chainlink_Fence/NORTH,/turf/Ground/Grass/Grass_Edges/Edge_2,/area)
+"bB" = (/obj/Pickup/Items/gastanker,/turf/Ground/Road,/area)
+"bC" = (/turf/Walls/W_Density_No_Opacity/Wall_19,/turf/Objects/Street_Poles/Street_Pole_7{density = 1},/area)
+"bD" = (/turf/Walls/W_Density_No_Opacity/Wall_18,/turf/Objects/Street_Poles/Street_Pole_8{density = 1},/area)
+"bE" = (/turf/Ground/Grass,/area/Block_Zone)
+"bF" = (/turf/Ground/Grass,/area/Lights_Darkness/darkest)
+"bG" = (/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"bH" = (/obj/Pickup/Items/Ammo_Heavy_Machinegun,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"bI" = (/turf/Ground/Grass,/turf/Trees/Tree/Tree5,/area/Lights_Darkness/darkest)
+"bJ" = (/turf/Ground/Grass,/turf/Trees/Tree/Tree6,/area/Lights_Darkness/darkest)
+"bK" = (/turf/Ground/Grass,/turf/Objects/Grave_Stuff/Grave_1,/area/Lights_Darkness/darkest)
+"bL" = (/turf/Ground/Grass,/turf/Objects/Grave_Stuff/Grave_2,/area/Lights_Darkness/darkest)
+"bM" = (/turf/Ground/Grass,/turf/Trees/Tree/Tree3,/area/Lights_Darkness/darkest)
+"bN" = (/turf/Ground/Grass,/turf/Trees/Tree/Tree4,/turf/Trees/Tree/Tree6,/area/Lights_Darkness/darkest)
+"bO" = (/obj/Zombie_Spawn,/turf/Ground/Dirt,/area/Lights_Darkness/darkest)
+"bP" = (/turf/Ground/Dirt,/area/Lights_Darkness/darkest)
+"bQ" = (/turf/Ground/Grass,/turf/Trees/Tree/Tree,/area/Lights_Darkness/darkest)
+"bR" = (/turf/Ground/Grass,/turf/Trees/Tree/Tree2,/area/Lights_Darkness/darkest)
+"bS" = (/obj/Pickup/Items/gastanker,/turf/Ground/Grass,/area)
+"bT" = (/obj/Zombie_Spawn,/turf/Ground/Grass,/area/Lights_Darkness/darkest)
+"bU" = (/turf/Ground/Dirt,/turf/Trees/Tree/Tree5,/area/Lights_Darkness/darkest)
+"bV" = (/turf/Ground/Grass,/turf/Trees/Tree/Tree6,/turf/Objects/Grave_Stuff/Grave_2,/area/Lights_Darkness/darkest)
+"bW" = (/turf/Walls/W_Density_No_Opacity/Wall_7,/area)
+"bX" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_3,/turf/Ground/Grass/Grass_Edges/Edge_2,/turf/Ground/Withe_Line2,/area)
+"bY" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_1,/turf/Ground/Grass/Grass_Edges/Edge_3,/turf/Ground/Withe_Line2,/area)
+"bZ" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_3,/turf/Blood/BloodB,/area)
+"ca" = (/obj/Pickup/Guns/Sawnoff,/turf/Ground/Road,/area)
+"cb" = (/obj/Pickup/Items/Ammo_Light_Machinegun,/obj/Pickup/Items/Grenade,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"cc" = (/obj/Pickup/Items/Grenade,/obj/Pickup/Items/Ammo_Sniper2,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"cd" = (/obj/Pickup/Items/Grenade,/obj/Pickup/Items/Grenade,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"ce" = (/obj/Pickup/Items/Grenade,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"cf" = (/obj/Pickup/Items/Ammo_Heavy_Machinegun,/obj/Pickup/Items/Grenade,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"cg" = (/obj/Pickup/Items/C4,/obj/Pickup/Items/Ammo_Sniper2,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"ch" = (/obj/Pickup/Items/Ammo_Light_Machinegun,/obj/Pickup/Items/Grenade,/obj/Pickup/Items/Grenade,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"ci" = (/obj/Pickup/Items/Grenade,/turf/Ground/Road,/area)
+"cj" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_4,/turf/Ground/Withe_Line2,/area)
+"ck" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_4,/turf/Blood/BloodB,/area)
+"cl" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_3,/turf/Ground/Grass/Grass_Edges/Edge_1,/area)
+"cm" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_3,/turf/Ground/Grass/Grass_Edges/Edge_2,/area)
+"cn" = (/turf/Ground/Dirt,/turf/Trees/Tree/Tree6,/area/Lights_Darkness/darkest)
+"co" = (/turf/Ground/Road,/turf/Blood/Blood2,/area)
+"cp" = (/turf/Ground/Road,/turf/Ground/Withe_Line4,/turf/Locations/Mayham_Start,/area)
+"cq" = (/turf/Ground/Road,/turf/Blood/Blood2,/turf/Blood/Blood3,/area)
+"cr" = (/mob/player/NPC/Obj/MANNED_TURRET/MAN_1{tag = "icon-Manturret (EAST)"; icon_state = "Manturret"; dir = 4},/turf/Ground/Road,/area)
+"cs" = (/turf/Ground/Road,/mob/player/NPC/Obj/MANNED_TURRET/MAN_1{tag = "icon-Manturret (WEST)"; icon_state = "Manturret"; dir = 8},/turf/Ground/Withe_Line2,/area)
+"ct" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_2,/turf/Locations/Mayham_Start,/area)
+"cu" = (/turf/Ground/Road,/obj/Pickup/Items/gastanker,/turf/Ground/Withe_Line4,/area)
+"cv" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_4,/turf/Ground/Grass/Grass_Edges/Edge_2,/area)
+"cw" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_3,/turf/Ground/Withe_Line2,/area)
+"cx" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_3,/turf/Blood/BloodC,/area)
+"cy" = (/turf/Ground/Road,/obj/Attackable/Pushable_Obj/Destroyable/Barricade,/turf/Objects/Junk/Paper2,/area)
+"cz" = (/turf/Ground/Dirt,/turf/Trees/Tree/Tree3,/area/Lights_Darkness/darkest)
+"cA" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_2,/turf/Ground/Grass/Grass_Edges/Edge_4,/turf/Ground/Withe_Line2,/area)
+"cB" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_1,/turf/Ground/Grass/Grass_Edges/Edge_4,/turf/Ground/Withe_Line2,/area)
+"cC" = (/turf/Ground/Grass,/turf/Trees/Tree/Tree5,/area/Block_Zone)
+"cD" = (/turf/Ground/Grass,/turf/Trees/Tree/Tree6,/area/Block_Zone)
+"cE" = (/turf/Ground/Grass,/turf/Trees/Tree/Tree3,/area)
+"cF" = (/turf/Ground/Grass,/turf/Trees/Tree/Tree4,/turf/Trees/Tree/Tree6,/area)
+"cG" = (/turf/Ground/Grass,/turf/Trees/Tree/Tree,/area)
+"cH" = (/turf/Ground/Grass,/turf/Trees/Tree/Tree2,/area)
+"cI" = (/turf/Ground/Grass,/turf/Trees/Tree/Tree5,/area)
+"cJ" = (/turf/Ground/Grass,/turf/Trees/Tree/Tree6,/area)
+"cK" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_1,/turf/Ground/Grass/Grass_Edges/Edge_3,/turf/Ground/Withe_Line,/area)
+"cL" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_2,/turf/Ground/Grass/Grass_Edges/Edge_3,/turf/Ground/Withe_Line,/area)
+"cM" = (/obj/Pickup/Items/C4,/obj/Pickup/Guns/Uzi,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"cN" = (/obj/Pickup/Items/Ammo_Heavy_Handgun,/obj/Pickup/Items/Grenade,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"cO" = (/obj/Pickup/Guns/M92F_Custom_Handgun,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"cP" = (/obj/Pickup/Items/Ammo_Light_Machinegun,/turf/Objects/House_Props/Shelfs/Shelf,/area)
+"cQ" = (/obj/Pickup/Guns/Glock_18,/turf/Objects/House_Props/Shelfs/Shelf,/area)
+"cR" = (/obj/Pickup/Items/Ammo_Shotgun,/turf/Objects/House_Props/Shelfs/Shelf,/area)
+"cS" = (/obj/Pickup/Guns/Magnum,/turf/Objects/House_Props/Shelfs/Shelf,/area)
+"cT" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_4,/turf/Locations/Red,/area)
+"cU" = (/obj/Pickup/Items/Ammo_Sniper,/turf/Objects/House_Props/Shelfs/BlackShelf,/area)
+"cV" = (/obj/Pickup/Items/Ammo_Heavy_Machinegun,/obj/Pickup/Guns/MosinNagant,/turf/Objects/House_Props/Shelfs/Shelf,/area)
+"cW" = (/obj/Pickup/Items/Ammo_Heavy_Machinegun,/turf/Objects/House_Props/Shelfs/Shelf,/area)
+"cX" = (/obj/Pickup/Items/Ammo_Heavy_Machinegun,/obj/Pickup/Items/Ammo_Sniper,/turf/Objects/House_Props/Shelfs/Shelf,/area)
+"cY" = (/turf/Ground/Road,/obj/Vehicle/tl,/turf/Ground/Grass/Grass_Edges/Edge_1,/area)
+"cZ" = (/obj/Pickup/Items/Ammo_Heavy_Handgun,/turf/Objects/House_Props/Shelfs/Shelf,/area)
+"da" = (/turf/Ground/Road,/turf/Ground/Grass/Grass_Edges/Edge_4,/turf/Ground/Withe_Line4,/turf/Locations/Mayham_Start,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababacaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacadadadadadadadadacaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacadaeafafafafafadacaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacacacacacacacacacacacacacacacacacacaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacadagahahaiajajadacaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaacacacacacacacacacacacacacacacacacacacadadadadadadadadadadadadadadadadacacacacacacacacacacacacacacacacacacacacadakalalalalaladacaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaacacacacadadadadadadadadadadadadadadadadacacadamamamamamamamamamamamamamamadacacadadadadadadadadadadadadadadadadacacadanalalaoaoapaqacaaaaaaaaaaaaaaaaaaaa
+aaaaacacacacacacacacacacadadadadararararararararararararararadadadadasatauavawaxayazaxaAavasatauadadadadararararararararararararararadadaqadanalalalalaladacacacacacacacacacacac
+aaaaacadadadadadadadadadadaBaBaBararararararararararararararamamamamaCaDaEavaCaFaGaGaDaEavaHaIaEamamamamararararararararararararararafafafadadadalaJadadadadadadadadadadadadadad
+aaaaacadaBaBaBaBaBaBaBaBadavavavaramamararamararamararamamaravavavavaKaDaEavaCaDaGaGaDaEavaCaDaEavavavavaramamararamararamararamamaravavavadafafaDaDafafafaLaLaLaLaLaLaLaLaLaLaL
+aaaaacadaMaMaNatatatataOadaPaPaPaQatataRaSataRaSataRaSatataQaPaPaPaPaTaDaEavaUaVaWaWaVaXavaCaDaDaPaPaPaPaQatataRaSataRaSataRaSatataQaPaPaPafatataDaDatatataYaZaYbaaYaZaYbaaYaZba
+aaaaacadaIaDbbaTaDaDaDaDaBaTaDaDaDaDaDaDaDaDaDaDaDaDaDbcaDaDaDaDaDaDaDaDaEavavavavavavavavaCaDaDaDaDaDaDaDaDaDaDaDbcaDaDaDaDaDaDaDaDaDbdaDaDaDaDaDaDaDaDaDatatatbeatatatbeatatbe
+aaaaacadaObfaDaDaDaDbcaDaDaDaDbgaDaDbgaDaDbgaDaDbgaDaDbgaDaDbgaDaDbgaDaDaDaxanananbhajajaxaDaDaDbgaDaDbgaDaDbgaDaDbgaDaDaDbgaDaDbgaDaDbgaDaDaDaDaDaDaDaDbdaDaDaDbiaDaIaDbiaDaDbi
+aaaaacadaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDbcaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDbjbjbhbhahbhaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDbcaDaDaDaDaDaDaDbiaDaDaDbiaDaDbi
+aaaaacadaOaDaDaDaDaDaTaDaDaDaDaDarbkatararatararatararatataraDaDaDaGaDaDaDataDaDblaDaDaDataDaDaDaGaDaDaDaratatararatararatararatataraDaDaDaDaDaDaDaDaDaDaDaLaLaLaLaLaLaLaLaLaLaL
+aaaaacadataDaDatataDaDbmadbnbnbnararararararararararararararbnbnbnbnaDaDaTaDatatatatatataDaDaDaDbnbnbnbnararararararararararararararbnbnbnadaDaDboaDaDaDaDaYaYaYaYaYaYaYaYaYaYaY
+aaaaacadadaDaDadadaDaDadadbpbpbpaBaBaBaBaBaBaBaBaBaBaBaBaBaBbqbqbqbqaCaDaDaDaDaDaDbraDaDaDaDbdaEbpbpbpbpafafafafafafafafafafafafafafbpbpbpadadaDaDadadaDaDadadadadadadadadadadad
+aaaaacadaBbsaDaBaBaDbtaBaBavavavavavavavavavavavavavavavavavavavavbuaCaDbcaDbvaDaDaDaDbvbcaDaDaEbwavavavavavavavavavavavavavavavavavavavavafafbsaDafafaDbtafadacacacacacacacacac
+aaaaacadavbsaDaDaDaDbtbwavavavavavavavavavavavavavavavavavavavavavbuaCaDaDbxbxbxaDaDbxbxbxaDaDaEbwavavavavavavavavavavavavavavavavavavavavavbubsaDaDaDaDbtavadacaaaaaaaaaaaaaaaa
+aaaaacadavbsaDaGaGaDbtbwavavavavavavavavavavavavavavavavavavavavavbuasatatatatatatatatatatatataubwavavavavavavavavavavavavavavavavavavavavavbubsaDaGaGaDbtavadacaaaaaaaaaaaaaaaa
+aaacacadavbsaDaDaDaDbtbwavavavavavavavavavavavavavavavavavavavavavbubybzbzbzbzbzbzbzbzbzbzbzbzbAbwavavavavavavavavavavavavavavavavavavavavavbubsaDaDaDaDbtavadacacaaaaaaaaaaaaaa
+aaacadadavbsbcaDaDaDbtbwavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavbubsaDaDaDbobtavadadacaaaaaaaaaaaaaa
+aaacadarararaDaDaDaDarararavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavarararaIaDaDbBarararadacaaaaaaaaaaaaaa
+aaacadararbCaDaDaDaDbCararavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavararbDaDaDaDaDbDararadacaaaaaaaaaaaaaa
+aaacadararbmaDaGaGaDbmararavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavararbmaDaGaGaDbmararadacaaaaaaaaaaaaaa
+aaacadarararaDaDaDaDarararavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavarararaDaDaDaDarararadacaaaaaaaaaaaaaa
+aaacadararbCaDaDaDaDbCararavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavararbDaDaDboaDbDararadacaaaaaaaaaaaaaa
+aaacadararbmaDaDaDaDbmararavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavararbmaDaDaDaDbmararadacaaaaaaaaaaaaaa
+aaacadarararaDaGaGaDarararavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavarararaDaGaGaDarararadacaaaaaaaaaaaaaa
+aaacadararbCaDaDaDaDbCararavavavavavavavavavavavbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEavavavavavavavavavavararbDaDaDaDaDbDararadacaaaaaaaaaaaaaa
+aaacadararaDaDaDaDaDaDararavavavavavavavavavavavbEbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbEavavavavavavavavavavararaDaDboaDaDaDararadacaaaaaaaaaaaaaa
+aaacadararagaDaDaDaDbGararavavavavavavavavavavavbEbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbEavavavavavavavavavavararahaDaDaDaDbHararadacaaaaaaaaaaaaaa
+aaacadararbmaDaGaGaDbmararavavavavavavavavavavavbEbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbEavavavavavavavavavavararbmaDaGaGaDbmararadacaaaaaaaaaaaaaa
+aaacadarararaDaDaDaDarararavavavavavavavavavavavbEbFbFbFbIbJbFbFbFbKbFbFbFbFbLbFbFbFbFbLbFbFbFbLbFbFbFbKbFbFbFbFbFbFbEavavavavavavavavavavarararaDaDaDaDarararadacaaaaaaaaaaaaaa
+aaacadadaBaBaDaDaDaDaBaBaBavavavavavavavavavavavbEbFbFbFbMbNbFbFbFbObFbFbFbFbPbFbFbFbFbObFbFbFbPbFbFbFbObFbFbFbFbFbFbEavavavavavavavavavavafafafaDaDaDaDafafadadacaaaaaaaaaaaaaa
+aaacacadavbsaDaDaDaDbtbwavavavavavavavavavavavavbEbFbFbFbQbRbFbFbFbPbFbFbFbFbPbFbFbFbFbPbFbFbFbPbFbFbFbPbFbFbFbFbFbFbEavavavavavavavavavavavbubsaDbdaDbcbtavadacacaaaaaaaaaaaaaa
+aaaaacadavbsbcaDaDaDbtbwavavavavavavbSavavavavavbEbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbEavavavavavavavavavavavbubsaDaDaDaDbtavadacaaaaaaaaaaaaaaaa
+aaaaacadavbsaDaDaDaDbtbwavavavavavavavavavavavavbEbFbFbFbFbFbFbFbFbLbFbFbFbFbKbFbFbIbJbLbFbFbFbKbFbFbFbLbFbFbFbFbFbFbEavavavavavavavavavavavbubsaDaDaDaDbtavadacaaaaaaaaaaaaaaaa
+aaaaacadavbsaDaGaGaDbtbwavavavavavavavavavavavavbEbFbFbFbFbFbFbFbFbPbFbFbFbFbTbFbFbMbNbPbFbFbFbPbFbFbFbPbFbFbFbFbFbFbEavavavavavavavavavavavbubsaDaGaGaDbtavadacaaaaaaaaaaaaaaaa
+aaaaacadavbsaDaDaDaDbtbwavavavavavavavavavavavavbEbFbFbFbFbFbFbFbFbPbFbFbFbFbFbFbFbQbRbPbFbFbFbPbFbFbFbUbJbFbFbFbFbFbEavavavavavavavavavavavbubsaDaDaDaDbtavadacacacacaaaaaaaaaa
+acacacadavbsaDaDaDaDbtbwavavavavavavavavavavavavbEbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbMbNbFbFbFbFbFbEavavavavavavavavavavavbubsaDaDaDaDbtavadadadadacaaaaaaaaaa
+adadadadavbsaDaDaDaDbtbpbpbpbpbpbwavavavavavavavbEbFbFbFbFbFbFbFbIbVbFbFbFbFbLbFbFbFbFbLbFbFbFbKbFbFbFbQbRbFbFbFbFbFbEavavavavavavbubpbpbpbpbpbsaDaDaDaDaDaxbWbWbWadacaaaaaaaaaa
+adaBaBaBaxaDaDaDaDaDaDaxaxaxaxbXbwavavavavavavavbEbFbFbFbFbFbFbFbMbNbFbFbFbFbPbFbFbFbFbPbFbFbFbTbFbFbFbFbFbFbFbFbFbFbEavavavavavavbubYaxbZaxaxaDaDaDaDaDaDaDaDbHbmadacaaaaaaaaaa
+adbmajcaaDaDcbccbHcdaDaDaDaDaDbtbwavavavavavavavbEbFbFbFbFbFbFbFbQbRbFbFbFbFbPbFbFbFbFbPbFbFbFbFbFbFbFbFbFbFbFbFbFbFbEavavavavavavbubsaDaDaDaDaDagajanahaDaDaDaDbmadacaaaaaaaaaa
+adbmaIaDaDaDcecfcgchciaDaDaDaDbtbwavavavavavavavbEbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbEavavavavavavbubsaDaDaDaDaDbjahananaDaDaDaIbmadacaaaaaaaaaa
+adcjaVaVaVaVaVaVbmaDaDaDaDbxaDbtbwavavavavavavavbEbFbFbFbFbFbFbFbFbKbFbFbFbFbKbFbFbFbFbLbFbFbFbLbFbFbFbLbFbFbFbFbFbFbEavavavavavavbubsaDbxbcaDaDaDbmaVaVaVaVckaVcjadacaaaaaaaaaa
+adavavavavavavavaCbmaDaDbvbxaDbtbwavavavavavavavbEbFbFbFbFbFbFbFbFbObFbFbFbFbPbFbFbFbFbObFbFbFbPbFbFbFbPbFbFbFbFbFbFbEavavavavavavbubsaDbxbvaDaDbmaEavavavavavavavadacaaaaaaaaaa
+adclaxayayaxcmavaCbmaDaDaDbxaDbtbwavavavavavavavbEbFbFbFbFbFbFbFbFbPbFbFbFbFbPbFbFbFbIcnbFbFbFbPbFbFbFbPbFbFbFbFbFbFbEavavavavavavbubsaDbxaDaDaDbmaEavawaxayayaxcmadacaaaaaaaaaa
+adaCaFaGaGaDaEavaCbmaDcoaDaDaDbtbwavavavavavavavbEbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbMbNbFbFbFbFbFbFbFbFbFbFbFbFbFbFbEavavavavavavbubsaDaDaDaDaDbmaEavaCaFaGaGaDaEadacaaaaaaaaaa
+adaCaDcpaGaDaEavaCbmaDcqaDcraDbtbwavavavavavavavbEbFbFbFbFbFbFbFbFbKbFbFbFbFbLbFbFbFbQbRbFbFbFbLbFbFbFbKbFbFbFbFbFbFbEavavavavavavbubsaDaDboaDaDcsaEavaCaDaGaGaDctadacaaaaaaaaaa
+adaCaDaGcuaDaEavaCbmaDcoaDaDaDbtbwavavavavavavavbEbFbFbFbFbFbFbFbFbPbFbFbFbFbObFbFbFbFbFbFbFbFbObFbFbFbPbFbFbFbFbFbFbEavavavavavavbubsaDaDaDaDaDbmaEavaUaVaWaWaVcvadacaaaaaaaaaa
+adavavavavavavavaCbmaDcqaDaDaDbtbwavavavavavavavbEbFbFbFbFbFbFbFbFbPbFbFbFbFbPbFbFbFbFbFbFbFbFbPbFbFbFbPbFbFbFbFbFbFbEavavavavavavbubsaDbxaDaDaDbmaEavavavavavavavadacaaaaaaaaaa
+adcwcxaxaxaxaxaxbmaDaDcoaDbxaDbtbwavavavavavavavbEbFbFbFbFbFbFbFbFbFbFbIbJbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbEavavavavavavbubsaDbxbvaDaDaDbmaxaxaxaxaxaxcwadacaaaaaaaaaa
+adbmaDaDaDaDaDaDaDaDaDaDbvbxaDbtbwavavavavavavavbEbFbFbIbJbFbFbFbFbLbFbMbNbFbLbFbFbFbFbKbFbFbFbLbFbFbFbLbFbIbJbFbFbFbEavavavavavavbubsaDbxaDaDaDaDaDaDaDaDaDaDaDbmadacaaaaaaaaaa
+adbmaOaDaDaDaDbdaDaDaDaDaDcyaDbtbwavavavavavavavbEbFbFbMbNbFbFbFbFbObFbQbRbFbObFbFbFbFbObFbFbFbUbJbFbFbObFbMbNbFbFbFbEavavavavavavbubsaDaIaDaDaDaDaDaDaDaDaDaDaDbmadacaaaaaaaaaa
+adbmaOaOaDaDaDaDaDaDaDaDaDaDaDbtbwavavavavavavavbEbFbFbQbRbFbFbFbFbPbFbFbFbFbPbFbFbFbFbPbFbFbFczbNbFbFbPbFbQbRbFbFbFbEavavavavavavbubsaDaDaDaDaDaDaDbBaDaDaDaDaDbmadacaaaaaaaaaa
+adbmaDaDaDaDaDaDaDaDaDaVaVaVaVcAbwavavavavavavavbEbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbQbRbFbFbFbFbFbFbFbFbFbEavavavavavavbucBaVaVaVaDaDaTaDaDaDaDaDaDaDbmadacaaaaaaaaaa
+adadadadaDaDaDaDaDaDbtbpbpbpbpbpbwavavavavavavavbEbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbEavavavavavavbubpbpbpbpbsaDaDaDaDaDaDadadadadadacaaaaaaaaaa
+acacacadaDaDaDbmaDaDbtbwavavavavavavavavavavavavbEbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbIbJbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbEavavavavavavavavavavbubsaDaDbmaDaDaDadacacacacacaaaaaaaaaa
+acacacadaDaDaDbmaDaDbtbwavavavavavavavavavavavavbEbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbMbNbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbEavavavavavavavavavavbubsaDaDbmaDbcaDadacacacaaaaaaaaaaaaaa
+acadadadaTaDaDataDaDbtbwavavavavavavavavavavavavbEbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbQbRbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbEavavavavavavavavavavbubsaDaDataDaDaDadadadacaaaaaaaaaaaaaa
+acadarararaDaDaGaDaDarararavavavavavavavavavavavbEbEbEbEbEbEbEcCcDbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEbEavavavavavavavavavarararaDaDaGaDaTarararadacaaaaaaaaaaaaaa
+acadararaSaDaDataDaDaSararavavavavavavavavavavavavavavavavavavcEcFavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavararaRaDaDataDaDaRararadacaaaaaaaaaaaaaa
+acadararataDaDaDaDaDatararavavavavavavavavavavavavavavavavavavcGcHavavavavavavavavavavavavavavavavcIcJavavavavavavavavavavavavavavavavavararataDaDaDaDaDatararadacaaaaaaaaaaaaaa
+acadarararaDaDbmaDaDarararavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavcEcFavavavavavavavavavavavavavavavavavarararaDaDbmaDaDarararadacaaaaaaaaaaaaaa
+acadararaSaDaDbmaDaDaSararavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavcGcHavavavavavavavavavavavavavavavavavararaRaDaDbmaDaDaRararadacaaaaaaaaaaaaaa
+acadararataIaDaDaDaDatararavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavararataDaDaDaDaDatararadacaaaaaaaaaaaaaa
+acadarararaDaDataDaDarararavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavarararaDaDataDaDarararadacaaaaaaaaaaaaaa
+acadararaSaDaDaGaDaDaSararavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavararaRaDaDaGaDaDaRararadacaaaaaaaaaaaaaa
+acadararaDaDaDataDaDaDararavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavbSavavavavavavavavavavavararaDaDaDataDaDaDararadacaaaaaaaaaaaaaa
+acadararbHaDaDbmaDaDahararavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavararbGaDaDbmaDaDbGararadacaaaaaaaaaaaaaa
+acadararataDaDbmaDaDatararavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavararataDbcbmaDaDatararadacaaaaaaaaaaaaaa
+acadarararaDaDbmaDaDarararavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavavarararaDaDbmaDaDarararadacaaaaaaaaaaaaaa
+acadadadaBaCaDaDaDaDaBaBaBavavavavavavavavavavavavavavavavavavavavbubpbpbpbpbpbpbpbpbpbpbpbpbpbpbwavavavavavavavavavavavavavavavavavavavafafafaDaDaDaDaEafadadadacaaaaaaaaaaaaaa
+acacacadavaCaDaDaDaDaEbwavavavavavavavavavavavavavavavavavavavavavbucKaPaPaPaPaPaPaPaPaPaPaPaPcLbwavavavavavavavavavavavavavavavavavavavavbubsaDaDaDaDbtavadacacacaaaaaaaaaaaaaa
+aaaaacadavbsaDaDaTaDbtbwavavavavavavavavavavavavavavavavavavavavavbuaCaDaDbxbxbxaDaDbxbxbxaDaDaEbwavavavavavavavavavavavavavavavavavavavavbuaCaTaDaDbdaEavadacaaaaaaaaaaaaaaaaaa
+aaaaacadavaCaDaDaDaDaEbwavavavavavavavavavavavavavavavavavavavavavbuaCaTaDaDbvaDaDaDaDbvaTaDaDaEbwavavavavavavavavavavavavavavavavavavavavbubsaDaDaDaDbtavadacacaaaaaaaaaaaaaaaa
+aaacacadavbsaDaDaDaDbtbwavavavavararararararararararararararavavavbuaCaDaDaDatatatatatataDbcaDaEbwavavavararararararararararararararavavavadadaDaDadaDaEadadadacaaaaaaaaaaaaaaaa
+aaacadadadaCaDadaDaDadadavavavavararararararararararararararbpbpbpbpaCaDaDataDaDaDbraDaDaDaDaDaEbpbpbpbpararararararararararararararbpbpbpadamaDaDamaDaDamamadacaaaaaaaaaaaaaaaa
+aaacadamamaDaDamaDaDamadbpbpbpbparamamararamararamararamamaraPaPaPaPaDaDaDaDajcMcNcbcebjataDaDaDaPaPaPaParamamararamararamararamamaraPaxaPadbmaDaDataDaDatatadacaaaaaaaaaaaaaaaa
+aaacadatataDaDataDaDbmadaPaxaxaPaQbGaDaRaSaDaRaSaDaRaSaDbGaQaDaDaGaDaDaDaDaDbjbjcbcecbahaDaDaDaDaDaGaDaDaQbjaDaRaSaDaRaSaDaRaSaDcOaQbdaDaDambmaIaDaDaDaDaDaDadacaaaaaaaaaaaaaaaa
+aaacadcPcQaDaDaDaDaDbmamaDbcaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDbdaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDcRcSadacaaaaaaaaaaaaaaaa
+aaacadaDaIaDaDaDaDaDaDaDaDbgaDaDbgaDaDbgaDaDbgaDaDbgaDaDbgaDaDaDaDaDaDaDaDaVaVaVaVcTaVaVaVaDaDaDaDaDaDaDaDbgaDaDbgaDaDbgaDaDbgaDaDbgaDaDbgaDaDaDaDaDaDaDaDaDadacaaaaaaaaaaaaaaaa
+aaacadahcUaDaDaDbdaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaGaDaDaDaEavavavavavavavavaCaDaDaDcuaDaDaDaDaDaDaDaIaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDaDbjbHadacaaaaaaaaaaaaaaaa
+aaacadaDaDaDaDaDaDaDaDaDaDaDaDaDarbGaDararaDararaDararaDbGaraDaDaDaDaDaDaEavawaxayayaxaAavaCaDaDaDaDaDaDarbGaDararaDararaDararaDbGaraDaDaDaDaDaDaDaDbcaDcaaDadacaaaaaaaaaaaaaaaa
+aaacadcVcWcXatatatatatadataDaDatararararararararararararararaDaDaDbcaDaDaEavcYaDaGaGaDaEavaCaDaDaDaDaDaDararararararararararararararataDatadatatatatatcRcWcZadacaaaaaaaaaaaaaaaa
+aaacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadaDaDaEavaCaDaGaGaDaEavaCaDaDadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacaaaaaaaaaaaaaaaa
+aaacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacadaDbGaEavaUaVaWdaaVaXavaCaNaDadacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacadaDaDaEavavavavavavavavaCaDaDadacaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacadadadadadadadadadadadadadadadadacaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

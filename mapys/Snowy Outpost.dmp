@@ -1,0 +1,292 @@
+"aa" = (/obj/Zombie_Spawn{icon_state = ""},/turf/Ground/Snow,/area)
+"ab" = (/turf/Ground/Snow,/area)
+"ac" = (/obj/Vehicle/tl,/turf/Ground/Snow,/area)
+"ad" = (/turf/Ground/Snow,/turf/Trees/Tree/Tree5,/area)
+"ae" = (/turf/Ground/Snow,/turf/Trees/Tree/Tree6,/area)
+"af" = (/turf/Ground/Snow,/turf/Trees/Tree/Tree3,/area)
+"ag" = (/turf/Ground/Snow,/turf/Trees/Tree/Tree4,/area)
+"ah" = (/turf/Ground/Snow,/turf/Trees/Tree/Tree3,/turf/Trees/Tree/Tree5,/area)
+"ai" = (/turf/Ground/Snow,/turf/Trees/Tree/Tree4,/turf/Trees/Tree/Tree6,/area)
+"aj" = (/turf/Ground/Snow,/turf/Trees/Tree/Tree,/area)
+"ak" = (/turf/Ground/Snow,/turf/Trees/Tree/Tree2,/area)
+"al" = (/turf/Walls/W_Density_Opacity/Wall_3,/area)
+"am" = (/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Ground/Snow,/area)
+"an" = (/obj/Secured_Stuff/Switch{switch_number = 14},/turf/Walls/W_Density_No_Opacity/Wall_6,/area)
+"ao" = (/turf/Walls/W_Density_No_Opacity/Wall_6,/obj/Other/DenseLoc,/turf/Objects/Street_Poles/Street_Pole_5,/area)
+"ap" = (/turf/Walls/W_Density_No_Opacity/Wall_6,/area)
+"aq" = (/turf/Walls/W_Density_No_Opacity/Wall_6,/obj/Other/DenseLoc,/turf/Objects/Street_Poles/Brown_Pole,/area)
+"ar" = (/turf/Walls/W_Density_No_Opacity/Wall_6,/turf/Objects/Pipes_2,/obj/Other/DenseLoc,/turf/Objects/School/Lockers/Locker_15,/area)
+"as" = (/turf/Ground/Cement_Floor2,/area)
+"at" = (/turf/Ground/Cement_Floor2,/turf/Objects/Street_Poles/Street_Pole_5,/area)
+"au" = (/turf/Ground/Cement_Floor2,/turf/Objects/Junk/Paper2,/area)
+"av" = (/turf/Ground/Cement_Floor2,/turf/Blood/Blood1,/turf/Blood/Blood2,/area)
+"aw" = (/turf/Ground/Cement_Floor2,/turf/Objects/Street_Poles/Brown_Pole,/area)
+"ax" = (/turf/Ground/Cement_Floor2,/turf/Objects/Pipes_1,/obj/Other/DenseLoc,/turf/Objects/School/Lockers/Locker_15,/area)
+"ay" = (/turf/Ground/Snow,/turf/Blood/BloodA,/area)
+"az" = (/turf/Ground/Cement_Floor2,/turf/Objects/Junk/Paper,/area)
+"aA" = (/turf/Ground/Cement_Floor2,/turf/Objects/Lab/Barrel_1,/area)
+"aB" = (/turf/Ground/Cement_Floor2,/turf/Blood/Blood1,/area)
+"aC" = (/turf/Ground/Cement_Floor2,/turf/Objects/Street_Poles/Street_Pole_5,/turf/Objects/Junk/Paper,/area)
+"aD" = (/turf/Ground/Cement_Floor2,/turf/Objects/School/Lockers/Locker_15,/area)
+"aE" = (/mob/player/NPC/Mob/UCM{tag = "icon-normal (WEST)"; dir = 8},/turf/Ground/Cement_Floor2,/area)
+"aF" = (/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Snow,/area)
+"aG" = (/obj/Attackable/Secured_Stuff/Big_Doors/Secured_Door{tag = "icon-Secured_Door2Closed (WEST)"; dir = 8; switch_number = 14},/turf/Ground/Cement_Floor2,/area)
+"aH" = (/turf/Ground/Cement_Floor2,/turf/Objects/Street_Poles/Brown_Pole,/turf/Objects/Junk/Paper2,/area)
+"aI" = (/turf/Ground/Cement_Floor2,/turf/Objects/Street_Poles/Street_Pole_5,/turf/Objects/Junk/Paper2,/area)
+"aJ" = (/turf/Ground/Cement_Floor2,/turf/Blood/Blood4,/turf/Blood/Blood2,/area)
+"aK" = (/turf/Ground/Cement_Floor2,/turf/Blood/Blood1,/turf/Blood/Blood4,/turf/Blood/Blood2,/area)
+"aL" = (/turf/Ground/Cement_Floor2,/turf/Objects/Street_Poles/Street_Pole_5,/turf/Blood/Blood4,/area)
+"aM" = (/turf/Ground/Cement_Floor2,/turf/Objects/Street_Poles/Brown_Pole,/turf/Blood/Blood4,/area)
+"aN" = (/turf/Ground/Cement_Floor2,/turf/Blood/Blood4,/area)
+"aO" = (/turf/Ground/Cement_Floor2,/turf/Objects/School/Lockers/Locker_15,/turf/Blood/Blood4,/turf/Blood/BloodD,/area)
+"aP" = (/turf/Ground/Cement_Floor2,/turf/Locations/Mayham_Start,/area)
+"aQ" = (/turf/Ground/Cement_Floor2,/turf/Objects/Lab/Barrel_2,/area)
+"aR" = (/turf/Ground/Cement_Floor2,/turf/Objects/School/Lockers/Locker_15,/turf/Objects/Lab/Barrel_1,/obj/Other/DenseLoc,/turf/Objects/School/Lockers/Locker_15,/area)
+"aS" = (/turf/Ground/New_Turf32,/turf/Objects/Junk/Paper,/area)
+"aT" = (/obj/Attackable/Pushable_Obj/Destroyable/Barricade,/turf/Ground/New_Turf32,/area)
+"aU" = (/turf/Ground/New_Turf32,/area)
+"aV" = (/turf/Ground/Dirt,/area)
+"aW" = (/turf/Ground/Cement_Floor2,/turf/Objects/School/Lockers/Locker_14,/turf/Objects/Lab/Barrel_1,/obj/Other/DenseLoc,/turf/Objects/School/Lockers/Locker_14,/area)
+"aX" = (/obj/Pickup/Items/Ammo_Light_Handgun,/turf/Ground/New_Turf32,/area)
+"aY" = (/obj/Attackable/Pushable_Obj/Destroyable/DeskChair,/obj/Pickup/Items/Ammo_Light_Handgun,/turf/Ground/New_Turf32,/area)
+"aZ" = (/obj/Attackable/Pushable_Obj/Destroyable/DeskChair,/turf/Ground/New_Turf32,/area)
+"ba" = (/turf/Ground/New_Turf32,/turf/Blood/Blood2,/area)
+"bb" = (/turf/Ground/New_Turf32,/obj/Attackable/Pushable_Obj/Destroyable/Barricade,/turf/Blood/BloodC,/area)
+"bc" = (/obj/Attackable/Secured_Stuff/Big_Doors/Secured_Door{tag = "icon-Secured_Door2Closed (WEST)"; dir = 8; switch_number = 1},/turf/Ground/New_Turf32,/area)
+"bd" = (/turf/Ground/Road,/area)
+"be" = (/turf/Walls/Wall_Over_Layer/Wall_3,/area)
+"bf" = (/turf/Ground/New_Turf32,/turf/Blood/Blood4,/area)
+"bg" = (/turf/Ground/New_Turf32,/turf/Blood/Blood4,/turf/Blood/Blood2,/area)
+"bh" = (/turf/Ground/New_Turf32,/turf/Locations/Mayham_Start,/area)
+"bi" = (/turf/Ground/New_Turf32,/turf/Blood/Blood2,/turf/Blood/Blood1,/turf/Blood/BloodC,/area)
+"bj" = (/turf/Walls/W_Density_No_Opacity/Wall_6,/turf/Blood/BloodB,/area)
+"bk" = (/obj/Attackable/Door/Door1/Vertical,/turf/Ground/Cement_Floor2,/area)
+"bl" = (/turf/Ground/New_Turf32,/turf/Blood/Blood4,/turf/Blood/Blood2,/turf/Blood/BloodB,/area)
+"bm" = (/turf/Ground/New_Turf32,/turf/Objects/Junk/Paper,/turf/Blood/Blood4,/area)
+"bn" = (/turf/Ground/New_Turf32,/turf/Blood/Blood2,/turf/Blood/Blood1,/area)
+"bo" = (/turf/Ground/New_Turf32,/turf/Blood/Blood4,/obj/Attackable/Pushable_Obj/Destroyable/Barricade,/turf/Blood/Blood2,/area)
+"bp" = (/turf/Ground/Floor_7,/area)
+"bq" = (/turf/Ground/Floor_7,/turf/Objects/Desks/Desk,/turf/Objects/Junk/Paper,/turf/Objects/Street_Poles/Street_Pole_5,/area)
+"br" = (/turf/Ground/Floor_7,/turf/Objects/Desks/Desk2,/area)
+"bs" = (/turf/Ground/Floor_7,/turf/Objects/Desks/Desk,/obj/Pickup/Items/Spray,/turf/Objects/Junk/Paper2,/area)
+"bt" = (/turf/Ground/Floor_7,/turf/Objects/Desks/Desk2,/turf/Objects/Street_Poles/Street_Pole_5,/area)
+"bu" = (/obj/Pickup/Items/Ammo_Shotgun,/turf/Ground/New_Turf32,/area)
+"bv" = (/mob/player/NPC/Mob/UCM{tag = "icon-normal (EAST)"; dir = 4},/turf/Ground/New_Turf32,/area)
+"bw" = (/turf/Ground/New_Turf32,/turf/Blood/Blood2,/turf/Blood/BloodC,/area)
+"bx" = (/turf/Ground/Floor_7,/turf/Objects/Street_Poles/Street_Pole_5,/area)
+"by" = (/obj/Attackable/Door/Door1/Horizontal,/turf/Ground/Floor_1,/area)
+"bz" = (/turf/Ground/Floor_7,/turf/Objects/Junk/Paper,/area)
+"bA" = (/turf/Ground/Floor_7,/turf/Locations/Mayham_Start,/area)
+"bB" = (/turf/Ground/New_Turf32,/turf/Blood/Blood1,/turf/Blood/Blood4,/area)
+"bC" = (/turf/Ground/New_Turf32,/turf/Blood/BloodC,/area)
+"bD" = (/turf/Ground/New_Turf32,/obj/Attackable/Pushable_Obj/Destroyable/Barricade,/turf/Objects/Junk/Paper,/area)
+"bE" = (/turf/Walls/W_Density_Opacity/Wall_3{density = 0; layer = 5},/area)
+"bF" = (/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Ground/Floor_7,/area)
+"bG" = (/obj/Pickup/Guns/MP5,/turf/Walls/W_Density_No_Opacity/Wall_6,/area)
+"bH" = (/obj/Pickup/Guns/UMP45,/turf/Walls/W_Density_No_Opacity/Wall_6,/area)
+"bI" = (/obj/Attackable/Windows/Window3,/turf/Ground/Floor_7,/area)
+"bJ" = (/turf/Ground/Cement_Floor2,/turf/Blood/BloodB,/area)
+"bK" = (/turf/Ground/Cement_Floor2,/obj/Pickup/Items/Ammo_Light_Machinegun,/turf/Objects/Table/Table,/area)
+"bL" = (/turf/Ground/Cement_Floor2,/obj/Pickup/Items/Ammo_Light_Handgun,/turf/Objects/Table/Table_2,/area)
+"bM" = (/turf/Ground/Cement_Floor2,/turf/Objects/Junk/Paper,/turf/Objects/Junk/Paper2,/area)
+"bN" = (/turf/Ground/Floor_7,/turf/Objects/Junk/Garbage_Can,/area)
+"bO" = (/turf/Ground/Floor_7,/turf/Blood/Blood3,/area)
+"bP" = (/turf/Ground/CheckeredFloor,/area)
+"bQ" = (/turf/Ground/CheckeredFloor,/turf/Blood/BloodC,/area)
+"bR" = (/turf/Ground/CheckeredFloor,/turf/Blood/Gore2,/area)
+"bS" = (/turf/Ground/Cement_Floor2,/turf/Objects/Table/Table_3,/area)
+"bT" = (/turf/Ground/Cement_Floor2,/obj/Pickup/Items/Ammo_Sniper,/turf/Objects/Table/Table_4,/area)
+"bU" = (/turf/Ground/Floor_7,/turf/Objects/Table/Table,/obj/Pickup/Items/Ammo_Shotgun,/turf/Objects/Junk/Paper2,/area)
+"bV" = (/turf/Ground/Floor_7,/obj/Pickup/Items/gastanker,/obj/Pickup/Items/gastanker,/turf/Objects/Table/Table_2,/area)
+"bW" = (/turf/Ground/Floor_7,/obj/Pickup/Items/Ammo_Heavy_Machinegun,/turf/Objects/Desks/Desk3,/area)
+"bX" = (/turf/Ground/CheckeredFloor,/mob/player/NPC/Mob/UCM,/turf/Objects/Junk/Paper,/area)
+"bY" = (/turf/Ground/CheckeredFloor,/turf/Objects/Lab/Barrel_1,/area)
+"bZ" = (/turf/Ground/Floor_7,/turf/Objects/Table/Table_3,/area)
+"ca" = (/turf/Ground/Floor_7,/turf/Objects/Table/Table_4,/area)
+"cb" = (/turf/Ground/Floor_7,/obj/Pickup/Items/Ammo_Heavy_Machinegun,/turf/Objects/Desks/Desk4,/area)
+"cc" = (/mob/player/NPC/Obj/MANNED_TURRET/MAN_1,/turf/Ground/Cement_Floor2,/area)
+"cd" = (/turf/Ground/Floor_7,/obj/Pickup/Items/Ammo_Shotgun,/turf/Objects/Table/Table,/area)
+"ce" = (/turf/Ground/Floor_7,/obj/Pickup/Items/Ammo_Light_Machinegun,/turf/Objects/Table/Table_2,/area)
+"cf" = (/turf/Ground/CheckeredFloor,/turf/Blood/Blood1,/turf/Blood/Gore10,/area)
+"cg" = (/obj/Attackable/Pushable_Obj/Destroyable/Barricade,/obj/Attackable/Pushable_Obj/Destroyable/Barricade,/turf/Ground/Cement_Floor2,/area)
+"ch" = (/turf/Ground/Floor_7,/turf/Objects/Table/Table,/area)
+"ci" = (/turf/Ground/Floor_7,/turf/Objects/Table/Table,/turf/Objects/Table/Table_2,/obj/Pickup/Items/Ammo_Sniper2,/turf/Objects/Junk/Paper,/area)
+"cj" = (/turf/Ground/Floor_7,/turf/Objects/Table/Table_3,/turf/Objects/Junk/Paper,/area)
+"ck" = (/turf/Ground/CheckeredFloor,/turf/Blood/Blood3,/turf/Blood/Blood4,/turf/Blood/Blood1,/area)
+"cl" = (/turf/Ground/CheckeredFloor,/turf/Blood/Blood3,/area)
+"cm" = (/turf/Ground/CheckeredFloor,/turf/Objects/Junk/Paper,/turf/Blood/Blood3,/obj/Attackable/Pushable_Obj/Destroyable/DeskChair,/turf/Blood/Blood2,/area)
+"cn" = (/turf/Ground/CheckeredFloor,/turf/Blood/Blood3,/obj/Attackable/Pushable_Obj/Destroyable/DeskChair,/turf/Blood/Blood4,/area)
+"co" = (/obj/Attackable/Pushable_Obj/Destroyable/Barricade,/turf/Ground/Cement_Floor2,/area)
+"cp" = (/obj/Attackable/Pushable_Obj/Destroyable/DeskChair,/turf/Ground/CheckeredFloor,/area)
+"cq" = (/turf/Ground/CheckeredFloor,/obj/Attackable/Pushable_Obj/Destroyable/DeskChair,/turf/Blood/Gore,/area)
+"cr" = (/turf/Ground/CheckeredFloor,/obj/Attackable/Pushable_Obj/Destroyable/DeskChair,/turf/Blood/BloodC,/area)
+"cs" = (/obj/Attackable/Destructable_Obj/Chainlink_Fence,/turf/Ground/Cement_Floor2,/area)
+"ct" = (/turf/Ground/Cement_Floor2,/obj/Attackable/Destructable_Obj/Chainlink_Fence,/turf/Blood/BloodB,/area)
+"cu" = (/obj/Pickup/Items/Ammo_Shotgun,/obj/Attackable/Destructable_Obj/Chainlink_Fence,/turf/Ground/Cement_Floor2,/area)
+"cv" = (/obj/Secured_Stuff/Switch{switch_number = 1},/turf/Walls/W_Density_No_Opacity/Wall_6,/area)
+"cw" = (/turf/Ground/Floor_7,/turf/Objects/Table/Table,/turf/Objects/Junk/Paper2,/area)
+"cx" = (/turf/Ground/Floor_7,/turf/Objects/Table/Table_2,/turf/Objects/Junk/Paper2,/obj/Pickup/Guns/AK_47,/turf/Objects/Junk/Paper,/area)
+"cy" = (/turf/Ground/Floor_7,/turf/Blood/BloodC,/area)
+"cz" = (/obj/Attackable/Secured_Stuff/Big_Doors/Secured_Door{tag = "icon-Secured_Door2Closed (NORTH)"; dir = 1; switch_number = 1},/turf/Ground/CheckeredFloor,/area)
+"cA" = (/turf/Walls/W_Density_No_Opacity/Wall_6,/turf/Blood/BloodC,/area)
+"cB" = (/obj/Pickup/Items/Ammo_Light_Handgun,/turf/Ground/Floor_7,/area)
+"cC" = (/turf/Ground/Floor_7,/turf/Blood/BloodC,/turf/Blood/BloodA,/area)
+"cD" = (/turf/Ground/Floor_7,/turf/Objects/Couchs/Couch_2,/area)
+"cE" = (/turf/Ground/Floor_7,/turf/Objects/Couchs/Couch,/area)
+"cF" = (/obj/Pickup/Items/gastanker,/turf/Ground/Snow,/area)
+"cG" = (/turf/Ground/Floor_7,/turf/Objects/Couchs/Couch_3,/area)
+"cH" = (/obj/Attackable/Pushable_Obj/Destroyable/Barricade,/turf/Ground/Snow,/area)
+"cI" = (/obj/Secured_Stuff/Switch{switch_number = 87},/turf/Walls/W_Density_No_Opacity/Wall_6,/area)
+"cJ" = (/turf/Walls/W_Density_No_Opacity/Wall_6,/turf/Blood/BloodA,/area)
+"cK" = (/obj/Attackable/Secured_Stuff/Big_Doors/Secured_Door{switch_number = 1},/turf/Ground/Floor_7,/area)
+"cL" = (/turf/Walls/W_Density_No_Opacity/Wall_6,/obj/Secured_Stuff/Switch{switch_number = 1},/turf/Blood/BloodB,/area)
+"cM" = (/obj/Secured_Stuff/Switch{switch_number = 88},/turf/Walls/W_Density_No_Opacity/Wall_6,/area)
+"cN" = (/turf/Ground/Road_2,/area)
+"cO" = (/turf/Ground/Cement_L_Black,/area)
+"cP" = (/obj/Attackable/Pushable_Obj/Destroyable/Barricade,/turf/Ground/Cement_L_Black,/area)
+"cQ" = (/mob/player/NPC/Mob/UCM{tag = "icon-normal (WEST)"; dir = 8},/turf/Ground/Cement_L_Black,/area)
+"cR" = (/turf/Ground/Stairs,/area)
+"cS" = (/mob/player/NPC/Mob/UCM{tag = "icon-normal (EAST)"; dir = 4},/turf/Ground/Cement_L_Black,/area)
+"cT" = (/obj/Attackable/Pushable_Obj/Destroyable/Barricade,/turf/Ground/Road_2,/area)
+"cU" = (/turf/Ground/Snow,/obj/Attackable/Pushable_Obj/Destroyable/Barricade,/turf/Blood/BloodA,/area)
+"cV" = (/turf/Ground/Road_2,/turf/Locations/Mayham_Start,/area)
+"cW" = (/turf/Ground/Road_2,/obj/Pickup/Items/gastanker,/turf/Locations/Mayham_Start,/area)
+"cX" = (/mob/player/NPC/Obj/sentry_turret,/turf/Ground/Road_2,/area)
+"cY" = (/turf/Ground/Road,/turf/Objects/Junk/Paper,/area)
+"cZ" = (/mob/player/NPC/Obj/sentry_turret,/turf/Ground/Cement_L_Black,/area)
+"da" = (/obj/Zombie_Spawn{icon_state = ""},/turf/Ground/Cement_Floor,/area)
+"db" = (/turf/Ground/Cement_Floor,/area)
+"dc" = (/obj/Attackable/Pushable_Obj/Destroyable/Barricade,/turf/Ground/Cement_Floor,/area)
+"dd" = (/turf/Ground/Cement_Floor,/turf/Blood/BloodC,/area)
+"de" = (/mob/player/NPC/Mob/UCM,/turf/Ground/Cement_Floor,/area)
+"df" = (/turf/Ground/Cement_Floor,/turf/Objects/Junk/Paper2,/turf/Objects/Junk/Paper,/area)
+"dg" = (/obj/Zombie_Spawn{icon_state = ""},/turf/Ground/Road,/area)
+"dh" = (/turf/Ground/Road,/turf/Blood/Gore7,/turf/Blood/Gore,/turf/Blood/Gore7,/area)
+"di" = (/obj/Attackable/Pushable_Obj/Destroyable/Barricade,/turf/Ground/Road,/area)
+"dj" = (/mob/player/NPC/Obj/sentry_turret,/turf/Ground/Road,/area)
+"dk" = (/turf/Ground/Road,/turf/Objects/Junk/Paper2,/area)
+"dl" = (/obj/Attackable/Secured_Stuff/Big_Doors/Secured_Door{tag = "icon-Secured_Door2Closed (EAST)"; dir = 4; switch_number = 87},/turf/Ground/Road,/area)
+"dm" = (/mob/player/NPC/Mob/UCM,/turf/Ground/Road,/area)
+"dn" = (/obj/Attackable/Pushable_Obj/Destroyable/Barricade,/obj/Attackable/Pushable_Obj/Destroyable/Barricade,/turf/Ground/Road,/area)
+"do" = (/turf/Ground/Road,/turf/Blood/Gore,/area)
+"dp" = (/obj/Attackable/Secured_Stuff/Big_Doors/Secured_Door{tag = "icon-Secured_Door2Closed (WEST)"; dir = 8; switch_number = 88},/turf/Ground/Road,/area)
+"dq" = (/turf/Ground/Road,/turf/Blood/BloodA,/area)
+"dr" = (/turf/Ground/Road,/turf/Locations/Blue,/area)
+"ds" = (/turf/Ground/Road,/turf/Locations/Red,/area)
+"dt" = (/turf/Ground/Road,/turf/Blood/Gore2,/area)
+"du" = (/turf/Ground/Road,/obj/Zombie_Spawn{icon_state = ""},/turf/Ground/Withe_Line,/area)
+"dv" = (/turf/Ground/Road,/turf/Ground/Withe_Line,/area)
+"dw" = (/turf/Ground/Road,/obj/Attackable/Pushable_Obj/Destroyable/Barricade,/turf/Ground/Withe_Line,/area)
+"dx" = (/turf/Ground/Road,/obj/Attackable/Secured_Stuff/Big_Doors/Secured_Door{tag = "icon-Secured_Door2Closed (EAST)"; dir = 4; switch_number = 87},/turf/Ground/Withe_Line,/area)
+"dy" = (/turf/Ground/Road,/obj/Attackable/Secured_Stuff/Big_Doors/Secured_Door{tag = "icon-Secured_Door2Closed (WEST)"; dir = 8; switch_number = 88},/turf/Ground/Withe_Line,/area)
+"dz" = (/turf/Ground/Road,/turf/Ground/Withe_Line,/turf/Blood/BloodA,/area)
+"dA" = (/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Road,/area)
+"dB" = (/turf/Ground/Road,/turf/Blood/Blood3,/area)
+"dC" = (/turf/Ground/Road,/obj/Attackable/Secured_Stuff/Big_Doors/Secured_Door{tag = "icon-Secured_Door2Closed (EAST)"; dir = 4; switch_number = 87},/turf/Blood/Blood4,/area)
+"dD" = (/turf/Ground/Road,/turf/Locations/Mayham_Start,/area)
+"dE" = (/turf/Ground/Road,/turf/Blood/BloodI,/area)
+"dF" = (/turf/Ground/Road,/mob/player/NPC/Mob/UCM,/turf/Blood/BloodE,/area)
+"dG" = (/turf/Ground/Road,/turf/Blood/BloodG,/area)
+"dH" = (/turf/Ground/Road,/turf/Blood/BloodF,/area)
+"dI" = (/turf/Ground/Road,/turf/Blood/Gore9,/area)
+"dJ" = (/turf/Ground/Road,/turf/Objects/Junk/Paper,/turf/Objects/Junk/Paper2,/area)
+"dK" = (/turf/Ground/Road,/obj/Attackable/Pushable_Obj/Destroyable/Barricade,/turf/Blood/BloodF,/area)
+"dL" = (/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Ground/Road,/area)
+"dM" = (/turf/Ground/Road,/turf/Blood/BloodD,/area)
+"dN" = (/turf/Ground/Road,/turf/Blood/Gore8,/area)
+"dO" = (/turf/Ground/Cement_Floor,/turf/Blood/BloodH,/area)
+"dP" = (/turf/Walls/W_Density_No_Opacity/Wall_6,/turf/Trees/Tree/Tree5,/area)
+"dQ" = (/turf/Walls/W_Density_No_Opacity/Wall_6,/turf/Trees/Tree/Tree6,/area)
+"dR" = (/turf/Walls/W_Density_No_Opacity/Wall_6,/obj/Secured_Stuff/Switch{switch_number = 88},/turf/Trees/Tree/Tree6,/area)
+"dS" = (/turf/Ground/Snow,/obj/Zombie_Spawn{icon_state = ""},/turf/Trees/Tree/Tree6,/area)
+"dT" = (/turf/Ground/Snow,/obj/Zombie_Spawn{icon_state = ""},/turf/Trees/Tree/Tree4,/area)
+"dU" = (/turf/Ground/Snow,/turf/Trees/Tree/Tree,/turf/Blood/BloodA,/area)
+"dV" = (/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Snow,/area)
+"dW" = (/obj/Attackable/Pushable_Obj/Destroyable/Barricade,/obj/Attackable/Pushable_Obj/Destroyable/Barricade,/turf/Ground/Snow,/area)
+"dX" = (/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/turf/Ground/Snow,/area)
+"dY" = (/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/obj/Pickup/Items/Ammo_Light_Machinegun,/obj/Pickup/Items/Ammo_Light_Machinegun,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/turf/Ground/Snow,/area)
+"dZ" = (/turf/Ground/Snow,/turf/Trees/Tree/Tree2,/turf/Blood/Gore,/area)
+"ea" = (/turf/Ground/Snow,/turf/Trees/Tree/Tree,/turf/Blood/Gore12,/area)
+
+(1,1,1) = {"
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabacabababababababababababababababababadaeabababababababababababababababababababababababababababababababababababababababababababababababadaeababababababababaa
+aaababababadaeabababababababababadaeababafagabababababababababababababababababababababababababababababababababababababababadaeababababababafagababababababababaa
+aaababababahaiabababababababababahaiababajakabababababababababababababababababababababababababababababababababababababababahaiababababababajakababababababababaa
+aaababababafagabababababababababafagabababababababababababababababababababababababababababababababababababababababababababafagababababababababababababababababaa
+aaababababajakabababababababababajakababababadaeababababababababababababababababababababababababababababababadaeabababababajakabababababababababababadaeabababaa
+aaabababababababababababababababababababababafagababababababababababababababababababababababababababababababahaiababababababababababababababababababahaiabababaa
+aaabababababababababadaeababababababababababajakababababababababababababababababababababababababababababababafagababababababababababababababadaeababafagabababaa
+aaabababababadaeababafagababadaeababababababababababababababababababababababababababababababababababababababajakababababababadaeababadaeababafagababajakabababaa
+aaabababababahaiababajakababahaiababababababababababalalalalalalalalalalalabababababababababamabababababababababababababababahaiababahaiababajakabababababababaa
+aaabababababafagababababababafagababababababababababalanaoapapapaoaqaparalababababababababababababababababababadaeabababababafagababafagabababababababadaeababaa
+aaabababababajakababababababajakabababadaeabababababalasatasauavatawasaxalabababababababayababababababababababahaiabababababajakababajakababababadaeabahaiababaa
+aaababababababababababababababababababafagabababababalazataAaAaBaCawazaDalayayababababababababababababababababafagabababababababababababababababafagabafagababaa
+aaababababababababababababababababababajakabadaeababalasaCaAaEaBatawasaDalababababababaFabababababababababababajakabababababababababababababababajakabajakababaa
+aaabababababababababababababababababababababahaiababaGasataAauaBataHasaDalabababababababababababababababababababababababadaeabababababababababababababababababaa
+aaabababababababababababababababababababababafagababaGasaIaAaJaKaLaMaNaOalalalalalalalalalalababababababababababababababahaiabababababababababababababababababaa
+aaabababababababababababababababababababababajakababalauataAaEaPatawaQaRalapapapapapapapapalalalalalalalabayababababababafagabababababababababababababababababaa
+aaababababababababadaeababababababababamamabababababalasataAaAasataHaAaRalaSaTaUaVaUaUaTaUapapapapapalalasasasasasasasabajakabababababababadaeababababababababaa
+aaababababadaeababafagabababababababababababababababalazatasasauatawaAaWalaUaUaXaYaUaVaUaZaUbaaUbbaTbcbcbdbdbdbdbdbdasababababababadaeababafagabababababadaeabaa
+aaababababahaiababajakabadaeababababababababadaeababalalalalbebebealalalalbfbgaVbhaUaUaSaUaUbiaUaTaTbcbcbdbdbdbdbdbdasababababababahaiababajakabadaeababafagabaa
+aaababababafagabababababahaiababababababababafagababalbjapaoapbkapaoapapalaUaUaUaUaZaUaUblbmbnbfboaTalalasasasbdbdbdasababababababafagabababababahaiababajakabaa
+aaadaeababajakabababababafagababababababababajakababalbpbpbqbrbpbsbtbpbpalaUaZbuaZaVbvaTaTaUbwaUaTaTalalasasasbdbdbdasababababababajakabababababafagabababababaa
+aaahaiabababababababababajakababababababababababababalbpbpbxbpbpbpbxbpbpbyaUaUaSaZaUaUaTaUaUaSaUaTaTbcbcbdbdbdbdbdbdasabadaeababababababababababajakabababababaa
+aaafagabababababababababababadabababababadaeababababalbpbzbxbpbAbpbxbpbpalbfaUbBbhaUbvaTaUbCaUaUbDaTbcbcbdbdbdbdbdbdasabafagabababababababababababababababababaa
+aaajakabababababababababababafabababababafagababababalbpbpalalalalbEbebEalalalaUaUalalalalalalalalalalalasasasasbdbdasabajakabababababababadaeababababababababaa
+aaabababababababababababababajabababababajakababababalbFbpalapapbGbHbIapalapapbpbpbjapapapapapapapalapapabababasbdbdasababadaeababababababafagabababababadaeabaa
+aaabababababababababababababababadaeababababababababalbpbpalbJasbKbLasbMalbNbpbpbpbzbObPbQbPbPbPbRalabababababasbdbdasababahaiababababababajakabababababafagabaa
+aaabadaeababababababababababababafagababababababababalbzbpalasasbSbTasasalbUbVbpbpbpbWbPbPbXbYbPbYalabababababasbdbdasababafagabababababababababababababajakabaa
+aaabahaiabababababababababamababajakababababababababalbpbpalasauaPasasasalbZcabzbAbpcbalbYbYbYbPbPalabababababasbdbdasababajakababababababababababababababababaa
+aaabafagababababababababababababababababababababababalbpbpalccasasasasccalbpbpbpbpcdcealbPbPcfbPbPalabababababasbdbdasababababababababababababababababababababaa
+aaabajakababababadaeababababababababababababababababalbpbpalcgcgcgcgcgcgalchcibpbpcjcaalbYckclcmcnalabababababasbdbdasababababababababababababababababababababaa
+aaabababababababafagadaeababababadaeababababababababalbzbpalcoasasazascoalbZcabpbpbpbpalbPbPcpcpcpalabababababasbdbdasababababababababababadaeababababababababaa
+ababababababababajakafagababababafagababadaeababababalbpbFalasasasasasasalbpbpbpbpbpbpalbPcqcpcpcralabababababasbdbdasababadaeababababababafagababababababababaa
+ababababababababababajakababababajakababafagababababalbpbpapcsctcscscucscvbpbpbpbpcwcxalalalbebebealabababababasbdbdasababahaiababababababajakababababababababaa
+ababababababababababababababababababababajakababababalbpbpbpbpbpbpbpbAbpbpbzbpcybpbZcaalbjapapczapcAabababamabasbdbdasababafagababababababababababababababababaa
+ababababababababababababababababababababababababababalbpcBbAbzbpcCbpbzbpbpbpbpbAbpbpcDalabababababababababababasbdbdasababajakabababababababababababadaeabababaa
+abababababadaeabababababababababababababababababababalbpbpbpbpbpbpbpbpbpbpbpbpbpbzbpcEalabcFabababababababababasbdbdasabababababababababababababababahaiabababaa
+abadaeababafagabababababadaeababababababababababababalbpbpbpbpbpbpbpbzbpbpbObpbpbpbpcGalabababababababababababasbdbdasayababababababababababadaeababafagabababaa
+aaahaiababajakabadaeababafagababababababababababalalalalalalbealbebealbealalalalalalalalalalalabcFababababababasbdbdasabababadaeababababababafagababajakabababaa
+aaafagabababababahaiababajakcHabababababababadaealcIapcJapcAcKapcKcKcLcKapapapapapapapbjapcMalcHabababababababasbdbdasabababahaiababababababajakabababababababaa
+abajakabababababafagababababcHabababababababafagalcNcNcNcOcPcQcOcRcRcOcScTcNcOcOcOcOcOcOcOcNalcUabababababababasbdbdasabababafagabababababababcHabababababababab
+aaabababababababajakaFabababcHabababababababajakalcNcVcNcOcPcNcObdbdcOcOcTcNcOcOcOcOcWcNcOcNalcHabababababababasbdbdasabababajakabababababababababababababababaa
+aaabababababababababababababcHcHababababababababalcOcOcOcOcPcXcObdcYcOcZcPcOcOcOcOcOcOcOcOcOalcHabababababababasbdbdasababababababababababababababababababababaa
+dadbdbdbdbdbdbdbdbdbdbdbdbdbdcdcdbdbdbdbdbdbdbddaldbdbdbdbdcdedbbdbddbdedcdbdbdbdbdbdbdbdbdbaldcdbdbdbdbdbdbdbdbbdbddbdbdbdbdbdbdbdbdfdbdbdbdbdbdbdbdbdbdbdbdbda
+dgbdbdcYbdbdbdbdbdbdbddhbdbddidibddjbdbddkbdbdbddlbdbdbdbddidmbdbdbdbddmdnbdbdbdbddobdbddjbddpdibdbdbdbdbdbdbdbdbdbdbdbdbdbdbdbdbdbdbddqbdbdbdbdbdbdbddqbdbdbddg
+dgbdbdbdbdbdbdbdbdbdbdbdbdbddidibdbdbdbdbdbdbdbddldrdqbdbddidjbdbdbdbddjdibdbdbdbdbdbddqbddsdpdibdbdbdbdbddtbdbdbdbdbdbdbdbdbdbdbdbdbdbdbdbddobddobdbdbdbdbdbddg
+dubddvbddvbddvbddvbddvbddvbddwdidvbddvbddvbddvbddxbddvbddvdidvbddvbddvbddwbddvbddvbddvbddvbddydidvbddvbddvbddvbddvbddvbddvbddvbddvbddzbddvbddvbddvbddvbddvbddvdg
+dgbdbdbdbdbdbdbdbdbdbdbdbdbddidibdbdbdbdbdbddAdBdCbdbddDdEdidFdGbdbdbddmdibdbdbdbdbddDdqbdbddpdibdbdbdbdbddqbdbdbdbdbdbdbdbdbdbdbdbdbdbdbdbddHbdbdbdbdbdbdbdbddg
+dgbdbdbddIbdbdbdbddJbdbdbdbddidibddjbdbdbdbdbdbddlbdbdbdbddKbdbdbdbdbdbddibdbdbdbddLbdbddjbddpdibddobdbdbdbdbdbddkbdbdbdbdbdbdbdbdbdbdbdcYbddMbdbddNbddkbdbdbddg
+dadbdbdbdbdbdbdbdbdbdbdbdbdbdcdcdbdbdbdbdbdbdbdbalalalalalalalalalalalalalalalalalalalalalalaldcdbdbdbdbdbdbdbdbdbdbdbdbdbdbdbdbdbdbdbdbdbdbdOdbdbdbdbdbdbdbdbda
+aaabababababababababababababcHcHababababababababcIapapapapapdPdQapapapapapapapapapapapapapdPdRcHabababababababababababababababababababababababababababababababaa
+aaababababadaeabababababababcHababababadaeabababababababababahaiabababababababababababababahaicHabadaeababababababababababababababababababababababadaeabababaddS
+aaadaeababafagabababababababcHadaeababafagabababababababababafagababaFababababababababababafagcHabafagabababababababababababababadaeabababababababafagabababafdT
+aaahaiababajakabababababababcHahaiababajakabababababababababajakabababababababababababababajakcHabajakabababababababababababababafagabababababababajakabababajak
+aaafagababababababababababababafagabababababababababababababababababababababababababababababababababababababababababababababababajakabababadaeababababababababab
+aaajakabababababababadaeabababajakabababababababadaeababababababababababababababababababababababababababayabababadaeabababadaeababababababafagabababababadaeabaa
+aaabababababababababahaiababababababababababababahaiababababababababababababababababababababababababababababababafagabababahaiababababababajakabababababafagabaa
+aaabababababadaeababafagababababababababadaeababafagabababababababababadaeabababababababababababababadaeababababajakabababafagabababababababababababababajakabaa
+aaabadaeababafagababajakababababadaeababafagababajakabababababababababafagabababababababababadaeababafagabababababababababajakabababababababababadaeabababababaa
+aaabahaiababajakababababababababahaiababajakabababababababababababababajakabababababababababahaiababajakababababababababababababababadaeababababafagabababababaa
+aaabafagababababababababababababafagababababababababababababababababababababababadaeababababafagabababababababadaeabadaeababababababafagababababajakabababababaa
+aaabajakababababababababababababajakababababadaeabababababababababababababadaeabahaiababababdUakabababababababahaiabafagababababababajakabababababababababadaeaa
+aaabababababababababababababababababababababafagabababababababababababababafagabafagabababababababababababababafagabajakabababababababababababababababababafagaa
+aaabababababababababababababababdVabadaeababajakabababababababababababababajakabajakababababababadaeabababababajakabababababababababababadaeabababababababajakaa
+adaeababababababcHcHcHdWababababababafagabababababababababadaeabababababababababababababababababafagababababababababababababababababababafagabababababababababaa
+ahaiababababababcHababcHababababababajakabababababababababahaiabababababababababababababababababajakababababababababababababababababababajakabababababababababaa
+afagabaFababababcHababcHabababababababababababababaFabababafagababababababababababababababababababababamabababababababababababababababababababababababababababaa
+ajakabababadaeabdWcHcHdWabababababababadaeababababababababajakabababadaeabababababababababababababadaeababababababababababababababababababadaeababababababababaa
+abababababafagababababababababababababafagabababababadaeababadaeababafagabababababadaeababadaeababafagabababababadaeabababababababadaeababafagabababababadaeabaa
+aaababababajakababababababababababababajakabadaeababafagababahaiababajakabababababafagababahaiababajakabadaeababafagabababababababahaiababajakabababababafagabaa
+aaabababababababababababababababababababababahaiababajakababafagabababababababababajakababafagabababababahaiababajakabababababababafagabababababababababajakabaa
+aaababababdXababababababababababababababababafagababababababajakabababababababababababababajakaFababababafagabababababababababababajakababababababababababababaa
+aaabababababababababababababadaeababababababajakababababababababababababababababababababababababababababajakababababababadaeabababababababababababababacabababaa
+aaababababababababababdYababafagababababababababababababababababababababababababababababababababababababababababababababafagabababababababababababababababababaa
+aaababababadaeabababababababajakabababadaeabababababababababababababadaeabababababababababababababadaeabababababababababajakabababababababadaeababababababababaa
+aaadaeababafagabababababadaeabababababafagabababababababababadaeababafagabababababadaeababababababafagabababababadaeabababadaeababababababafagabababababadaeabaa
+aaahaiababajakabababababafagabababababajakabadaeababababababahaiababajakabadaeababafagababababababajdZabadaeababafagabababahaiababababababajakabadaeababafagabaa
+aaafagabababababababababajakababababababababahaiababababababafagabababababahaiababajakabababababababababahaiababajakabababafagabababababababababahaiababajakabaa
+aaajakabababababababababababababababababababafagababababababajakabababababafagababababababababababababamafagabababababababajakabababababababababafagabababababaa
+aaabababababababababababababababababababababajakabababababababababababababajakabababababababababababababajakababababababababababababababababababeaakabababababaa
+"}

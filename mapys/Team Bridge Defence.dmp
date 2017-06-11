@@ -1,0 +1,151 @@
+"aa" = (/turf,/area/Blackness)
+"ab" = (/turf/Walls/W_Density_Opacity/Wall_2,/area/Blackness)
+"ac" = (/turf/Ground/Grass,/area/Blackness)
+"ad" = (/obj/Zombie_Spawn,/turf/Ground/Grass,/area/Lights_Darkness/darkest)
+"ae" = (/turf/Ground/Grass,/area/Lights_Darkness/darkest)
+"af" = (/turf/Ground/Grass,/area/Lights_Darkness/darker)
+"ag" = (/turf/Ground/Grass,/area/Lights_Darkness/dark)
+"ah" = (/turf/Ground/Grass,/area)
+"ai" = (/turf/Walls/W_Density_Opacity/Wall_2,/area)
+"aj" = (/turf/Ground/Water,/area)
+"ak" = (/turf/Walls/W_Density_No_Opacity/Wall_4,/area)
+"al" = (/turf/Ground/Grass{density = 1},/area)
+"am" = (/obj/obj_spawners/weapon,/obj/Attackable/Pushable_Obj/Pushable/GarbageBox,/obj/obj_spawners/weapon,/turf/Ground/SideWalk,/area/Lights_Darkness/dark)
+"an" = (/obj/Attackable/Pushable_Obj/Pushable/GarbageBox2,/obj/obj_spawners/item,/turf/Ground/SideWalk,/area/Lights_Darkness/dark)
+"ao" = (/turf/Ground/SideWalk,/area/Lights_Darkness/dark)
+"ap" = (/turf/Ground/SideWalk,/turf/Ground/Grass/Grass_Edges/Edge_3,/area/Blackness)
+"aq" = (/turf/Ground/SideWalk,/turf/Ground/Grass/Grass_Edges/Edge_3,/area/Lights_Darkness/darkest)
+"ar" = (/turf/Ground/SideWalk,/obj/Zombie_Spawn,/turf/Ground/Grass/Grass_Edges/Edge_3,/area/Lights_Darkness/darkest)
+"as" = (/turf/Ground/SideWalk,/turf/Ground/Grass/Grass_Edges/Edge_3,/area/Lights_Darkness/darker)
+"at" = (/turf/Ground/SideWalk,/turf/Ground/Grass/Grass_Edges/Edge_3,/area/Lights_Darkness/dark)
+"au" = (/turf/Ground/SideWalk,/turf/Ground/Grass/Grass_Edges/Edge_3,/area)
+"av" = (/turf/Ground/SideWalk,/area/Block_Team)
+"aw" = (/turf/Ground/Road_2,/turf/Ground/SideWalk/Cut_Side_Walks/Side_Walk_2,/area/Lights_Darkness/dark)
+"ax" = (/turf/Ground/Road_2,/area)
+"ay" = (/turf/Ground/Road_2,/turf/Ground/SideWalk/Cut_Side_Walks/Side_Walk_1,/area)
+"az" = (/turf/Ground/SideWalk,/area)
+"aA" = (/turf/Ground/Road_2,/area/Blackness)
+"aB" = (/obj/Zombie_Spawn,/turf/Ground/Road_2,/area/Lights_Darkness/darkest)
+"aC" = (/turf/Ground/Road_2,/area/Lights_Darkness/darkest)
+"aD" = (/turf/Ground/Road_2,/area/Lights_Darkness/darker)
+"aE" = (/turf/Ground/Road_2,/area/Lights_Darkness/dark)
+"aF" = (/turf/Ground/Road_2,/area/Block_Team)
+"aG" = (/obj/Attackable/Pushable_Obj/Destroyable/Barricade2,/turf/Ground/Road_2,/area)
+"aH" = (/mob/player/NPC/Obj/MANNED_TURRET/MAN_1{tag = "icon-Manturret (WEST)"; icon_state = "Manturret"; dir = 8},/turf/Ground/Road_2,/area)
+"aI" = (/turf/Ground/Road_2,/turf/Objects/Junk/Paper,/area)
+"aJ" = (/obj/Attackable/Pushable_Obj/Destroyable/Barricade2,/obj/obj_spawners/item,/turf/Ground/Road_2,/area)
+"aK" = (/mob/player/NPC/Obj/sentry_turret,/turf/Ground/Road_2,/area)
+"aL" = (/turf/Ground/Road_2,/turf/Locations/Mayham_Start,/area)
+"aM" = (/mob/player/NPC/Mob/UCM{tag = "icon-normal (WEST)"; dir = 8},/turf/Ground/Road_2,/area)
+"aN" = (/turf/Ground/Road_2,/turf/Ground/Withe_Line,/area/Lights_Darkness/darkest)
+"aO" = (/turf/Ground/Road_2,/turf/Ground/Withe_Line,/area/Lights_Darkness/darker)
+"aP" = (/turf/Ground/Road_2,/turf/Ground/Withe_Line,/area/Lights_Darkness/dark)
+"aQ" = (/turf/Ground/Road_2,/turf/Ground/Withe_Line,/area)
+"aR" = (/turf/Ground/Road_2,/turf/Locations/Blue,/area)
+"aS" = (/turf/Ground/Road_2,/turf/Ground/Withe_Line,/turf/Locations/Mayham_Start,/area)
+"aT" = (/turf/Ground/Road_2,/turf/Ground/DRoad,/area)
+"aU" = (/obj/Pickup/Items/gastanker,/turf/Ground/Road_2,/area/Lights_Darkness/darker)
+"aV" = (/turf/Ground/Road_2,/turf/Objects/Junk/Paper2,/area)
+"aW" = (/turf/Ground/SideWalk,/turf/Ground/Grass/Grass_Edges/Edge_4,/area/Blackness)
+"aX" = (/turf/Ground/SideWalk,/turf/Ground/Grass/Grass_Edges/Edge_4,/area/Lights_Darkness/darkest)
+"aY" = (/turf/Ground/SideWalk,/obj/Zombie_Spawn,/turf/Ground/Grass/Grass_Edges/Edge_4,/area/Lights_Darkness/darkest)
+"aZ" = (/turf/Ground/SideWalk,/turf/Ground/Grass/Grass_Edges/Edge_4,/area/Lights_Darkness/darker)
+"ba" = (/turf/Ground/SideWalk,/turf/Ground/Grass/Grass_Edges/Edge_4,/area/Lights_Darkness/dark)
+"bb" = (/turf/Ground/SideWalk,/obj/Pickup/Items/gastanker,/turf/Ground/Grass/Grass_Edges/Edge_4,/area/Lights_Darkness/dark)
+"bc" = (/turf/Ground/SideWalk,/turf/Ground/Grass/Grass_Edges/Edge_4,/area)
+"bd" = (/turf/Walls/W_Density_Opacity/Wall_2,/area/Block_Team)
+"be" = (/turf/Ground/Road_2,/turf/Ground/SideWalk/Cut_Side_Walks/Side_Walk_4,/area)
+"bf" = (/obj/Attackable/Destructable_Obj/Chainlink_Fence,/turf/Ground/Grass,/area/Lights_Darkness/dark)
+"bg" = (/obj/Attackable/Destructable_Obj/Chainlink_Fence,/turf/Ground/Grass,/area)
+"bh" = (/turf/Ground/Water,/area/Lights_Darkness/darker)
+"bi" = (/turf/Walls/W_Density_Opacity/Wall_2,/area/Lights_Darkness/darker)
+"bj" = (/turf/Walls/W_Density_Opacity/Wall_2,/area/Lights_Darkness/dark)
+"bk" = (/turf,/area)
+"bl" = (/turf/Walls/W_Density_Opacity/Wall_3,/area/Block_Team)
+"bm" = (/turf/Ground/Water,/area/Block_Team)
+"bn" = (/obj/Pickup/Items/Ammo_Heavy_Handgun,/turf/Objects/House_Props/Shelfs/BlackShelf,/area/Block_Team)
+"bo" = (/obj/Pickup/Items/TCure,/obj/Pickup/Items/Grenade,/turf/Objects/House_Props/Shelfs/BlackShelf,/area/Block_Team)
+"bp" = (/obj/Pickup/Items/Ammo_Heavy_Machinegun,/obj/Pickup/Items/Ammo_Heavy_Machinegun,/obj/Pickup/Items/Ammo_Heavy_Machinegun,/turf/Objects/House_Props/Shelfs/BlackShelf,/area/Block_Team)
+"bq" = (/obj/Pickup/Guns/AUG,/turf/Objects/House_Props/Shelfs/BlackShelf,/area/Block_Team)
+"br" = (/turf/Ground/Grass,/area/Block_Team)
+"bs" = (/obj/Pickup/Items/gastanker,/obj/Pickup/Items/gastanker,/turf/Ground/Grass,/area/Block_Team)
+"bt" = (/obj/Pickup/Items/Ammo_Shotgun,/turf/Objects/House_Props/Shelfs/BlackShelf,/area/Block_Team)
+"bu" = (/obj/Pickup/Guns/Magnum,/turf/Objects/House_Props/Shelfs/BlackShelf,/area/Block_Team)
+"bv" = (/obj/Pickup/Items/Spray,/turf/Objects/House_Props/Shelfs/BlackShelf,/area/Block_Team)
+"bw" = (/turf,/area/Block_Team)
+"bx" = (/turf/Ground/Dirt,/turf/Ground/Grass/Grass_Edges/Edge_3,/area/Blackness)
+"by" = (/turf/Ground/Dirt,/obj/Zombie_Spawn,/turf/Ground/Grass/Grass_Edges/Edge_3,/area/Lights_Darkness/darkest)
+"bz" = (/turf/Ground/Dirt,/turf/Ground/Grass/Grass_Edges/Edge_3,/area/Lights_Darkness/darkest)
+"bA" = (/turf/Ground/Dirt,/turf/Ground/Grass/Grass_Edges/Edge_3,/area/Lights_Darkness/darker)
+"bB" = (/turf/Ground/Dirt,/turf/Ground/Grass/Grass_Edges/Edge_3,/area/Lights_Darkness/dark)
+"bC" = (/turf/Ground/Dirt,/turf/Ground/Grass/Grass_Edges/Edge_3,/area)
+"bD" = (/turf/Walls/W_Density_Opacity/Wall_3,/area)
+"bE" = (/obj/Pickup/Items/Ammo_Heavy_Handgun,/turf/Objects/House_Props/Shelfs/Shelf,/area/Block_Team)
+"bF" = (/obj/Pickup/Items/TCure,/obj/Pickup/Items/Grenade,/turf/Objects/House_Props/Shelfs/Shelf,/area/Block_Team)
+"bG" = (/obj/Pickup/Items/Ammo_Heavy_Machinegun,/obj/Pickup/Items/Ammo_Heavy_Machinegun,/obj/Pickup/Items/Ammo_Heavy_Machinegun,/obj/Pickup/Items/Ammo_Heavy_Machinegun,/turf/Objects/House_Props/Shelfs/Shelf,/area/Block_Team)
+"bH" = (/obj/Pickup/Guns/AUG,/turf/Objects/House_Props/Shelfs/Shelf,/area/Block_Team)
+"bI" = (/turf/Ground/Dirt,/area/Block_Team)
+"bJ" = (/obj/Pickup/Items/gastanker,/obj/Pickup/Items/gastanker,/obj/Pickup/Items/gastanker,/turf/Ground/Dirt,/area/Block_Team)
+"bK" = (/obj/Pickup/Items/Ammo_Shotgun,/obj/Pickup/Items/Ammo_Shotgun,/turf/Objects/House_Props/Shelfs/Shelf,/area/Block_Team)
+"bL" = (/obj/Pickup/Guns/Magnum,/turf/Objects/House_Props/Shelfs/Shelf,/area/Block_Team)
+"bM" = (/obj/Pickup/Items/Spray,/turf/Objects/House_Props/Shelfs/Shelf,/area/Block_Team)
+"bN" = (/turf/Ground/Dirt,/area/Blackness)
+"bO" = (/turf/Ground/Dirt,/area/Lights_Darkness/darkest)
+"bP" = (/obj/Zombie_Spawn,/turf/Ground/Dirt,/area/Lights_Darkness/darkest)
+"bQ" = (/turf/Ground/Dirt,/area/Lights_Darkness/darker)
+"bR" = (/turf/Ground/Dirt,/area/Lights_Darkness/dark)
+"bS" = (/turf/Ground/Dirt,/area)
+"bT" = (/turf/Walls/W_Density_No_Opacity/Wall_6,/area)
+"bU" = (/turf/Walls/W_Density_No_Opacity/Wall_6,/area/Block_Team)
+"bV" = (/obj/Attackable/Destructable_Obj/Chainlink_Fence,/turf/Ground/Dirt,/area/Lights_Darkness/dark)
+"bW" = (/obj/Attackable/Destructable_Obj/Chainlink_Fence,/turf/Ground/Dirt,/area)
+"bX" = (/turf/Ground/SideWalk,/area/Blackness)
+"bY" = (/turf/Ground/SideWalk,/area/Lights_Darkness/darkest)
+"bZ" = (/obj/Zombie_Spawn,/turf/Ground/SideWalk,/area/Lights_Darkness/darkest)
+"ca" = (/turf/Ground/SideWalk,/area/Lights_Darkness/darker)
+"cb" = (/mob/player/NPC/Obj/MANNED_TURRET/MAN_1{tag = "icon-Manturret (WEST)"; icon_state = "Manturret"; dir = 8},/mob/player/NPC/Obj/MANNED_TURRET/MAN_1{tag = "icon-Manturret (WEST)"; icon_state = "Manturret"; dir = 8},/turf/Ground/Road_2,/area)
+"cc" = (/turf/Ground/Road_2,/turf/Locations/Red,/area)
+"cd" = (/obj/Pickup/Items/gastanker,/turf/Ground/Road_2,/area/Lights_Darkness/dark)
+"ce" = (/turf/Walls/W_Density_Opacity/Wall_3,/area/Lights_Darkness/dark)
+"cf" = (/turf/Ground/Water,/area/Lights_Darkness/dark)
+"cg" = (/turf/Walls/W_Density_Opacity/Wall_3,/area/Lights_Darkness/darker)
+"ch" = (/turf/Ground/Water,/turf/Ground/Grass/Grass_Edges/Edge_3,/area/Lights_Darkness/dark)
+"ci" = (/turf/Ground/Water,/turf/Ground/Grass/Grass_Edges/Edge_3,/area)
+"cj" = (/turf/Walls/W_Density_Opacity/Wall_3,/area/Blackness)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+acadadaeaeaeaeaeaeaeafafafafafafafafagagagagagagagagagagahahahahahahahaiaiajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajaa
+acadaeaeaeaeaeaeaeaeafafafafafafafafagagagagagagagagagagahahahahahahahaiaiajajajajajajajajajajajajajajajajajajajajaiaiaiaiaiaiaiaiaiaiaiaiaiajajajajajajajajajajajajajajajajajajajajajajajajajajajajajaa
+acaeadaeaeaeaeaeaeaeafafafafafafafafagagagagagagagagagagahahahahahahahaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiakakakakakakakakakakakaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiajajajajajajajajajaa
+acadaeaeaeaeaeaeaeaeafafafafafafafafagagagagagagagagagagahahahahahahalakakakakakakakakakakakakakakakakakakakakakakakamanaoaoaoaoaoaoaoaoaoakakakakakakakakakakakakakakakakakakakakakagahahahahahahahahaa
+apaqaraqaqaqaqaqaqaqasasasasasasasasatatatatatatatatatatauauauauauauauavaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoawaxaxaxaxaxaxaxaxaxayazaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoazazazazazazazazaa
+aAaBaCaCaCaCaCaCaCaCaDaDaDaDaDaDaDaDaEaEaEaEaEaEaEaEaEaEaxaxaxaxaxaxaxaFaxaxaGaxaxaxaHaIaxaxaxaxaxaxaxaxaxaxaxaxaJaxaKaxaLaxaxaIaxaxaxaxaxaxaGaxaIaxaxaxaxaxaxaxaxaIaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaa
+aAaCaBaCaCaCaCaCaCaCaDaDaDaDaDaDaDaDaEaEaEaEaEaEaEaEaEaEaxaxaxaxaxaxaxaFaxaGaxaMaxaxaxaxaxaxaLaxaxaxaxaxaxaxaxaGaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaLaxaxaxaxaxaxaxaxaLaxaxaxaxaxaxaxaxaxaxaxaxaxaxaa
+aAaBaCaCaCaCaCaCaCaCaDaDaDaDaDaDaDaDaEaEaEaEaEaEaEaEaEaEaxaxaxaxaxaxaxaFaxaxaGaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaGaxaMaxaxaxaxaxaxaxaxaxaxaxaGaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaa
+aAaNaBaNaCaNaCaNaCaNaDaOaDaOaDaOaDaOaEaPaEaPaEaEaPaEaPaEaQaxaQaxaQaxaQaFaQaGaQaxaQaxaQaxaQaxaQaxaQaxaQaxaQaxaQaGaQaxaQaxaQaRaSaLaQaxaQaxaQaxaQaQaxaQaxaQaxaQaxaQaQaxaQaxaQaxaQaxaQaxaQaxaQaxaQaxaQaxaQaa
+aAaBaCaCaCaCaCaCaCaCaDaDaDaDaDaDaDaDaEaEaEaEaEaEaEaEaEaEaxaxaxaxaxaxaxaFaxaxaGaxaxaTaxaxaxaxaxaxaxaxaxaxaxaxaxaxaGaxaxaxaxaxaxaxaxaxaxaxaxaxaGaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaa
+aAaCaBaCaCaCaCaCaCaCaDaDaDaUaDaDaDaDaEaEaEaEaEaEaEaEaEaEaxaxaxaxaxaxaxaFaxaGaxaMaxaxaxaxaxaxaxaxaxaxaIaxaLaxaxaGaxaxaxaxaxaxaxaxaxaxaxaxaVaxaxaxaxaxaxaxaxaxaxaIaxaxaxaxaxaxaxaxaIaxaxaxaxaxaxaxaxaxaxaa
+aAaBaCaCaCaCaCaCaCaCaDaDaDaDaDaDaDaDaEaEaEaEaEaEaEaEaEaEaxaxaxaxaxaxaxaFaxaxaGaxaxaxaHaxaxaxaxaxaxaxaxaxaxaxaxaxaGaMaKaxaxaxaxaxaxaLaxaxaxaxaGaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaa
+aWaXaYaXaXaXaXaXaXaXaZaZaZaZaZaZaZaZbabababababababbbababcbcbcbcbcbcbcbdaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaxaxaxaxaxaxaxaxaxbeaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiazazazazazazazazazaa
+acadaeaeaeaeaeaeaeaeafafafafafafafafagagagagagagagagagagahahahahahahahbdaiakakakakakakakakakakakakakakakakakakakakakaiaiaiaiaiaiaiaiaiaiaiaiakakakakakakakakakakakakakakakakakakaiaibfbgbgbgbgbgbgbgbgaa
+acaeadaeaeaeaeaeaeaeafafafafafafafafagagagagagagagagagagahahahahahahahbdaibhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhakakakakakakakakakakakakbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbibjagahahahahahahahahbk
+acadaeaeaeaeaeaeaeaeafafafafafafafafagagagagagagagagagagahahahahahahahblblbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmblblbnbobpbqbrbsbtbubvbw
+bxbybzbzbzbzbzbzbzbzbAbAbAbAbAbAbAbAbBbBbBbBbBbBbBbBbBbBbCbCbCbCbCbCbCblbDajajajajajajajajajajajajajajajajajajajajbDbDbDbDbDbDbDbDbDbDbDbDbDajajajajajajajajajajajajajajajajajajblblbEbFbGbHbIbJbKbLbMbk
+bNbObPbObObObObObObObQbQbQbQbQbQbQbQbRbRbRbRbRbRbRbRbRbRbSbSbSbSbSbSbSblbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbTbTbTbTbTbTbTbTbTbTbTbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbSbSbSbSbSbSbSbSbSaa
+bNbPbObObObObObObObObQbQbQbQbQbQbQbQbRbRbRbRbRbRbRbRbRbRbSbSbSbSbSbSbSbUbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTamanaoaoaoaoaoaoaoaoaobTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbVbWbWbWbWbWbWbWbWaa
+bXbYbZbYbYbYbYbYbYbYcacacacacacacacaaoaoaoaoaoaoaoaoaoaoazazazazazazazavaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoawaxaxaxaxaxaxaxaxaxayazaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoazazazazazazazazaa
+aAaBaCaCaCaCaCaCaCaCaDaDaDaDaDaDaDaDaEaEaEaEaEaEaEaEaEaEaxaxaxaxaxaxaxaFaxaxaGaxaxaxcbaIaxaxaxaxaxaxaxaxaxaxaxaxaJaxaKaxaLaxaxaIaxaxaxaxaxaxaGaxaIaxaxaxaxaxaxaxaxaIaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaa
+aAaCaBaCaCaCaCaCaCaCaDaDaDaDaUaDaDaDaEaEaEaEaEaEaEaEaEaEaxaxaxaxaxaxaxaFaxaGaxaMaxaxaxaxaxaxaLaxaxaxaxaxaxaxaxaGaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaLaxaxaxaxaxaxaxaxaLaxaxaxaxaxaxaxaxaxaxaxaxaxaxaa
+aAaBaCaCaCaCaCaCaCaCaDaDaDaDaDaDaDaDaEaEaEaEaEaEaEaEaEaEaxaxaxaxaxaxaxaFaxaxaGaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaGaxaxaxaxaxaxaxaxaxaxaxaxaxaGaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaa
+aAaNaBaNaCaNaCaNaCaNaDaOaDaOaDaOaDaOaEaPaEaPaEaEaPaEaPaEaQaxaQaxaQaxaQaFaQaGaQaxaQaxaQaxaQaxaQaxaQaxaQaxaQaxaQaGaQaxaQaxaQccaSaLaQaxaQaxaQaxaQaQaxaQaxaQaxaQaxaQaQaxaQaxaQaxaQaxaQaxaQaxaQaxaQaxaQaxaQaa
+aAaBaCaCaCaCaCaCaCaCaDaDaDaDaDaDaDaDaEaEaEaEaEaEaEaEaEaEaxaxaxaxaxaxaxaFaxaxaGaxaxaTaxaxaxaxaxaxaxaxaxaxaxaxaxaxaGaxaxaxaxaxaxaxaxaxaxaxaxaxaGaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaa
+aAaCaBaCaCaCaCaCaCaCaDaDaDaDaDaDaDaDaEcdaEaEaEaEaEaEaEaEaxaxaxaxaxaxaxaFaxaGaxaMaxaxaxaxaxaxaxaxaxaxaIaxaLaxaxaGaxaxaKaxaxaxaxaxaxaxaxaxaVaxaxaxaxaxaxaxaxaxaxaIaxaxaxaxaxaxaxaxaIaxaxaxaxaxaxaxaxaxaxaa
+aAaBaCaCaCaCaCaCaCaCaDaDaDaDaDaDaDaDaEaEaEaEaEaEaEaEaEaEaxaxaxaxaxaxaxaFaxaxaGaxaxaxcbaxaxaxaxaxaxaxaxaxaxaxaxaxaGaxaxaxaxaxaxaxaxaLaxaxaxaxaGaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaxaa
+bXbYbZbYbYbYbYbYbYbYcacacacacacacacaaoaoaoaoaoaoaoaoaoaoazazazazazazazbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDaxaxaxaxaxaxaxaxaxbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDazazazazazazazazazaa
+bNbPbObObObObObObObObQbQbQbQbQbQbQbQbRbRbRbRbRbRbRbRbRbRbSbSbSbSbSbSbSbDbDbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbDbDbDbDbDbDbDbDbDbDbDbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbTbDbDbRbSbSbSbSbSbSbSbSaa
+bNbObPbObObObObObObObQbQbQbQbQbQbQbQbRbRbRbRbRbRbRbRbRbRbSbSbSbSbSbSbSbDcecfcfcfcfbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbTbTbTbTbTbTbTbTbTbTbTbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhcgcechciciciciciciciciaa
+bNbPbObObObObObObObObQbQbQbQbQbQbQbQbRbRbRbRbRbRbRbRbRbRbSbSbSbSbSbSbSbDbDajajajajajajajajajajajajajajajajajajajajajbhbhbhbhbhbhbhbhbhbhbhbhajajajajajajajajajajajajajajajajajajbDbDajajajajajajajajajaa
+bNbObPbObObObObObObObQbQbQbQbQbQbQbQbRbRbRbRbRbRbRbRbRbRbSbSbSbSbSbSbSbDbDajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajbDbDajajajajajajajajajaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacjcjaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacjcjaaaaaaaaaaaaaaaaaaaa
+"}
